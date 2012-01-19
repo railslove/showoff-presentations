@@ -1,0 +1,72 @@
+Rails i18n & WTI
+i18n strings
+2 Components:
+the actual text in each locale
+e.g. “Awesome website claim”
+a common locale independent identifier
+e.g. “homepage.claim”
+en.yml
+en:
+homepage:
+claim: “Awesome website claim”
+some_other_page:
+foo: “bar”
+Usage
+In views:
+=t(“homepage.claim”)
+
+Sometimes also in models (e.g. custom validation error messages):
+I18n.t(“posts.error_messages.custom_message”) 
+defaults
+http://github.com/sven-fuchs/rails-i18n/…
+Contents:
+datetime.time_in_words.x_days
+...
+Interpolation variables
+en:
+homepage:
+salutation: “Hello %{user_name}”
+
+=t(“homepage.salutation”, :user_name => @user.name)
+Problems
+Designing for variable string length
+Deployment dependencies
+Testing
+Translator fuckups (interpolation variables, ...)
+String formatting (bold, paragraphs, links, …)
+String & translator management => WTI
+String version controll (wti push)
+Defining string identifiers
+reusable/DRY/efficient + complex/hard to understand/easy to break
+
+vs.
+
+specific/robust/easy to make small changes + too many strings/hard to make bigger changes
+WTI
+Pros:
+Translators don't need any “programming”
+User management
+Translation workflow (proofreading)
+Discussions !!!
+WTI best practices
+Use “non-linguistic” locale for programming
+Try to use web frontend in favor of “wti push”
+Because no merge functionality
+
+
+Advanced topics
+Pluralization & Rules
+en.datetime.time_in_words.x_days:
+one: “%{count} day”
+other: “%{count} days”
+
+Russian
+i18n_viz gem
+
+
+
+
+Resources:
+https://github.com/svenfuchs/rails-i18n
+https://github.com/svenfuchs/i18n
+http://ruby-i18n.org/wiki

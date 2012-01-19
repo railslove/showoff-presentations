@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700);
+
+/* ----- CODE ----- */
+
+pre.sh_sourceCode, code {
+  background-color: #DDDDDD;
+  font-size: 24px;
+  border-radius: 5px;
+}
+pre.sh_sourceCode {
+  border: 1px solid gray;
+  line-height: 135%;
+  padding: .5em;
+}
+code {
+  padding: 0.1em 0.5em;
+}
+pre.sh_sourceCode code {
+  padding: 0;
+}
+
+
+.content > ul, .content ol {
+  font-size: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+li {
+  line-height: 130%;
+  padding-top: 0px;
+}
+
+.content > ul > li {
+  margin-left: 0px;
+  padding-top: 0px;
+}
+small {
+  font-size: .5em;
+}
+
+h1 {
+  font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 64px;
+}
+
+p, li {
+  font-size: 32px;
+  -moz-hyphens: auto;
+  color: #444444;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.003em;
+  line-height: 1.45em;
+  margin-bottom: 20px;
+  text-align: justify;
+  word-spacing: 0.08em;
+}
+
+#preso .slide {
+  background-image: url(railslove-logo-175x42.png);
+  background-repeat: no-repeat;
+  background-position: 843px 696px;
+}
+
+blockquote p {
+  font-family: Georgia, serif;
+}

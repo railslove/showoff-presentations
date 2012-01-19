@@ -1,0 +1,9 @@
+{
+  "name": "SASS and Compass",
+  "sections": [
+    {"section": "intro"},
+    {"section": "sass"},
+    {"section": "compass"},
+    {"section": "best_practices"}
+  ]
+}

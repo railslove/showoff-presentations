@@ -1,0 +1,25 @@
+pre.sh_sourceCode {
+  border: 1px solid gray;
+  background-color: silver;
+  font-size: 200%;
+  line-height: 135%;
+}
+
+code {
+  background-color: silver;
+}
+
+.content > ul, .content ol {
+  font-size: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+li {
+  line-height: 150%;
+  padding-left: 20px;
+}
+
+small {
+  font-size: .5em;
+}
