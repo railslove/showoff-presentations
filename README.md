@@ -2,7 +2,7 @@ This is a repository with Railslove presentations created using [showoff](https:
 
 ### How to create a new presentation
 
-First you need to install showoff and all it's depencies.
+First you need to install showoff and all its depencies.
 
 Then you run `showoff create presentationname` within the showoff-presentations directory.
 
