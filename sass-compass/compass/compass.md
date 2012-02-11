@@ -4,7 +4,7 @@
 > Compass is a Stylesheet Distribution Framework,
 > that is Project Aware, 
 > and has a bunch of Core Mixins  
-> <cite>--losely based on Chris Eppstein</cite>
+> <cite>--loosely based on Chris Eppstein</cite>
 
 [http://chriseppstein.github.com/blog/2009/09/30/what-is-compass/](http://chriseppstein.github.com/blog/2009/09/30/what-is-compass/)
 
