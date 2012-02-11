@@ -8,7 +8,7 @@
 * Background in Human-Computer Interaction & Information Science
 * Discovered Rails & Ruby in 2007
 * Frontend Developer [@railslove](http://twitter.com/railslove) since 2010
-* Old enough to have build websites with no real CSS support ;)
+* Old enough to have built websites with no real CSS support ;)
 
 
 !SLIDE bullets incremental
@@ -33,7 +33,7 @@
 
 * difficult to sensibly structure files/code (-> multiple HTTP requests)
 * lack of tools for code reuse (variables, functions, ...)
-* low priortiy ("it's just CSS")
+* low priority ("it's just CSS")
 * high hurdles (x-browser compatibility, selector performance)
 * incompatible approaches:  
 computer science **vs.** design thinking  

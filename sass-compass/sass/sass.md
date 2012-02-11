@@ -1,7 +1,7 @@
 !SLIDE
 # What is SASS? #
 
-> Sass is a meta-language on top of CSS thats used to describe the style of a document cleanly and structurally, with more power than flat CSS allows.  
+> Sass is a meta-language on top of CSS that's used to describe the style of a document cleanly and structurally, with more power than flat CSS allows.  
 > <cite>--Hampton Catlin</cite>
 
 
