@@ -49,7 +49,7 @@ p, li {
   -moz-hyphens: auto;
   color: #444444;
   font-family: Lato, Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: -0.003em;
   line-height: 1.45em;
   margin-bottom: 20px;
@@ -65,4 +65,9 @@ p, li {
 
 blockquote p {
   font-family: Georgia, serif;
+}
+
+#footer {
+  background: none;
+  color: #999;
 }
