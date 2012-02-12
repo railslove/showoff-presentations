@@ -1,0 +1,96 @@
+!SLIDE
+Rails Asset Pipeline
+====================
+
+
+!SLIDE bullets incremental
+Uses Sprockets to
+=================
+1. concatenate assets
+2. minify assets
+3. compile SASS/SCSS and CoffeeScript
+
+
+!SLIDE bullets incremental
+-vs- :cache => true
+===================
+* :cache couldn't create caches in advance
+* AP inserts an MD5 fingerprint into the filename instead of :cache's query strings
+
+
+!SLIDE bullets incremental
+Folder Structure
+================
+* /app/assets
+  - your app's assets
+* /vendor/assets
+  - external libraries
+* /lib/assets
+  - your own libraries
+
+
+!SLIDE bullets incremental
+Manifest Files
+==============
+* define what files are bundled up and in what order
+* app/assets/styleheets/application.css(.sass/.scss)
+* app/assets/javascript/application.js(.coffee)
+* 
+* must be included in layout with the usual stylesheet\_link\_tag or javascript\_include\_tag
+
+
+!SLIDE bullets incremental
+Requires
+========
+* \#= require jquery
+* //= require_directory global
+* //= require_tree
+* //= require_self
+* 
+* Compass: use @import
+* process single file with AP:
+  config.assets.precompile += %w(ie.css)
+
+
+!SLIDE
+Paths & URL Helpers
+===================
+* SASS: image-url('logo.png') -> '/assets/logo.png'
+* Views: image_tag 'logo.png'
+
+
+!SLIDE
+Limitations
+===========
+* does not support IE conditionals (\<!--[if lt IE 9]\>)
+
+!SLIDE
+Production -vs- Development Mode
+================================
+    @@@ Ruby
+    config.assets.compress = true # (false in development)
+    config.assets.debug = false # (true in development)
+    
+    # Don't fall back to assets pipeline if a
+    # precompiled asset is missing
+    config.assets.compile = false # (true in development)
+
+
+!SLIDE bullets incremental
+On Heroku
+=========
+* use Cedar stack
+* 3 options:
+  1. Compile assets locally
+  2. Compile assets during slug compilation
+  3. Compiling assets during runtime
+* no access to initialiser variables during 2.
+* e.g. active_admin needs sass-rails outside the Gemfile's :assets group
+
+
+!SLIDE
+Further Reading
+===============
+
+* [Rails Guides: Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
+* [David Heinemeier Hansson @ RailsConf 2011](http://www.youtube.com/watch?v=cGdCI2HhfAU)
