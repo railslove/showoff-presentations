@@ -3,7 +3,7 @@ Rails Asset Pipeline
 ====================
 
 
-!SLIDE bullets incremental
+!SLIDE
 Uses Sprockets to
 =================
 1. concatenate assets
@@ -37,20 +37,18 @@ Folder Structure
 Manifest Files
 ==============
 * define what files are bundled up and in what order
-* app/assets/styleheets/application.css(.sass/.scss)
-* app/assets/javascript/application.js(.coffee)
-* 
+* app/assets/stylesheets/application.css(.sass/.scss)<br>app/assets/javascript/application.js(.coffee)
 * must be included in layout with the usual stylesheet\_link\_tag or javascript\_include\_tag
 
 
 !SLIDE bullets incremental
 Requires
 ========
-* \#= require jquery
+* \#= require base
 * //= require_directory ../../../vendor/stylesheets/jQuery-UI
 * //= require_tree .
 * //= require_self
-* 
+<br><br>
 * Compass: use @import instead of //= require
 
 
@@ -61,7 +59,7 @@ Paths & URL Helpers
 * Views: image_tag 'logo.png'
 
 
-!SLIDE bullets incremental
+!SLIDE
 Limitations
 ===========
 
@@ -70,10 +68,11 @@ Limitations
     # to process a single file with the AP add this to production.rb:
     config.assets.precompile += %w(ie.css)
 * AP suggests to have same bundle of assets on all pages
+* cannot exclude assets (∄ //= dont_require)
+* Compass renders require_tree useless =(
 
 
-
-!SLIDE
+!SLIDE bullets incremental
 Production -vs- Development Mode
 ================================
     @@@ Ruby

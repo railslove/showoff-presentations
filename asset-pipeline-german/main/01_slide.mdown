@@ -1,0 +1,105 @@
+!SLIDE
+Rails Asset Pipeline
+====================
+### Kölsch.rb Edition
+
+!SLIDE
+Features
+========
+1. vereint Assets
+2. komprimiert assets
+3. kompiliert SASS/SCSS und CoffeeScript
+
+
+!SLIDE bullets incremental
+-vs- :cache => true
+===================
+* :cache kann nicht im Voraus cachen
+* AP komprimiert assets
+* AP benutzt MD5-Hash im Dateinamen<br>(statt ?-URL Parameter)
+
+
+!SLIDE bullets incremental
+Ordnerstruktur
+==============
+* /app/assets
+  - Assets Deiner App
+    + images
+    + stylesheets
+    + javascripts
+* /vendor/assets
+  - externe Libraries
+* /lib/assets
+  - Deine Libraries
+
+
+!SLIDE bullets incremental
+Manifest Files
+==============
+* legen fest welche Assets in welcher Reihenfolge vereint werden
+* app/assets/stylesheets/application.css(.sass/.scss)<br>app/assets/javascript/application.js(.coffee)
+* werden wie gewohnt ins Layout eingebunden (stylesheet\_link\_tag)
+
+
+!SLIDE bullets incremental
+Manifest Files: Requires
+========================
+* \#= require base
+* //= require_directory ../../../vendor/stylesheets/jQuery-UI
+* //= require_tree .
+* //= require_self
+<br><br>
+* Compass: @import benutzen =(
+
+
+!SLIDE
+Pfade & URL Helper
+==================
+* SASS: image-url('logo.png') -> '/assets/logo.png'
+* Views: image_tag 'logo.png'
+
+
+!SLIDE bullets incremental
+Beschränkungen
+==============
+
+    @@@ Ruby
+    # AP unterstützt kein \<!--[if lt IE 9]\>
+    # um einzelnes Asset über AP zu verarbeiten fügt man
+    # folgendes in production.rb:
+    config.assets.precompile += %w(ie.css)
+* AP verleitet dazu eine CSS/JS Datei appweit einzusetzen
+* man kann keine Assets ausschließen (∄ //= dont_require)
+* mit Compass wird require_tree nutzlos =(
+
+
+!SLIDE
+Production -vs- Development Mode
+================================
+    @@@ Ruby
+    config.assets.compress = true # (false in development)
+    config.assets.debug = false # (true in development)
+    
+    # ggf. Assets bei Aufruf kompilieren
+    config.assets.compile = false # (true in development)
+    # -> was in manifest file fehlt kann auf Production nicht gefunden werden
+
+
+!SLIDE bullets incremental
+Heroku
+======
+* Cedar stack benutzen
+* 3 Optionen:
+  1. Assets lokal vorm Deployment kompilieren
+  2. Heroku Assets beim Slugkompilieren erstellen lassen
+  3. Assets dynamisch bei Aufruf kompilieren
+* kein Zugriff auf Initialiservariablen während 2.
+* active_admin braucht sass-rails außerhalb der :assets Gruppe in der Gemfile
+
+
+!SLIDE
+Quellen
+=======
+
+* [Rails Guides: Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
+* [David Heinemeier Hansson @ RailsConf 2011](http://www.youtube.com/watch?v=cGdCI2HhfAU)
