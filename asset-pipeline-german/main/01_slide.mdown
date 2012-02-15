@@ -7,7 +7,7 @@ Rails Asset Pipeline
 Features
 ========
 1. vereint Assets
-2. komprimiert assets
+2. komprimiert Assets
 3. kompiliert SASS/SCSS und CoffeeScript
 
 
@@ -15,7 +15,7 @@ Features
 -vs- :cache => true
 ===================
 * :cache kann nicht im Voraus cachen
-* AP komprimiert assets
+* AP komprimiert Assets
 * AP benutzt MD5-Hash im Dateinamen<br>(statt ?-URL Parameter)
 
 
@@ -36,7 +36,12 @@ Ordnerstruktur
 !SLIDE bullets incremental
 Manifest Files
 ==============
-* legen fest welche Assets in welcher Reihenfolge vereint werden
+    @@@ Ruby
+    # application.js.coffee
+    #= require jquery.isotope
+    #= require_directory ../../../vendor/assets/javascripts/history_js
+    #= require_self
+* welche Assets & Reihenfolge
 * app/assets/stylesheets/application.css(.sass/.scss)<br>app/assets/javascript/application.js(.coffee)
 * werden wie gewohnt ins Layout eingebunden (stylesheet\_link\_tag)
 
@@ -53,8 +58,8 @@ Manifest Files: Requires
 
 
 !SLIDE
-Pfade & URL Helper
-==================
+Bildpfade
+=========
 * SASS: image-url('logo.png') -> '/assets/logo.png'
 * Views: image_tag 'logo.png'
 
@@ -64,7 +69,7 @@ Beschränkungen
 ==============
 
     @@@ Ruby
-    # AP unterstützt kein \<!--[if lt IE 9]\>
+    # AP unterstützt kein Browser Targeting <!--[if lt IE 9]>
     # um einzelnes Asset über AP zu verarbeiten fügt man
     # folgendes in production.rb:
     config.assets.precompile += %w(ie.css)
@@ -82,7 +87,8 @@ Production -vs- Development Mode
     
     # ggf. Assets bei Aufruf kompilieren
     config.assets.compile = false # (true in development)
-    # -> was in manifest file fehlt kann auf Production nicht gefunden werden
+    # !!! was in manifest file fehlt kann auf Production
+    # nicht gefunden werden
 
 
 !SLIDE bullets incremental
@@ -90,8 +96,8 @@ Heroku
 ======
 * Cedar stack benutzen
 * 3 Optionen:
-  1. Assets lokal vorm Deployment kompilieren
-  2. Heroku Assets beim Slugkompilieren erstellen lassen
+  1. Assets lokal vor Deployment kompilieren
+  2. Heroku Assets beim Slugkompilieren kompilieren lassen
   3. Assets dynamisch bei Aufruf kompilieren
 * kein Zugriff auf Initialiservariablen während 2.
 * active_admin braucht sass-rails außerhalb der :assets Gruppe in der Gemfile
@@ -103,3 +109,10 @@ Quellen
 
 * [Rails Guides: Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 * [David Heinemeier Hansson @ RailsConf 2011](http://www.youtube.com/watch?v=cGdCI2HhfAU)
+
+!SLIDE bullets
+Danke
+=====
+
+* paul@railslove.com
+* @wakkahari
