@@ -15,6 +15,7 @@ Uses Sprockets to
 -vs- :cache => true
 ===================
 * :cache couldn't create caches in advance
+* AP minifies assets
 * AP inserts an MD5 fingerprint into the filename instead of :cache's query strings
 
 
@@ -23,6 +24,9 @@ Folder Structure
 ================
 * /app/assets
   - your app's assets
+    + images
+    + stylesheets
+    + javascripts
 * /vendor/assets
   - external libraries
 * /lib/assets
@@ -43,13 +47,11 @@ Manifest Files
 Requires
 ========
 * \#= require jquery
-* //= require_directory global
-* //= require_tree
+* //= require_directory ../../../vendor/stylesheets/jQuery-UI
+* //= require_tree .
 * //= require_self
 * 
-* Compass: use @import
-* process single file with AP:
-  config.assets.precompile += %w(ie.css)
+* Compass: use @import instead of //= require
 
 
 !SLIDE
@@ -59,10 +61,17 @@ Paths & URL Helpers
 * Views: image_tag 'logo.png'
 
 
-!SLIDE
+!SLIDE bullets incremental
 Limitations
 ===========
-* does not support IE conditionals (\<!--[if lt IE 9]\>)
+
+    @@@ Ruby
+    # AP does not support IE conditionals (\<!--[if lt IE 9]\>)
+    # to process a single file with the AP add this to production.rb:
+    config.assets.precompile += %w(ie.css)
+* AP suggests to have same bundle of assets on all pages
+
+
 
 !SLIDE
 Production -vs- Development Mode
@@ -83,7 +92,7 @@ On Heroku
 * 3 options:
   1. Compile assets locally
   2. Compile assets during slug compilation
-  3. Compiling assets during runtime
+  3. Compile assets during runtime
 * no access to initialiser variables during 2.
 * e.g. active_admin needs sass-rails outside the Gemfile's :assets group
 
