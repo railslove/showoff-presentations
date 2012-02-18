@@ -116,3 +116,4 @@ Danke
 
 * paul@railslove.com
 * @wakkahari
+* Kudos an Jakob für's Showoff Template:<br>[https://github.com/railslove/showoff-presentations](https://github.com/railslove/showoff-presentations)
