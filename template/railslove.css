@@ -67,11 +67,14 @@ p, li {
   display: none;
 }
 
-#preso .slide.callout {
-  background-color: #32b93c;
+#preso .slide.logo {
   background-image: url(railslove-logo-white-501x120.png);
   background-position: center 517px;
   background-repeat: no-repeat;
+}
+
+#preso .slide.callout {
+  background-color: #32b93c;
 }
 #preso .slide.callout.green {
   background-color: #32b93c;
@@ -115,9 +118,9 @@ p, li {
 #preso .slide.callout .content h1 {
   color: #32b93c;
   text-align: left;
-  font-size: 28px;
-  font-family: 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
-  margin: 0 0 0.8em 0;
+  font-size: 26px;
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  margin: 0 0 10px 0;
 }
 
 #preso .slide.callout .content p {
@@ -126,7 +129,7 @@ p, li {
   color: #32b93c;
   margin: 0;
   line-height: 1.4em;
-  font-size: 2.5em;
+  font-size: 40px;
 }
 
 #preso .slide .content {

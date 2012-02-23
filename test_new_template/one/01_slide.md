@@ -1,35 +1,34 @@
-!SLIDE opener
+<!SLIDE opener>
 
 #Let's talk about:
 
 this will not be displayed, because opener just shows the Railslove logo
 
-!SLIDE callout
+<!SLIDE callout logo>
 
 #Let's talk about:
 
 Ein superlanges, große, schickes, tolles, top, hammer Projekt das einen noch längeren Namen vertragen kann
 
-!SLIDE callout orange
+<!SLIDE callout orange logo>
 
 #Let's talk about:
 
 Ein superlanges, große, schickes, tolles, top, hammer Projekt das einen noch längeren Namen vertragen kann
 
-!SLIDE callout cyan
+<!SLIDE callout cyan>
 
 #Let's talk about:
 
 Ein superlanges, große, schickes, tolles, top, hammer Projekt das einen noch längeren Namen vertragen kann
 
-!SLIDE callout lila
+<!SLIDE callout lila>
 
 #Let's talk about:
 
 Ein superlanges, große, schickes, tolles, top, hammer Projekt das einen noch längeren Namen vertragen kann
 
-
-!SLIDE
+<!SLIDE>
 
 Agenda:
 
@@ -43,7 +42,7 @@ Agenda:
 
 * Top 4: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper dolor sed urna fermentum ullamcorper consectetur lacus pellentesque.
 
-!SLIDE
+<!SLIDE>
 
 #Kapitel Headline Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper
 
@@ -51,6 +50,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu justo a magna 
 
 Nulla tristique, urna in sodales tincidunt, orci velit convallis sapien, sit amet condimentum felis enim ac magna. Donec rutrum volutpat tortor nec blandit. Aenean ac consequat nibh. Aliquam sed sem arcu.
 
-!SLIDE chapter-opener
+<!SLIDE chapter-opener>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu justo a magna tristique placerat in quis urna. Quisque risus eros, vehicula vel eleifend vel, rhoncus condimentum urna. Phasellus cursus euismod purus, eget consequat arcu aliquet sed.
