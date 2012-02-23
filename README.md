@@ -10,3 +10,14 @@ After that you `cd` into your new presentation directory and run `../install_tem
 
 ### Start showoff presentation server
 run `showoff serve`
+
+### Use Raillove styles in your slides
+You can assign each slide different style and style combinations.
+
+Available styles are:
+
+* opener: First slide with Raillove logo (any content is hidden)
+[<img src="template/readme-images/opener.png">](template/readme-images/opener.png)
+* callout:
+* chapter-opener
+* full-page-image
