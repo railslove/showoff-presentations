@@ -19,7 +19,7 @@
       });
 
       $('.slide.full-page-image .content img').each( function(index){
-        $(this).parent().append( $('<div class="title">').append( $(this).attr('title') ) );
+        $(this).parent().append( $('<div class="title">').append( $(this).attr('alt') ) );
       });
 
       $('.full-page-image').bind("showoff:show", function (event) {

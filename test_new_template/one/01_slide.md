@@ -62,4 +62,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu justo a magna 
 
 <!SLIDE full-page-image>
 
-<img src="salesking.jpg" title="Lange tolle super fetter Bildbeschreibung" />
+![Lange tolle super fetter Bildbeschreibung](salesking.jpg)
