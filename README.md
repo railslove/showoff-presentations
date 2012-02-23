@@ -30,7 +30,7 @@ Available styles are:
         [<img src="showoff-presentations/raw/master/template/readme-images/callout-cyan.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-cyan.png)
       * **lila**  
         [<img src="showoff-presentations/raw/master/template/readme-images/callout-lila.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-lila.png)
-      * **orange**  
+      * **orange** *(sample below includes logo too)*  
         [<img src="showoff-presentations/raw/master/template/readme-images/callout-orange-logo.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-orange-logo.png)
 * **chapter-opener** green background with white text in the middle  
   [<img src="showoff-presentations/raw/master/template/readme-images/chapter-opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/chapter-opener.png)
