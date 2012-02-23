@@ -43,3 +43,5 @@ Available styles are:
   [<img src="showoff-presentations/raw/master/template/readme-images/chapter-opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/chapter-opener.png)
 * **full-page-image** single image with caption automatically take from the image's alt attribute  
   [<img src="showoff-presentations/raw/master/template/readme-images/full-page-image.png" width="200">](showoff-presentations/raw/master/template/readme-images/full-page-image.png)
+
+*P.S.: [test_new_template/one/01_slide.md](showoff-presentations/test_new_template/one/01_slide.md) shows off these features in use*
