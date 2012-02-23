@@ -16,8 +16,21 @@ You can assign each slide different style and style combinations.
 
 Available styles are:
 
-* opener: First slide with Raillove logo (any content is hidden)
-[<img src="showoff-presentations/raw/master/template/readme-images/opener.png">](showoff-presentations/raw/master/template/readme-images/opener.png)
-* callout:
-* chapter-opener
-* full-page-image
+* **opener** First slide with Raillove logo (any content is hidden)  
+  [<img src="showoff-presentations/raw/master/template/readme-images/opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/opener.png)
+* **callout** shows a callout/bubble  
+  You can include one title (#) and one line of text. It can fit up to 3 lines of wrapped text  
+  [<img src="showoff-presentations/raw/master/template/readme-images/callout-green.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-green.png)
+  * **logo** combined with logo, the railslove logo is added below the callout  
+    [<img src="showoff-presentations/raw/master/template/readme-images/callout-logo.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-logo.png)
+  * supported colors:
+      * **green** (default)  
+        [<img src="showoff-presentations/raw/master/template/readme-images/callout-green.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-green.png)
+      * **cyan**  
+        [<img src="showoff-presentations/raw/master/template/readme-images/callout-cyan.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-cyan.png)
+      * **lila**  
+        [<img src="showoff-presentations/raw/master/template/readme-images/callout-lila.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-lila.png)
+      * **orange**  
+        [<img src="showoff-presentations/raw/master/template/readme-images/callout-orange-logo.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-orange-logo.png)
+* **chapter-opener**
+* **full-page-image**
