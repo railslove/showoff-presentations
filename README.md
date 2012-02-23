@@ -11,9 +11,16 @@ After that you `cd` into your new presentation directory and run `../install_tem
 ### Start showoff presentation server
 run `showoff serve`
 
-### Use Raillove styles in your slides
-You can assign each slide different style and style combinations.
+### Railslove Template
 
+Defaults:
+
+* **Bullet list (agenda)** default layout when composing a list  
+  [<img src="showoff-presentations/raw/master/template/readme-images/agenda.png" width="200">](showoff-presentations/raw/master/template/readme-images/agenda.png)
+* **Title and Text** default layout when content has a title and text  
+  [<img src="showoff-presentations/raw/master/template/readme-images/title-text.png" width="200">](showoff-presentations/raw/master/template/readme-images/title-text.png)
+
+You can assign each slide a different style and style combinations.  
 Available styles are:
 
 * **opener** First slide with Raillove logo (any content is hidden)  
