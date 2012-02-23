@@ -17,7 +17,7 @@ You can assign each slide different style and style combinations.
 Available styles are:
 
 * opener: First slide with Raillove logo (any content is hidden)
-[<img src="template/readme-images/opener.png">](template/readme-images/opener.png)
+[<img src="raw/master/template/readme-images/opener.png">](raw/master/template/readme-images/opener.png)
 * callout:
 * chapter-opener
 * full-page-image
