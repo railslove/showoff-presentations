@@ -28,6 +28,12 @@ Ein superlanges, große, schickes, tolles, top, hammer Projekt das einen noch l�
 
 Ein superlanges, große, schickes, tolles, top, hammer Projekt das einen noch längeren Namen vertragen kann
 
+<!SLIDE callout sk-red>
+
+#Let's talk about:
+
+Sales King Rules
+
 <!SLIDE>
 
 Agenda:
