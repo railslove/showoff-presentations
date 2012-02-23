@@ -21,9 +21,9 @@ Available styles are:
 * **callout** shows a callout/bubble  
   You can include one title (#) and one line of text. It can fit up to 3 lines of wrapped text  
   [<img src="showoff-presentations/raw/master/template/readme-images/callout-green.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-green.png)
-  * **logo** combined with logo, the railslove logo is added below the callout  
+  * **logo** combined with callout, the railslove logo is added below the callout  
     [<img src="showoff-presentations/raw/master/template/readme-images/callout-logo.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-logo.png)
-  * supported colors:
+  * supported background colors: (combined with callout)
       * **green** (default)  
         [<img src="showoff-presentations/raw/master/template/readme-images/callout-green.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-green.png)
       * **cyan**  
@@ -32,5 +32,7 @@ Available styles are:
         [<img src="showoff-presentations/raw/master/template/readme-images/callout-lila.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-lila.png)
       * **orange**  
         [<img src="showoff-presentations/raw/master/template/readme-images/callout-orange-logo.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-orange-logo.png)
-* **chapter-opener**
-* **full-page-image**
+* **chapter-opener** green background with white text in the middle  
+  [<img src="showoff-presentations/raw/master/template/readme-images/chapter-opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/chapter-opener.png)
+* **full-page-image** single image with caption automatically take from the image's alt attribute  
+  [<img src="showoff-presentations/raw/master/template/readme-images/full-page-image.png" width="200">](showoff-presentations/raw/master/template/readme-images/full-page-image.png)
