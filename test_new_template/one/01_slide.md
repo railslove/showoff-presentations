@@ -4,6 +4,12 @@
 
 this will not be displayed, because opener just shows the Railslove logo
 
+<!SLIDE callout>
+
+#Let's talk about:
+
+Ein superlanges, große, schickes, tolles, top, hammer Projekt das einen noch längeren Namen vertragen kann
+
 <!SLIDE callout logo>
 
 #Let's talk about:
