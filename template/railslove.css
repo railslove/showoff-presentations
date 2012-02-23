@@ -206,6 +206,27 @@ p, li {
   color: #fff;
 }
 
+#preso .slide.full-page-image .content {
+  padding: 0;
+  margin: 0 !important;
+}
+#preso .slide.full-page-image .content p {
+  text-align: center;
+}
+#preso .slide.full-page-image .content p .title {
+  position: relative;
+  top: -75px;
+  left: 0px;
+  text-align: left;
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  color: #32b93c;
+  background-color: #fff;
+  box-shadow: 0px -3px 5px #ddd;
+  height: 30px;
+  padding: 20px;
+}
+
 blockquote p {
   font-family: Georgia, serif;
 }

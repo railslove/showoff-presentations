@@ -8,13 +8,29 @@
 
 (function( $ ) {
   $(document).ready(function() {
+
     $(document).bind("showoff:loaded", function (event) {
+      
       $('.content').each( function(index){
         //copy classes applied to .content div to its parent .slide div (except the .content class)
         $(this).parents('.slide').addClass($(this)[0].className).removeClass('content');
         //remove all classes from the .content div except for the .content class
         $(this).removeClass($(this)[0].className).addClass('content');
       });
+
+      $('.slide.full-page-image .content img').each( function(index){
+        $(this).parent().append( $('<div class="title">').append( $(this).attr('title') ) );
+      });
+
+      $('.full-page-image').bind("showoff:show", function (event) {
+        $('#footer').fadeOut();
+      });
+      $('.full-page-image').bind("showoff:next showoff:prev", function (event) {
+        $('#footer').fadeIn();
+      });
+      
     });
+
   });
+
 })( jQuery );

@@ -59,3 +59,7 @@ Nulla tristique, urna in sodales tincidunt, orci velit convallis sapien, sit ame
 <!SLIDE chapter-opener>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu justo a magna tristique placerat in quis urna. Quisque risus eros, vehicula vel eleifend vel, rhoncus condimentum urna. Phasellus cursus euismod purus, eget consequat arcu aliquet sed.
+
+<!SLIDE full-page-image>
+
+<img src="salesking.jpg" title="Lange tolle super fetter Bildbeschreibung" />
