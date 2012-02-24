@@ -8,6 +8,8 @@ Then you run `showoff create presentationname` within the showoff-presentations 
 
 After that you `cd` into your new presentation directory and run `../install_template.sh` which will create symbolic links to the assets in the `/template` folder.
 
+Alternativly, to create a presentation with Railslove template, run './create_with_template.sh presentationname'
+
 ### Start showoff presentation server
 run `showoff serve`
 
@@ -15,7 +17,7 @@ run `showoff serve`
 
 Defaults:
 
-* **Bullet list (agenda)** default layout when composing a list  
+* **Bullet list (agenda)** default layout when composing a list. *It is recommended for this layout not to use a header, just use normal text as the title*
   [<img src="showoff-presentations/raw/master/template/readme-images/agenda.png" width="200">](showoff-presentations/raw/master/template/readme-images/agenda.png)
 * **Title and Text** default layout when content has a title and text  
   [<img src="showoff-presentations/raw/master/template/readme-images/title-text.png" width="200">](showoff-presentations/raw/master/template/readme-images/title-text.png)
