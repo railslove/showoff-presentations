@@ -14,8 +14,6 @@
       $('.content').each( function(index){
         //copy classes applied to .content div to its parent .slide div (except the .content class)
         $(this).parents('.slide').addClass($(this)[0].className).removeClass('content');
-        //remove all classes from the .content div except for the .content class
-        $(this).removeClass($(this)[0].className).addClass('content');
       });
 
       $('.slide.full-page-image .content img').each( function(index){
