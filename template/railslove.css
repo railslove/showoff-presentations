@@ -31,7 +31,7 @@ li {
   padding-top: 0px;
 }
 
-.content > ul > li {
+.content > ul > li, .content > ol > li {
   margin-left: 0px;
   padding-top: 0px;
 }
@@ -84,25 +84,25 @@ p, li {
 #preso .slide.callout.orange {
   background-color: #f67b20;
 }
-#preso .slide.callout.orange .content h1, #preso .slide.callout.orange .content p {
+#preso .slide.callout.orange .content h1, #preso .slide.callout.orange .content p, #preso .slide.orange .content li {
   color: #f67b20;
 }
 #preso .slide.callout.cyan {
   background-color: #00abe1;
 }
-#preso .slide.callout.cyan .content h1, #preso .slide.callout.cyan .content p {
+#preso .slide.callout.cyan .content h1, #preso .slide.callout.cyan .content p, #preso .slide.cyan .content li {
   color: #00abe1;
 }
 #preso .slide.callout.lila {
   background-color: #a13bc1;
 }
-#preso .slide.callout.lila .content h1, #preso .slide.callout.lila .content p {
+#preso .slide.callout.lila .content h1, #preso .slide.callout.lila .content p, #preso .slide.lila .content li {
   color: #a13bc1;
 }
 #preso .slide.callout.sk-red {
   background-color: #900;
 }
-#preso .slide.callout.sk-red .content h1, #preso .slide.callout.sk-red .content p {
+#preso .slide.callout.sk-red .content h1, #preso .slide.callout.sk-red .content p, #preso .slide.sk-red .content li {
   color: #900;
 }
 
@@ -148,7 +148,7 @@ p, li {
 }
 
 #preso .slide .content {
-  padding: 120px;
+  padding: 0 120px;
 }
 #preso .slide .content p {
   color: #444;
@@ -185,7 +185,7 @@ p, li {
 }
 #preso .slide .content>ul>li>ul>li:before {
   content: "-";
-  padding-right: 5px; 
+  padding-right: 5px;
 }
 #preso .slide .content>ul>li>ul>li {
   font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
