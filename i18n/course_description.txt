@@ -1,0 +1,66 @@
+
+In a globalized world internationalization (i18n) is a big topic for software development, especially web applications because of their global accessibiliy.  This workshop gives you an introduction into i18n, as well as walk you through the complete workflow of internationalizing a typical Ruby on Rails app using the i18n gem and the translation service webtranslateit.com.  This is done both from a technical as well as a management & collaboration perspective.
+
+
+The workshop is diveded into 3 parts:
+
+First there is a short general introduction into the world of internationalization that explains all the relevant concepts on a mostly basic and theoretic level.  Simply some language and a mental model to understand i18n.
+
+The second part is a hands-on dive into the technical side of internationalizing a Rails applicatoin.  We have a hands on exercise of internationalizing a simple, but real-world(!) production Rails application.  It is intended to be a good mix of a simple practical tutorial combined with  the real problems you face when internationalizing a Rails application.
+
+The third part then focusses on the workflow behind internationalizing a web application in a team.  I18n is very fascinating area, since it connects many different disciplines:  copy writing, design, translation, frontend development, quality assurance, system administration and of course the management of the whole workflow.  We will talk about the tasks and responsabilities of each discipline so that the involved people understand the whole prcess and not just their own tasks.  All of this is demonstrated facilitating the translation management service http:://webtranslateit.com.
+
+If time permits there are also some more advanced i18n topics to deepen the aquired knowledge in specific areas.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+## 1. Introduction of basic concepts: ##
+
+* locales
+* strings
+* interpolation variables
+* plural strings
+
+----------------------------
+
+## 2. Technical implementation: ##
+
+* i18n + rails
+* TDD
+* Frontend Prototyping
+
+
+----------------------------
+
+
+Workflow:
+
+Roles:
+* Translators
+* Content / product managers
+* Frontend Developers
+* Backend Developers / DevOps / Sysadmins
+* Designer
+
+Process:
+* Design
+* Development
+* Translation
+* Testing
+* Deployment
+* and again
+
+
+Advanced topics:
+
+* Pluralization rules
+* i18n_viz
+
+
+
+PRO tipps:
+
+* use separate files
+  --> keep big texts separate, because the fuck up your files

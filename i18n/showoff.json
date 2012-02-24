@@ -1,7 +1,12 @@
 {
   "name": "rails i18n & WTI",
   "sections": [
-    { "section": "intro" },
-    { "section": "pluralization_rules" }
+    "intro/title.md",
+    "intro/9flats.md",
+    "intro/topic_area.md",
+    "workflow/workflow.md",
+    "markup/markup.md",
+    {"section": "lessons_learned"},
+    "resources/resources.md"
   ]
 }
