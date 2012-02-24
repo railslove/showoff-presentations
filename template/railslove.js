@@ -16,6 +16,13 @@
         $(this).parents('.slide').addClass($(this)[0].className).removeClass('content');
       });
 
+      //after applying our classes to the slide, we need to recalculate the vertical centering
+      centerSlides($('.slide'));
+      //also do that when showing a new slide
+      $('.slide').bind("showoff:show", function (event) {
+        centerSlides($(this));
+      });
+
       $('.slide.full-page-image .content img').each( function(index){
         $(this).parent().append( $('<div class="title">').append( $(this).attr('alt') ) );
       });
