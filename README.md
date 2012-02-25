@@ -8,9 +8,9 @@ Then you run `showoff create presentationname` within the showoff-presentations 
 
 After that you `cd` into your new presentation directory and run `../install_template.sh` which will create symbolic links to the assets in the `/template` folder.
 
-Alternativly, to create a presentation with Railslove template, run './create_with_template.sh presentationname'
+Alternativly, to create a presentation with Railslove template, run `./create_with_template.sh presentationname`
 
-### Start showoff presentation server
+### Start showoff presentation server in your presentation's directory
 run `showoff serve`
 
 ### Railslove Template
