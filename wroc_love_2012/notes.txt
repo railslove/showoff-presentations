@@ -1,0 +1,11 @@
+Get out of the trap!
+
+Ralph von der Heyden, Georg Leciejewski and Jan Kus
+
+In our talk we share some of the most interesting, absurd, or funny insights
+and moments we experienced in our past couple of years. As developers and
+business founders, we present the best of our own mistakes and show you how we
+got out of the pits we fell into. Believe us, we’ve been there as well and,
+hopefully, attending our talk will help you not making the mistakes we already
+made for you ;) It will be serious fun! The talk will cover both technical and
+other subjects.
