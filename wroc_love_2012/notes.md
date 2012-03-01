@@ -123,6 +123,7 @@ other subjects.
 
 * Try zsh, if you like, or stick with bash
 * Try oh-my-zsh or bash-it
+* Functions like {fast,fasdfas}
 * Learn about processes
   * How to suspend
   * How to resume
@@ -165,6 +166,8 @@ other subjects.
   * Structure
   * Use code from other people
   * Reuse code on different OS
+* also serves as documentation
+* keep your recipes updated!
 * Will help you when the day will come when you will need a new server *fast*
 
 
@@ -193,10 +196,11 @@ other subjects.
 
 #### Decouple
 
+* Don't let your models get too fat
 * One "thing" needs a validation, a class method and 2 instance methods
 * Put them all in a model?
 * Use ActiveSupport::Concern for close proximity of methods that belong together
-* Avoid bloated models
+* Easier to test in isolation
 
 
 #### Use POROs (Plain Old Ruby Objects)
@@ -234,8 +238,15 @@ other subjects.
 * Leads to better programmers
 
 
+#### Coworking
+
+* Find pairs online or in your local user group
+* Go coworking
+
+
 #### Use stackoverflow and the like
 
+* Problem example: Calculate age from day of birth
 * Global community
 * Someone else probably had you problem before
 * Help others, if you found an alternative/better solution
@@ -247,3 +258,8 @@ other subjects.
 * There's always much to learn
 * Ask other people how they would solve you current problem
 * As soon as you find something interesting, teach
+
+
+#### Hacker pursuit
+
+* go go go
