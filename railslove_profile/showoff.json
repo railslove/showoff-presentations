@@ -1,1 +1,10 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{
+  "name": "Railslove Profile",
+  "sections": [
+    {"section": "intro"},
+    {"section": "product_1"},
+    {"section": "product_2"},
+    {"section": "product_3"},
+    {"section": "product_4"}
+  ]
+}
