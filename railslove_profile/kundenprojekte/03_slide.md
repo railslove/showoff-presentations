@@ -1,6 +1,6 @@
 !SLIDE callout     
 
-Die Kundenprojekte
+Ausgewählte Kundenprojekte
 
 !SLIDE full-page-image
 
@@ -16,7 +16,7 @@ Die Kundenprojekte
 
 !SLIDE callout
 
-Die Kölner Kunden
+Kunden aus dem Rheinland
 
 !SLIDE full-page-image
 

@@ -24,3 +24,15 @@ Coworking, Events & User Groups
   * CampusKöln Trainer Workshops
   * Diverse Workshops in Zusammenarbeit mit der Ding Fabrik 
   * Webmontag
+
+!SLIDE callout lila
+
+Wenn Mediencluster NRW sagt
+
+# „Unser Auftrag lautet, Wachstum und Innovation im Medienland NRW zu fördern. Die digitale Zukunft der Medien gestalten – gemeinsam stark!“
+
+!SLIDE callout
+
+Dann sagt Railslove
+
+# Da simmer dabei!

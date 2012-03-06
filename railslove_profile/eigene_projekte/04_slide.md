@@ -8,11 +8,17 @@ Eigene Projekte
 
 !SLIDE
 
-Tipplr:
+Tipplr
 
-* .........
-  * .........
-  * .........
+* „Das nächste Spiel ist immer das Nächste.“ - Matthias Sammer
+  * Und wir machen mit!
+  * B2B Tippspiel als Kundenbindungs- oder Marketingsinstrument
+  * Zur WM schon erfolgreich mehrere Tipprunden gelaunched
+  * Features wie: eigenes Customizing, Preise auf Plätze, Rankings, "Düllen", uvm.
+  * In Zusammenarbeit mit HauptwegeNebenwege GmbH aus Köln
+* Mehr Informationen
+  * http://Tipplr.de
+  * Broschüre und Slides
 
 !SLIDE full-page-image
 
@@ -20,11 +26,17 @@ Tipplr:
 
 !SLIDE
 
-Salesking:
+Salesking
 
-* .........
-  * .........
-  * .........
+* SaaS Plattform für Prozesse rund um das Rechnungswesen
+  * Gründer: Georg Leciejewski
+  * Erstes Investment von Railslove 
+* Rechnungserstellungssoftware für diverse zielgruppen
+  * von Freelancern bis hin zu
+  * B2B
+* Kunden aus NRW
+  * Sevenload
+  * Textprovider 
 
 !SLIDE full-page-image
 
@@ -32,23 +44,37 @@ Salesking:
 
 !SLIDE
 
-Dealbase:
+Dealbase
 
-* .........
-  * .........
-  * .........
+* Initial ein Kundenprojekt für eVenture Capital Partners aus Hamburg
+  * strategischer Partner
+  * eins der ersten Projekte
+* http://dealbaseapp.com
+  * Einfache SaaS zur Verwaltung von Deals "jeglicher Art"
+  * für Startups, Venture Capitalists, Organisationen, etc.
+  * hilft Unternehmen beim Dealflow managment
+  * Customizable
+  * Smarte Software - keine "Eierlegende Wollmilchsau"
+* Aktuell - heisse Entwicklungsphase
+  * Überarbeitung des UI's
+  * Mandantenfähikeit
+  * E-Mail und Dropboxintegration
 
 !SLIDE
 
-Andere Ideen im Team
+Was wir noch so verrücktes machen
 
 * Kölsch-Deckel
-  * ...
+  * Der "immer dabei" Bierdeckel als iPhone app
 * Hackerspursuit/Nerd Pursuit
-  * ... 
-* Echtzeit KVB-Tracking App
-  * ...
-* Cocktailrezepte, Fernbeziehungen, Gaming, usw.
-  * 20 kreative Köpfe machen sich täglich Gedanken über die verschiedensten Ideen wie man die Welt verbessern kann
+  * Echtzeit Wissenspiel als Join Venture Projekt mit 9elements 
+* Cocktailrezepte
+* Fernbeziehungsapp
+* Gaming-Ideen
+* usw.
 
-<div align="center" style="margin-top:20px"><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/><img src="../schulungen/georg_leciejewski.jpeg" style="margin-right:20px;height:100px"/></div>
+!SLIDE chapter-opener
+
+Railslove...
+
+ ...das sind 20 kreative Köpfe die sich täglich darüber den Kopf zebrechen wie man die Welt verbessern kann

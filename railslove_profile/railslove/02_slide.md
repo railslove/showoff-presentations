@@ -8,8 +8,6 @@ Das Unternehmen
 
 !SLIDE
 
-
-
 * 2008 Gründung der Bumann, Kus, Schneider GbR noch während des Studiums
 
 * Erste Kundenprojekte
@@ -27,10 +25,27 @@ Das Unternehmen
 
 !SLIDE
 
-Was machen wir?
+Was machen wir
 
 * Ruby on Rails Beratung und Entwicklung
+  * Neu- und Weiterentwicklung von Webplattformen
 * Entwicklung, Betrieb und Vermarktung eigener Webservices 
-* Schulungen im Bereich Webentwicklung (Railslove University)
-* Gründer von Coworking Cologne und Betreiber des Coworking Spaces “Gasmotorenfabrik Köln e.V.” für Startups, Freelancer & verscheidene User Groups
+  * SaaS
+  * join venture mit anderen Unternehmen 
+* Schulungen im Bereich Webentwicklung
+  * Idee stammt aus dem Fachkräftemangel in unserem Bereich
+  * Railslove University
+* Gründer von Coworking Cologne und Betreiber des Coworking Spaces “Gasmotorenfabrik Köln e.V.”
+  * für Startups, Freelancer & verscheidene User Groups
+  * Arbeit, Kreativität und Spass an einem Ort
+
+!SLIDE chapter-opener
+
+Unsere Ziele
+
+Wir möchten europaweit als "die" kölner Entwicklungsagentur und Startup wahrgenommen werden. 
+
+Unsere Größe soll durch Qualität, Flexibilität, Dynamik und Kreativität wahrgenommen werden. Startupförderung durch Bootstrappen von Projekten oder pushen von guten Ideen sind uns sehr wichtig. 
+
+Das alles natürlich mit kölschem Humor ;-)
 
