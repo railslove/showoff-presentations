@@ -1,10 +1,11 @@
 {
   "name": "Railslove Profile",
   "sections": [
-    {"section": "intro"},
-    {"section": "product_1"},
-    {"section": "product_2"},
-    {"section": "product_3"},
-    {"section": "product_4"}
+    {"section": "railslove"},
+    {"section": "kundenprojekte"},
+    {"section": "eigene_projekte"},
+    {"section": "schulungen"},
+    {"section": "was_machen_wir_fuer_koeln"},
+    {"section": "weitere_infos"}
   ]
 }
