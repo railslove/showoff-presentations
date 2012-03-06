@@ -207,9 +207,10 @@ p, li {
   color: #fff;
 }
 
+#preso .slide.full-page-image {height:100%}
 #preso .slide.full-page-image .content {
   padding: 0;
-  margin: 0 !important;
+  margin: 120px 0 0 !important;
 }
 #preso .slide.full-page-image .content p {
   text-align: center;
