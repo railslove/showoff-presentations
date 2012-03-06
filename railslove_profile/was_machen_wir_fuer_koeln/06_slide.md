@@ -9,12 +9,12 @@ Coworking, Events & User Groups
 * Gasmotorenfabrik Köln e.V.
   * Mitgründer und Betreiber des Coworking Space Gasmotorenfabrik Köln e.V.
 
-* Organisation von Events im Coworking Space
-  * Railscamp (2010)
-  * Nodecamp (2011)
-  * Open Data Network Hackathron(2012)
+* Events im Coworking Space
+  * Railscamp 
+  * Coworking Day 
+  * Nodecamp 
 
-* Organisation von User Groups & Workshops
+* User Groups & Workshops
   * Cologne.js - JavaScript User Group
   * Cologne.rb - Ruby User Group
   * Kanban User Group
