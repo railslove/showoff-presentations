@@ -10,7 +10,7 @@
   $(document).ready(function() {
 
     $(document).bind("showoff:loaded", function (event) {
-
+      
       $('.content').each( function(index){
         //copy classes applied to .content div to its parent .slide div (except the .content class)
         $(this).parents('.slide').addClass($(this)[0].className).removeClass('content');
@@ -24,7 +24,7 @@
       });
 
       $('.slide.full-page-image .content img').each( function(index){
-        //$(this).parent().append( $('<div class="title">').append( $(this).attr('alt') ) );
+        $(this).parent().append( $('<div class="title">').append( $(this).attr('alt') ) );
       });
 
       $('.full-page-image').bind("showoff:show", function (event) {
@@ -33,7 +33,7 @@
       $('.full-page-image').bind("showoff:next showoff:prev", function (event) {
         $('#footer').fadeIn();
       });
-
+      
     });
 
   });
