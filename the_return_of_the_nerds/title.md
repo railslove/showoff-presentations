@@ -10,4 +10,4 @@ empty
 
 # The Return of the Nerds
 
-Hackerspursiut - online knowledge sharing in realtime
+Hackerspursuit - online knowledge sharing in realtime

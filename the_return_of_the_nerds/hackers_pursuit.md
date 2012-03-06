@@ -1,6 +1,6 @@
 !SLIDE callout green
 
-# After 100 Millions years some freaks discovered the potential and invited...
+# After 100 Millions years some freaks discovered the potential of Nerd Pursuit and inventend...
 
 Hackerspursuit
 
