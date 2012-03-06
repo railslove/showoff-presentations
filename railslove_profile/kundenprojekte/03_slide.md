@@ -4,11 +4,15 @@ Die Kundenprojekte
 
 !SLIDE full-page-image
 
-![Lange tolle super fetter Bildbeschreibung](9flats.jpg)
+![9flats.com - die Alternative zum Hotel. Neu- und Weiterentwicklung](9flats.png)
 
 !SLIDE full-page-image
 
-![Lange tolle super fetter Bildbeschreibung](eventure_capital_partners.jpg)
+![Entwicklung von internen Lösungen im Bereich Venture Capital](eventure_capital_partners.png)
+
+!SLIDE full-page-image
+
+![payango.com - Entwicklung von Plattformen zur Kreditkartenbestellung](payango.png)
 
 !SLIDE callout
 
@@ -16,12 +20,12 @@ Die Kölner Kunden
 
 !SLIDE full-page-image
 
-![Lange tolle super fetter Bildbeschreibung](nexum.jpg)
+![o2seller.de - Neuentwicklung über die kölner Agentur Nexum AG](nexum_o2seller.png)
 
 !SLIDE full-page-image
 
-![Lange tolle super fetter Bildbeschreibung](jobmensa.jpg)
+![Jobmensa.de - Weiterentwicklung der größten deutschen Vermittlungsplattform für Studenten](jobmensa.png)
 
 !SLIDE full-page-image
 
-![Lange tolle super fetter Bildbeschreibung](persofaktum.jpg)
+![Persofaktum.com - Neuentwicklung der Vermittlungsplattform im HR-Bereich](persofaktum.png)
