@@ -4,23 +4,23 @@ Was tun wir für Köln und Umgebung?
 
 !SLIDE
 
-Coworking, Events & User Groups:
+Coworking, Events & User Groups
 
 * Gasmotorenfabrik Köln e.V.
   * Mitgründer und Betreiber des Coworking Space Gasmotorenfabrik Köln e.V.
 
-* Events im Coworking Space
+* Organisation von Events im Coworking Space
   * Railscamp (2010)
   * Nodecamp (2011)
   * Open Data Network Hackathron(2012)
 
-
-* User Groups & Workshops
-  * JavaScript Meetup
-  * koelsch.rb
-  * kanban UG
-  * devhouse friday
-  * drupal UG
-  * closure 
+* Organisation von User Groups & Workshops
+  * Cologne.js - JavaScript User Group
+  * Cologne.rb - Ruby User Group
+  * Kanban User Group
+  * DevHouseFriday Chillout (in verschiedenen Unternehmen)
+  * Drupal User Group
+  * Closure User Group 
   * CampusKöln Trainer Workshops
-  * diverse Workshops in Zusammenarbeit mit der Ding Fabrik 
+  * Diverse Workshops in Zusammenarbeit mit der Ding Fabrik 
+  * Webmontag

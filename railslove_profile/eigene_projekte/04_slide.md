@@ -1,6 +1,6 @@
 !SLIDE callout
 
-# Eigene Projekte
+Eigene Projekte
 
 !SLIDE full-page-image
 
