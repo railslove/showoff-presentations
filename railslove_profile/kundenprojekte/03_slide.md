@@ -24,8 +24,8 @@ Kunden aus dem Rheinland
 
 !SLIDE full-page-image
 
-![Jobmensa.de - Weiterentwicklung der größten deutschen Vermittlungsplattform für Studenten](jobmensa.png)
+![jobmensa.de - Weiterentwicklung der größten deutschen Vermittlungsplattform für Studenten](jobmensa.png)
 
 !SLIDE full-page-image
 
-![Persofaktum.com - Neuentwicklung der Vermittlungsplattform im HR-Bereich](persofaktum.png)
+![persofaktum.com - Neuentwicklung der Vermittlungsplattform im HR-Bereich](persofaktum.png)

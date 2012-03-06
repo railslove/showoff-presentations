@@ -15,8 +15,8 @@ Das Unternehmen
   * Tweetranking
 
 * Oktober 2010 Umwandlung in die Railslove GmbH
-	* neuer Gesellschafter: Lars Brillert
-  * mehr Mitabeiter, neue Projekte ;)
+	* Neuer Gesellschafter: Lars Brillert
+  * Mehr Mitabeiter, neue Projekte ;)
 
 * März 2012
   * 16 feste Mitarbeiter
@@ -31,21 +31,21 @@ Was machen wir
   * Neu- und Weiterentwicklung von Webplattformen
 * Entwicklung, Betrieb und Vermarktung eigener Webservices 
   * SaaS
-  * join venture mit anderen Unternehmen 
+  * Joint Venture mit anderen Unternehmen 
 * Schulungen im Bereich Webentwicklung
   * Idee stammt aus dem Fachkräftemangel in unserem Bereich
   * Railslove University
 * Gründer von Coworking Cologne und Betreiber des Coworking Spaces “Gasmotorenfabrik Köln e.V.”
-  * für Startups, Freelancer & verscheidene User Groups
-  * Arbeit, Kreativität und Spass an einem Ort
+  * Für Startups, Freelancer & verscheidene User Groups
+  * Arbeit, Kreativität und Spaß an einem Ort
 
 !SLIDE chapter-opener
 
 Unsere Ziele
 
-Wir möchten europaweit als "die" kölner Entwicklungsagentur und Startup wahrgenommen werden. 
+Wir möchten europaweit als "die" kölner Entwicklungsagentur wahrgenommen werden. 
 
-Unsere Größe soll durch Qualität, Flexibilität, Dynamik und Kreativität wahrgenommen werden. Startupförderung durch Bootstrappen von Projekten oder pushen von guten Ideen sind uns sehr wichtig. 
+Wir wollen durch Qualität, Flexibilität, Dynamik und Kreativität überzeugen. Startupförderung durch Bootstrappen von Projekten oder pushen von guten Ideen sind uns sehr wichtig. 
 
 Das alles natürlich mit kölschem Humor ;-)
 
