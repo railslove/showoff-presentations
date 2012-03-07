@@ -9,10 +9,8 @@ Das Unternehmen
 !SLIDE
 
 * 2008 Gründung der Bumann, Kus, Schneider GbR noch während des Studiums
-
-* Erste Kundenprojekte
-  * Zilino
-  * Tweetranking
+  * Herstellung eigener SaaS Produkte
+  * Erste Kundenprojekte
 
 * Oktober 2010 Umwandlung in die Railslove GmbH
 	* Neuer Gesellschafter: Lars Brillert
@@ -45,7 +43,7 @@ Unsere Ziele
 
 Wir möchten europaweit als "die" kölner Entwicklungsagentur wahrgenommen werden. 
 
-Wir wollen durch Qualität, Flexibilität, Dynamik und Kreativität überzeugen. Startupförderung durch Bootstrappen von Projekten oder pushen von guten Ideen sind uns sehr wichtig. 
+Wir wollen durch Qualität, Flexibilität, Dynamik und Kreativität überzeugen und gute Ideen fördern.
 
 Das alles natürlich mit kölschem Humor ;-)
 

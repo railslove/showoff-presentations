@@ -73,4 +73,4 @@ Was wir noch so verrücktes machen
 
 Railslove...
 
- ...das sind 20 kreative Köpfe die sich täglich darüber den Kopf zerbrechen wie man die Welt verbessern kann.
+ ...das sind 20 kreative Köpfe die sich täglich darüber den Kopf zerbrechen wie man die Welt verbessern kann ;)
