@@ -245,6 +245,10 @@ blockquote p {
 
 @media print {
  
+  #preso .slide.callout .content:after {
+    top: 390px;
+  }
+  
   .slide .center {
     width: 1024px;
     height: 768px;
