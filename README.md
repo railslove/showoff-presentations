@@ -50,3 +50,10 @@ Available styles are:
 
 *P.S.: [test_new_template/one/01_slide.md](showoff-presentations/blob/master/test_new_template/one/01_slide.md) shows off these features in use*
 
+### How to print (or save as PDF)
+
+Works best in Safari.  
+1. Press Alt + P, this will break the presentation and display all the slides in one page
+2. Print the page (Cmd + P), select landscape layout and check the print backgrounds option.
+3. Print to actual paper or save as PDF ;)
+
