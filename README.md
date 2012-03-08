@@ -57,3 +57,7 @@ Works best in Safari.
 2. Print the page (Cmd + P), select landscape layout and check the print backgrounds option.  
 3. Print to actual paper or save as PDF ;)
 
+### How to set a timer on a slide that automatically moves to the next slide
+
+Add the following style to the slide: auto-advance-xxxx where xxxx is number of milliseconds to wait before automatically moving to the next slide
+
