@@ -14,6 +14,8 @@ Who we are?
 
 !SLIDE
 
+# Who we are?
+
 * Railslove: Ralph von der Heyden, Jan Kus
   * ...
   * ...
@@ -24,7 +26,7 @@ Who we are?
 
 !SLIDE
 
-What are we doing?
+# What are we doing?
 
 * Web Development with Ruby on Rails as an agency
   * ...
