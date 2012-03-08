@@ -17,8 +17,8 @@ run `showoff serve`
 
 Defaults:
 
-* **Bullet list (agenda)** default layout when composing a list. *It is recommended for this layout not to use a header, just use normal text as the title*  
-  [<img src="showoff-presentations/raw/master/template/readme-images/agenda.png" width="200">](showoff-presentations/raw/master/template/readme-images/agenda.png)
+* **Bullet list** default layout when composing a list.  
+  [<img src="showoff-presentations/raw/master/template/readme-images/bulletpoints.png" width="200">](showoff-presentations/raw/master/template/readme-images/bulletpoints.png)
 * **Title and Text** default layout when content has a title and text  
   [<img src="showoff-presentations/raw/master/template/readme-images/title-text.png" width="200">](showoff-presentations/raw/master/template/readme-images/title-text.png)
 
@@ -27,6 +27,8 @@ Available styles are:
 
 * **opener** First slide with Raillove logo (any content is hidden)  
   [<img src="showoff-presentations/raw/master/template/readme-images/opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/opener.png)
+* **Agenda** special layout when composing a list. *It is recommended for this layout not to use a header, just use normal text as the title*  
+  [<img src="showoff-presentations/raw/master/template/readme-images/agenda.png" width="200">](showoff-presentations/raw/master/template/readme-images/agenda.png)
 * **callout** shows a callout/bubble  
   You can include one title (#) and one line of text. It can fit up to 3 lines of wrapped text  
   [<img src="showoff-presentations/raw/master/template/readme-images/callout-green.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-green.png)
