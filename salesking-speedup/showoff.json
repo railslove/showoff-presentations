@@ -1,0 +1,11 @@
+{
+  "name": "Bringing SalesKing to Lightning Speed",
+  "sections": [
+    {"section": "intro"},//done
+    {"section": "what_is_sk"}, //done
+    {"section": "before_improvements"}, // done
+    {"section": "what_has_been_done"}, // done
+    {"section": "what_can_be_done"},
+    {"section": "outro"}
+  ]
+}

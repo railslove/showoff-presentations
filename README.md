@@ -47,3 +47,4 @@ Available styles are:
   [<img src="showoff-presentations/raw/master/template/readme-images/full-page-image.png" width="200">](showoff-presentations/raw/master/template/readme-images/full-page-image.png)
 
 *P.S.: [test_new_template/one/01_slide.md](showoff-presentations/blob/master/test_new_template/one/01_slide.md) shows off these features in use*
+
