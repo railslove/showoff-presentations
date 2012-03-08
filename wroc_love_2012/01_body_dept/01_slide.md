@@ -1,10 +1,12 @@
 !SLIDE callout lila
 
+# Lets talk about 
+
 Body Dept
 
 !SLIDE 
 
-What is it?
+# What is it?
 
 * We need our bodies to get work done
 * We mostly work with our minds, but the mind is a part of the body, too
@@ -24,29 +26,46 @@ Stressful projects
   * e.g. fewer tickets for the next sprint
 * Will help against burn out and you will think about your work in a positive way
 
+!SLIDE callout sk-red
+
+# Please believe us
+
+Burn out is a real blocker!
+
 !SLIDE 
 
 Sleep right
 
 * Sleep is needed for recovery
 * Sometimes we wake up full of energy, sometimes not. Why?
-* Determine if you are a lark or an owl
-  * What time would you get up and go to sleep if you were entirely free to plan your day?
+  * Determine if you are a lark or an owl: What time would you get up and go to sleep if you were entirely free to plan your day?
   * Lark: Wake at 6am, sleep at 9 to 10 pm
   * Owl: Wake at 8 to 9 am, go to bet at midnight or 1 am
 * Stick to your sleep cycle (Wakemate etc.)
-* Nap
-  * Mammals are programmed for 2 periods of intense sleepiness
-  * Consolidating sleep in 1 large sleepiness is not as recovering as 2 periods
-  * Short naps can help
-  * Lark: 1 or 1:30 pm, Owl: 2:30 or 3 pm
-  * You cannot work "full steam" during your midday wave of drowsiness
-  * So you can as well take a nap
-  * Ideal length: 20 (light sleep) to 45 (including REM) minutes
-  * Eye shades to protect your eyes from light
-  * Headphones with white noise agains noise
-  * Enjoy the energy boost after the nap
-* Will help you stay focussed during most of your work time
+
+!SLIDE callout lila
+
+# Reguraly take a
+Nap
+
+!SLIDE 
+
+* Mammals are programmed for 2 periods of intense sleepiness
+* Consolidating sleep in 1 large sleepiness is not as recovering as 2 periods
+* Short naps can help
+* Lark: 1 or 1:30 pm, Owl: 2:30 or 3 pm
+* You cannot work "full steam" during your midday wave of drowsiness
+* So you can as well take a nap
+* Ideal length: 20 (light sleep) to 45 (including REM) minutes
+* Eye shades to protect your eyes from light
+* Headphones with white noise agains noise
+* Enjoy the energy boost after the nap
+
+!SLIDE callout lila
+
+# A Nap
+
+Will help you stay focussed during most of your work time
 
 !SLIDE 
 

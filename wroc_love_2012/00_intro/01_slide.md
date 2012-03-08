@@ -2,6 +2,12 @@
 
 empty
 
+!SLIDE callout wroclove logo_sk_rl
+
+# Lets talk about
+
+Get out of the trap!
+
 !SLIDE callout wroclove
 
 Who we are?
@@ -34,11 +40,8 @@ What are we doing?
 
 !SLIDE chapter-opener
 
-What is the goal of this talk?
+Get out of the trap!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Is a talk about programmers life. 
+
+As developers and business founders, we present the best of our own mistakes and show you how we got out of the pits we fell into.
