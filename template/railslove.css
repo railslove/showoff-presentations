@@ -178,8 +178,16 @@ p, li {
 #preso .slide .content li p {
   font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
   font-size: 22px;
+  margin-bottom: 40px;
+}
+#preso .slide .content li p {
+  font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+#preso .slide.agenda .content li,
+#preso .slide.agenda .content li p {
   color: #32b93c;
-  margin-bottom: 5px;
 }
 #preso .slide .content>ul>li>ul {
   padding-left: 5px;
@@ -191,8 +199,10 @@ p, li {
 #preso .slide .content>ul>li>ul>li {
   font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
   font-size: 22px;
-  color: #444;
   margin-bottom: 5px;
+}
+#preso .slide.agenda .content>ul>li>ul>li {
+  color: #444;
 }
 
 #preso .slide.chapter-opener {

@@ -40,7 +40,7 @@ Ein superlanges, gro√üe, schickes, tolles, top, hammer Projekt das einen noch l√
 
 Sales King Rules
 
-<!SLIDE>
+<!SLIDE agenda>
 
 Agenda:
 
@@ -56,7 +56,7 @@ Agenda:
 
 <!SLIDE>
 
-Agenda 2:
+#Default
 
 * Top 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper dolor sed urna fermentum ullamcorper consectetur lacus pellentesque.
 
