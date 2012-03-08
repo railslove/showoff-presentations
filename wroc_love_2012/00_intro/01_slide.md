@@ -10,19 +10,26 @@ Get out of the trap!
 
 !SLIDE callout wroclove
 
-Who we are?
+Who are we?
 
 !SLIDE
 
-# Who we are?
+# Who are we?
 
 * Railslove: Ralph von der Heyden, Jan Kus
-  * ...
-  * ...
-
 * SalesKing: Georg Leciejewski
-  * ....
-  * ....
+
+!SLIDE full-page-image
+
+![Georg Leciejewski](georg_leciejewski.jpeg)
+
+!SLIDE full-page-image
+
+![Ralph von der Heyden](ralph_von_der_heyden.jpeg)
+
+!SLIDE full-page-image
+
+![Jan Kus](jan_kus.jpeg)
 
 !SLIDE
 
