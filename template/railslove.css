@@ -176,13 +176,11 @@ p, li {
 }
 #preso .slide .content li,
 #preso .slide .content li p {
-  font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
   font-size: 22px;
-  margin-bottom: 40px;
+  margin-bottom: 15px;
 }
 #preso .slide .content li p {
-  font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
-  font-size: 22px;
   margin-bottom: 10px;
 }
 #preso .slide.agenda .content li,
