@@ -39,7 +39,7 @@ Think about what methods do, and if there is an easier way
 
 isn't a whiteboard!
 
-!SLIDE callout
+!SLIDE callout auto-advance-1000
 
 Write fast tests
 
@@ -54,22 +54,22 @@ Write fast tests
 * Try Minitest::Spec instead of Rspec
  -->
 
-!SLIDE callout
+!SLIDE callout auto-advance-1000
 
 Got it?
 
-!SLIDE callout orange
+!SLIDE callout orange auto-advance-1000
 
 Write
 
-!SLIDE callout cyan
+!SLIDE callout cyan auto-advance-500
 
 Fast
 
-!SLIDE callout lila
+!SLIDE callout lila auto-advance-200
 
 Tests
 
-!SLIDE callout
+!SLIDE callout auto-advance-2000
 
 Ok?
