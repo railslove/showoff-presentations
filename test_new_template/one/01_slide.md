@@ -40,6 +40,18 @@ Ein superlanges, gro√üe, schickes, tolles, top, hammer Projekt das einen noch l√
 
 Sales King Rules
 
+<!SLIDE callout cyan auto-advance-500>
+
+#Skipping in 0.5s
+
+<!SLIDE callout lila auto-advance-1000>
+
+#Skipping in 1s
+
+<!SLIDE callout sk-red auto-advance-2000>
+
+#Skipping in 2s
+
 <!SLIDE agenda>
 
 Agenda:

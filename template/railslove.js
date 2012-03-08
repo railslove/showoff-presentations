@@ -52,6 +52,17 @@
       $('.full-page-image').bind("showoff:next showoff:prev", function (event) {
         $('#footer').fadeIn();
       });
+
+      $('.slide').bind("showoff:next showoff:prev", function (event) {
+        clearTimeout(self.$autoAdvanceTimer);
+      });
+      $('.slide[class*="auto-advance"]').bind("showoff:show", function (event) {
+        $(this)[0].className.split(' ').each( function(className){
+          if( className.indexOf('auto-advance') == 0 ){
+            self.$autoAdvanceTimer = setTimeout(nextStep, className.split('-').pop());
+          }
+        });
+      });
       
     });
 
