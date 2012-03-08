@@ -1,3 +1,4 @@
+
 !SLIDE opener
 
 empty
@@ -13,7 +14,7 @@ Das Unternehmen
   * Erste Kundenprojekte
 
 * Oktober 2010 Umwandlung in die Railslove GmbH
-	* Neuer Gesellschafter: Lars Brillert
+  * Neuer Gesellschafter: Lars Brillert
   * Mehr Mitabeiter, neue Projekte ;)
 
 * März 2012
@@ -46,4 +47,3 @@ Wir möchten europaweit als "die" kölner Entwicklungsagentur wahrgenommen werde
 Wir wollen durch Qualität, Flexibilität, Dynamik und Kreativität überzeugen und gute Ideen fördern.
 
 Das alles natürlich mit kölschem Humor ;-)
-
