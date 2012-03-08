@@ -17,8 +17,8 @@ run `showoff serve`
 
 Defaults:
 
-* **Bullet list (agenda)** default layout when composing a list. *It is recommended for this layout not to use a header, just use normal text as the title*  
-  [<img src="showoff-presentations/raw/master/template/readme-images/agenda.png" width="200">](showoff-presentations/raw/master/template/readme-images/agenda.png)
+* **Bullet list** default layout when composing a list.  
+  [<img src="showoff-presentations/raw/master/template/readme-images/bulletpoints.png" width="200">](showoff-presentations/raw/master/template/readme-images/bulletpoints.png)
 * **Title and Text** default layout when content has a title and text  
   [<img src="showoff-presentations/raw/master/template/readme-images/title-text.png" width="200">](showoff-presentations/raw/master/template/readme-images/title-text.png)
 
@@ -27,6 +27,8 @@ Available styles are:
 
 * **opener** First slide with Raillove logo (any content is hidden)  
   [<img src="showoff-presentations/raw/master/template/readme-images/opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/opener.png)
+* **Agenda** special layout when composing a list. *It is recommended for this layout not to use a header, just use normal text as the title*  
+  [<img src="showoff-presentations/raw/master/template/readme-images/agenda.png" width="200">](showoff-presentations/raw/master/template/readme-images/agenda.png)
 * **callout** shows a callout/bubble  
   You can include one title (#) and one line of text. It can fit up to 3 lines of wrapped text  
   [<img src="showoff-presentations/raw/master/template/readme-images/callout-green.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-green.png)
@@ -47,4 +49,15 @@ Available styles are:
   [<img src="showoff-presentations/raw/master/template/readme-images/full-page-image.png" width="200">](showoff-presentations/raw/master/template/readme-images/full-page-image.png)
 
 *P.S.: [test_new_template/one/01_slide.md](showoff-presentations/blob/master/test_new_template/one/01_slide.md) shows off these features in use*
+
+### How to print (or save as PDF)
+
+Works best in Safari.  
+1. Press Alt + P, this will break the presentation and display all the slides in one page  
+2. Print the page (Cmd + P), select landscape layout and check the print backgrounds option.  
+3. Print to actual paper or save as PDF ;)
+
+### How to set a timer on a slide that automatically moves to the next slide
+
+Add the following style to the slide: auto-advance-xxxx where xxxx is number of milliseconds to wait before automatically moving to the next slide
 
