@@ -4,7 +4,7 @@ Server Setup
 
 !SLIDE
 
-Server Setup
+# Server Setup
 
 * Automation, automation, automation
 * Throw away your shell script mess (if you have any)

@@ -4,23 +4,35 @@ Get better
 
 !SLIDE
 
-Pair all the time you get the chance to
+# Pair all the time you get the chance to
 
 * Exhausting
 * Take breaks, but not too long
 * Leads to better code
 * Leads to better programmers
 
+!SLIDE callout orange
+
+# please...
+
+![](../double.png)
+
+!SLIDE callout cyan
+
+# Or even
+
+![](../tripplethefun.jpeg)
+
 !SLIDE
 
-Coworking
+# Coworking
 
 * Find pairs online or in your local user group
 * Go coworking
 
 !SLIDE
 
-Use stackoverflow and the like
+# Use stackoverflow and the like
 
 * Problem example: Calculate age from day of birth
 * Global community
@@ -30,7 +42,7 @@ Use stackoverflow and the like
 
 !SLIDE
 
-Go to your local user group
+# Go to your local user group
 
 * There's always much to learn
 * Ask other people how they would solve you current problem
@@ -38,6 +50,6 @@ Go to your local user group
 
 !SLIDE
 
- Play games! Hacker pursuit
+# Play games like a pirate!
 
 * go go go

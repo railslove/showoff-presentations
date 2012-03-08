@@ -4,7 +4,7 @@ Learn your tools
 
 !SLIDE
 
-debugger
+# debugger
 
 * Invaluable tool
 * Much easier than using puts-statements and the like
@@ -13,7 +13,7 @@ debugger
 
 !SLIDE
 
-Shell
+# Shell
 
 * Try zsh, if you like, or stick with bash
 * Try oh-my-zsh or bash-it
@@ -27,7 +27,7 @@ Shell
 
 !SLIDE
 
-screen/tmux
+# screen/tmux
 
 * Terminal multiplexer
 * More than 1 shell session in a window (e.g. over ssh)

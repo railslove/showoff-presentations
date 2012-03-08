@@ -4,7 +4,7 @@ Deployment
 
 !SLIDE
 
-Design for failure
+# Design for failure
 
 * What happens if any third party service fails?
 * E.g. Github, Rubygems, currency conversion providers…
@@ -12,7 +12,7 @@ Design for failure
 
 !SLIDE
 
-Automate everything
+# Automate everything
 
 * Tagging/Asset compilation/Job Queue restarts
 * A new developer should be able to deploy after a < 5 min. introduction

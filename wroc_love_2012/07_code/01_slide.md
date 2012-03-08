@@ -4,7 +4,7 @@ Code
 
 !SLIDE
 
-Decouple
+# Decouple
 
 * Don't let your models get too fat
 * One "thing" needs a validation, a class method and 2 instance methods
@@ -14,25 +14,23 @@ Decouple
 
 !SLIDE
 
-Use POROs (Plain Old Ruby Objects)
+# Use POROs (Plain Old Ruby Objects)
 
 * Rails is Ruby, after all
 * Models don't have to be db abstractions
 * If you find a group of methods belonging together, create a new class instead of a Concern
 
-
 !SLIDE
 
-Get your workflow right
+# Get your workflow right
 
 * Don't write large routines
 * Break up larger methods in smaller ones
 * Think about what methods do, and if there is an easier way (e.g. use a whiteboard)
 
-
 !SLIDE
 
-Write fast tests
+# Write fast tests
 
 * You're test suite will get bigger and slower
 * Don't write sloppy tests

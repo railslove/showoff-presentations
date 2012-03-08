@@ -6,4 +6,4 @@ Bye, bye Miss American Pie
 
 #Thank you for listening
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+U NO ASK ANY QUESTIONS

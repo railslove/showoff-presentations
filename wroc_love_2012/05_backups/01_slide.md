@@ -1,10 +1,10 @@
-!SLIDE callout sk-red
+!SLIDE callout cyan
 
 Backups
 
 !SLIDE
 
-Backups
+# Backups
 
 * Set up a backup and restore process
 * Monitor backups

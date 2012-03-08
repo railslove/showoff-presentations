@@ -4,7 +4,7 @@ Monitoring
 
 !SLIDE
 
-Monitoring
+# Monitoring
 
 * Know your servers
 * Low level monitoring: RAM/CPU/disk usage
