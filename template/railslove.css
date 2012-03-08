@@ -56,6 +56,15 @@ p, li {
   text-align: justify;
   word-spacing: 0.08em;
 }
+#preso .slide.wroclove_opener {
+  background-color: #97C7BA;
+  background-image: url(top.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#preso .slide.wroclove_opener .content {
+  display: none;
+}
 
 #preso .slide.opener {
   background-color: #32b93c;
@@ -69,6 +78,12 @@ p, li {
 
 #preso .slide.logo {
   background-image: url(railslove-logo-white-501x120.png);
+  background-position: center 517px;
+  background-repeat: no-repeat;
+}
+
+#preso .slide.logo_sk_rl {
+  background-image: url(sk_rl.png);
   background-position: center 517px;
   background-repeat: no-repeat;
 }
@@ -104,6 +119,13 @@ p, li {
 }
 #preso .slide.callout.sk-red .content h1, #preso .slide.callout.sk-red .content p, #preso .slide.sk-red .content li {
   color: #900;
+}
+
+#preso .slide.callout.wroclove {
+  background-color: #97C7BA;
+}
+#preso .slide.callout.wroclove .content h1, #preso .slide.callout.wroclove .content p, #preso .slide.swroclove .content li {
+  color: #97C7BA;
 }
 
 #preso .slide.callout .content {

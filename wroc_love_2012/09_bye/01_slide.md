@@ -2,7 +2,7 @@
 
 Bye, bye Miss American Pie
 
-!SLIDE callout orange logo
+!SLIDE callout wroclove logo_sk_rl
 
 #Thank you for listening
 

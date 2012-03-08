@@ -1,8 +1,8 @@
-!SLIDE opener
+!SLIDE wroclove_opener
 
 empty
 
-!SLIDE callout
+!SLIDE callout wroclove
 
 Who we are?
 
