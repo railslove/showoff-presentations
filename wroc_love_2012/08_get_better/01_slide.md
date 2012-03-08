@@ -30,6 +30,18 @@ Get better
 * Find pairs online or in your local user group
 * Go coworking
 
+!SLIDE callout cyan
+
+# If you don't have a space nearby
+
+Create one
+
+!SLIDE callout lila
+
+# U NO NEED MONEY
+
+Only the right place and people
+
 !SLIDE
 
 # Use stackoverflow and the like

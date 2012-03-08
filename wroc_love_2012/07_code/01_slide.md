@@ -6,7 +6,7 @@ Code
 
 # Decouple
 
-* Don't let your models get too fat
+* Thin Models
 * One "thing" needs a validation, a class method and 2 instance methods
 * Put them all in a model?
 * Use ActiveSupport::Concern for close proximity of methods that belong together
@@ -26,11 +26,24 @@ Code
 
 * Don't write large routines
 * Break up larger methods in smaller ones
-* Think about what methods do, and if there is an easier way (e.g. use a whiteboard)
 
-!SLIDE
+!SLIDE callout
 
-# Write fast tests
+# Use a whiteboard
+
+Think about what methods do, and if there is an easier way
+
+!SLIDE callout sk-red
+
+# An iPad3
+
+isn't a whiteboard!
+
+!SLIDE callout
+
+Write fast tests
+
+<!-- !SLIDE
 
 * You're test suite will get bigger and slower
 * Don't write sloppy tests
@@ -39,3 +52,24 @@ Code
 * Use mocks and stubs
 * Only test very small parts of the application in unit tests
 * Try Minitest::Spec instead of Rspec
+ -->
+
+!SLIDE callout
+
+Got it?
+
+!SLIDE callout orange
+
+Write
+
+!SLIDE callout cyan
+
+Fast
+
+!SLIDE callout lila
+
+Tests
+
+!SLIDE callout
+
+Ok?
