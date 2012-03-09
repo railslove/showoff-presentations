@@ -12,40 +12,32 @@ Get out of the trap!
 
 Who are we?
 
-!SLIDE
-
-# Who are we?
-
-* Railslove: Ralph von der Heyden, Jan Kus
-* SalesKing: Georg Leciejewski
-
-!SLIDE full-page-image
+!SLIDE callout logo_sk_rl
 
 ![Georg Leciejewski](georg_leciejewski.jpeg)
-
-!SLIDE full-page-image
-
 ![Ralph von der Heyden](ralph_von_der_heyden.jpeg)
-
-!SLIDE full-page-image
-
 ![Jan Kus](jan_kus.jpeg)
+
+!SLIDE callout wroclove
+
+# What
+
+are we doing?
 
 !SLIDE
 
 # What are we doing?
 
 * Web Development with Ruby on Rails as an agency
-  * ...
 * Products as a startup
-  * SalesKing
-  * HappyPDF
-  * etc.
+  * http://salesking.eu
+  * http://happypdf.com
+  * http://tipplr.de
 * Teaching/Courses
-  * ....
+  * http://university.railslove.com
 * And other crazy things
   * Co-Founder of Coworking Cologne (Coworking Space “Gasmotorenfabrik Köln e.V.” in Cologne)
-  * ....
+  * http://cowoco.de
 
 !SLIDE chapter-opener
 

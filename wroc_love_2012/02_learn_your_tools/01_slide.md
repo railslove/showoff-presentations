@@ -1,6 +1,8 @@
 !SLIDE callout cyan
 
-Learn your tools
+# U NO KNOW
+
+YOUR TOOLS
 
 !SLIDE
 

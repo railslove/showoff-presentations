@@ -1,5 +1,7 @@
 !SLIDE callout lila
 
+# Now the magic stuff comes
+
 Code
 
 !SLIDE
@@ -19,6 +21,26 @@ Code
 * Rails is Ruby, after all
 * Models don't have to be db abstractions
 * If you find a group of methods belonging together, create a new class instead of a Concern
+
+!SLIDE callout lila
+
+# Know other 
+
+Ruby frameworks
+
+!SLIDE callout sk-red
+
+# Rails isn't
+
+the answer for every problem
+
+!SLIDE
+
+# Know other Ruby frameworks
+
+* ...
+* ...
+* ...
 
 !SLIDE
 

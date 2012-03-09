@@ -93,9 +93,20 @@ Red Bull WON'T HELP
 # Eat right
 
 * You're diet is important
-* An apple a day keeps the doctor away
 * If you want to lose weight: Do it slowly.
 * Will help you stay healthy, live longer and feel well in your body
+
+!SLIDE callout
+
+# The most important one
+
+An apple a day keeps the doctor away
+
+!SLIDE callout cyan
+
+# in about ~25 from 50
+
+an apple can prevent from being sick
 
 !SLIDE
 
