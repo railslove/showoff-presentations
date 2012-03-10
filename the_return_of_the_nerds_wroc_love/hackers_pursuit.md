@@ -4,20 +4,13 @@
 
 We've invented Hackerspursuit
 
-!SLIDE
+!SLIDE callout lila
 
-# Hackerspursuit
+# A super super 
 
-* A Railslove - 9elements join venture project: 
-  * Nerd Pursuit: http://github.com/nerds/NerdPursuit
-  * Hackerspursuit: http://github.com/9elements/Hackerspursuit
+SEXY realtime game
 
-* A super super sexy realtime game
-  * based on node.js
-  * and iced-coffee-script
-
-* Twitter:
-  * @hackerspursuit
+# On top of our NerdPursuit repository
 
 !SLIDE full-page-image
 
@@ -55,23 +48,13 @@ No
 
 !SLIDE
 
-# Hackerspursuit is
+# Hackerspursuit is also
 
-* a Game
-  * Kids are the future
-  * Gamboyify your life (Dr Kawashima's Brain Training is the past)
-* a learning plattform
-  * We need true coders! 
-  * Everybody talks about it
-* your curriculum vitae but
-  * Y U NO NEED CV
-  * U NEED HackerDNA
-* a hiring interview tool
-  * show to your boss how cool you are
-  * show him your badges
-* a company profile
-  * they want to present their coolest coders (and they will pay for it)
-  * e.g.: /companies/adcloud
+* learning
+* curriculum vitae
+* hiring
+* company profile
+* "Who has the longest (or thickest)"
 
 !SLIDE callout lila
 

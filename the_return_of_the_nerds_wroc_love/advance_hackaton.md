@@ -1,9 +1,15 @@
 !SLIDE callout cyan
 
 # Or join our
-Advance Hackathon (April 27th-29th)
+Advance Hackathon (April 27th-29th) in Cologne
 
-!SLIDE
+!SLIDE callout wroclove
+
+# jan@railslove.com 
+
+@koos
+
+<!-- !SLIDE
 
 # Advance Hackathon
 
@@ -22,4 +28,4 @@ Advance Hackathon (April 27th-29th)
   * @advanceconf
   * @9elements
   * @railslove
-  * @cowoco
+  * @cowoco -->

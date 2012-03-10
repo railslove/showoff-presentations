@@ -10,4 +10,10 @@ empty
 
 # Let's talk about
 
-Nerdpursuit & Hackerspursuit - realtime open data online knowledge sharing
+Nerdpursuit & Hackerspursuit - a real game for nerds
+
+!SLIDE callout sk-red
+
+# Disclaimer
+
+ALL PICTURES ARE STOLEN!

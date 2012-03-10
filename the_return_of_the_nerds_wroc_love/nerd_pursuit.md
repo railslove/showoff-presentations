@@ -14,17 +14,17 @@ We were driving back from Railscamp Polska I
 
 Nerd Pursuit
 
+!SLIDE callout orange
+
+# Thanks 
+
+AGATA
+
 !SLIDE callout sk-red
 
-# It's like
+# It's Trivial Pursuit
 
-Trivial Pursuit
-
-!SLIDE callout cyan
-
-# but for 
-
-Nerds
+for NERDS
 
 !SLIDE
 
@@ -33,24 +33,8 @@ Nerds
 * http://github.com/nerds/nerdpursuit
 * Everybody can (SHOULD) participate in pushing new questions
 
-* Questions
-  * Defined by a JSON-Schema
-  * Category, Subcategory, Creator, Twitter/Github-Handle
+* Questions defined by a JSON-Schema
   * 1 Question and 4 answer possibillities
-  * Submitted via Github, CLI, minimalistic frontend (never released)
-
-* Original purpose
-  * "Nerd Pursuit" as an real-time social offline game played on a <em>Nerd Board</em>
-
-!SLIDE callout lila
-
-# Nerd Pursuit isn't only
-
-stupid JSON stored on Github...
-
-!SLIDE chapter-opener
-
-<em>Nerd Pursuit</em> is an open knowledge database on everything computer science-related and more, accessible by everyone. It is defined by a machine-readable JSON schema.
 
 !SLIDE full-page-image
 
