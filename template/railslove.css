@@ -1,3 +1,10 @@
+#preso .slide.callout.wroclove {
+  background-color: #97C7BA;
+}
+#preso .slide.callout.wroclove .content h1, #preso .slide.callout.wroclove .content p, #preso .slide.swroclove .content li {
+  color: #97C7BA;
+}
+
 @import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700);
 
 /* ----- CODE ----- */
