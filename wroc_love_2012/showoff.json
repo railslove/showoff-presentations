@@ -1,0 +1,15 @@
+{
+  "name": "Get out of the trap!",
+  "sections": [
+    {"section": "00_intro"},
+    {"section": "01_body_dept"},
+    {"section": "02_learn_your_tools"},
+    {"section": "03_deployment"},
+    {"section": "04_server_setup"},
+    {"section": "05_backups"},
+    {"section": "06_monitoring"},
+    {"section": "07_code"},    
+    {"section": "08_get_better"},
+    {"section": "09_bye"}     
+  ]
+}
