@@ -76,17 +76,57 @@ Will help you stay focussed during most of your work time
 
 Red Bull WON'T HELP
 
+!SLIDE callout lila
+
+# A Nap
+
+looks like this
+
+!SLIDE full-page-image
+
+<img src="nap1.jpg" alt="A 'Bastek' nap - like a 100% chilout nap" height="100%" />
+
+!SLIDE callout lila
+
+# Or
+
+this
+
+!SLIDE full-page-image
+
+<img src="nap2.jpg" alt="A 'Michal' nap - more like a stair nap" height="100%" />
+
+!SLIDE callout lila
+
+# Everybody has his own nap style
+
+find yours
+
 !SLIDE 
 
 # Activity
 
 * 30 minutes of activity a day help against
-  * Depression
-  * Obesity
-  * High blood pressure
-  * …
+
+!SLIDE callout sk-red
+
+Depression
+
+!SLIDE callout sk-red
+
+Obesity
+
+!SLIDE callout sk-red
+
+High blood pressure
+
+!SLIDE 
+
+# Activity
+
 * Start slowly
-* Will help you stay healthy, live longer and feel well in your body
+* Will help you stay healthy
+* live longer and feel well in your body
 
 !SLIDE 
 

@@ -1,6 +1,6 @@
 !SLIDE callout cyan
 
-# Oh fuck... we've forgot!
+# Oh fuck... we forgot!
 
 BACKUPS
 
@@ -13,4 +13,10 @@ BACKUPS
 * Test the restore process
 * After some time: Test the restore process again
 * Find parts that are cumbersome or don't work
-* Will help you recover quickly after disaster
+
+!SLIDE callout sk-red
+
+# Will help you recover quickly after
+
+disaster
+

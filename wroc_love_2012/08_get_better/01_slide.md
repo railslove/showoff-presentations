@@ -13,11 +13,11 @@ Get better
 
 !SLIDE callout orange
 
-<div style="width:780px;margin:0 auto;overflow:hidden;height:240px;"><img src="double.png" style="float:right;height:230px;" /><img src="double.png" style="float:right;height:230px;" /></div>
+<div style="width:688px;margin:0 auto;overflow:hidden;height:240px;margin:-10px;"><img src="double.png" style="float:right;height:230px;" /><img src="double.png" style="float:right;height:230px;" /></div>
 
 !SLIDE callout cyan
 
-<div style="width:780px;margin:0 auto;overflow:hidden;height:240px;"><img src="tripplethefun.jpeg" style="float:right;" /><img src="tripplethefun.jpeg" style="float:right;height:170px;" /><img src="tripplethefun.jpeg" style="float:right;height:170px;" /></div>
+<div style="width:681px;margin:0 auto;overflow:hidden;height:240px;"><img src="tripplethefun.jpeg" style="float:right;height:220px;" /><img src="tripplethefun.jpeg" style="float:right;height:121px;" /><img src="tripplethefun.jpeg" style="float:right;height:170px;" /></div>
 
 !SLIDE
 
@@ -40,23 +40,43 @@ Only the right place and people
 
 !SLIDE full-page-image
 
-![Coworking Cologne Phase I](cowoco1.png)
+<img src="cowoco1.jpg" alt="How to build your Coworking Space - Coworking Cologne" width="1024px" height="768px" />
 
 !SLIDE full-page-image
 
-![Coworking Cologne Phase II](cowoco2.png)
+<img src="cowoco2.jpg" alt="How to build your Coworking Space - Coworking Cologne" width="1024px" height="768px" />
 
 !SLIDE full-page-image
 
-![Coworking Cologne Phase III](cowoco3.png)
+<img src="cowoco3.jpg" alt="How to build your Coworking Space - Coworking Cologne" width="1024px" height="768px" />
 
 !SLIDE full-page-image
 
-![Coworking Cologne Phase IIII](cowoco4.png)
+<img src="cowoco4.jpg" alt="How to build your Coworking Space - Coworking Cologne"height="100%" />
 
 !SLIDE full-page-image
 
-![Coworking Cologne Phase IV](cowoco5.png)
+<img src="cowoco5.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="cowoco6.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="cowoco7.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="cowoco8.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="cowoco9.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="cowoco10.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
 
 !SLIDE
 
@@ -91,15 +111,27 @@ Also help others and post your solutions
 
 !SLIDE full-page-image
 
-![JavaScript UG](ug1.png)
+<img src="ug1.jpg" alt="DevHouseFriday Chillout" height="100%" />
 
 !SLIDE full-page-image
 
-![DevHouseFriday Chillout](ug2.png)
+<img src="ug2.jpg" alt="3D printer workshop" height="100%" />
 
 !SLIDE full-page-image
 
-![Of course the DRUG](ug3.png)
+<img src="ug3.jpg" alt="Nodecamp 2011 - Schorsch like a 'grilowy angielski'" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="ug4.jpg" alt="Nodecamp 2011" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="ug5.jpg" alt="Nodecamp 2011 - Hot Boyz" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="ug6.jpg" alt="p*p UG" height="100%" />
 
 !SLIDE
 

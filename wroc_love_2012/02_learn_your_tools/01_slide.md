@@ -29,6 +29,13 @@ YOUR TOOLS
 
 !SLIDE
 
+# Jump to definition
+
+* ...
+* ...
+
+!SLIDE
+
 # screen/tmux
 
 * Terminal multiplexer
