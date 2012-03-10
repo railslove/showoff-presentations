@@ -1,0 +1,10 @@
+{
+  "name": "The Return of the Nerd Pursuit",
+  "sections": [
+    "title.md",
+    "nerd_pursuit.md",
+    "hackers_pursuit.md",
+    "advance_hackaton.md"
+    // "resources.md"
+  ]
+}
