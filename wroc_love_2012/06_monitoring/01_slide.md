@@ -10,11 +10,11 @@ Monitoring
 
 !SLIDE full-page-image
 
-<img src="hoptoadapp.png" alt="Watch your bugs" height="100%" />
+<img src="airbrake.png" alt="Watch your bugs" height="100%" />
 
 !SLIDE full-page-image
 
-<img src="new_rellic.png" alt="Watch your problems" height="100%" />
+<img src="nr.png" alt="Watch your problems" height="100%" />
 
 !SLIDE callout
 

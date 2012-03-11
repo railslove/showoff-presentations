@@ -24,7 +24,13 @@ Invaluable tool, easier than puts-statements and the like
 
 # U NO USE
 
-PUTS
+PUTS 
+
+!SLIDE callout sk-red
+
+# USE THE
+
+PUTSFINDER
 
 !SLIDE callout green
 
@@ -56,7 +62,7 @@ IDE IDE IDE
 
 # Know your
 
-IDE'S
+IDE
 
 !SLIDE callout orange
 

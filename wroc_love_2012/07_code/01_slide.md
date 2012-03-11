@@ -20,7 +20,7 @@ e.g.: PORNO's (Plain Old Ruby n'Objects)
 
 # Know other 
 
-Ruby frameworks
+frameworks
 
 !SLIDE callout sk-red
 

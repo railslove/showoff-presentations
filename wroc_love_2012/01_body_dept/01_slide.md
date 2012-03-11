@@ -115,10 +115,6 @@ Mammals are programmed for 2 periods of intense sleepiness
 
 !SLIDE full-page-image
 
-<img src="baby-napping.jpeg" alt="Nap! (From Google Picture Search)" height="100%" />
-
-!SLIDE full-page-image
-
 <img src="milk.png" alt="A Nap between 20-45 Minutes is perfect" height="100%" />
 
 SLIDE callout lila
