@@ -4,28 +4,15 @@
 
 Server Setup
 
-!SLIDE
+!SLIDE full-page-image
 
-# Server Setup
+<img src="milk_cc.png" alt="Automation with Chef" width="100%" />
 
-* Automation, automation, automation
-* Throw away your shell script mess (if you have any)
-* Learn chef (variants: chef-solo or little-chef) or puppet
-  * Structure
-  * Use code from other people
-  * Reuse code on different OS
-* also serves as documentation
-* keep your recipes updated!
-* Will help you when the day will come when you will need a new server *fast*
+!SLIDE callout
 
-!SLIDE
+# Regulary start from scratch
 
-# Requraly start from scratch
-
-* To see if code is easy enough to setup working
-* ...
-* ...
-* ...
+Is your code & enviroment easy to install?
 
 !SLIDE callout lila
 

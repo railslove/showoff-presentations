@@ -1,10 +1,28 @@
 !SLIDE callout
 
-# Enjoy your movie
+# Watch your servers
 
 Monitoring
 
-!SLIDE
+!SLIDE full-page-image
+
+<img src="monitoring_milk.png" alt="Read the logs" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="hoptoadapp.png" alt="Watch your bugs" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="new_rellic.png" alt="Watch your problems" height="100%" />
+
+!SLIDE callout
+
+# Read your logs with
+
+Greylog
+
+<!-- !SLIDE
 
 # Monitoring
 
@@ -15,3 +33,4 @@ Monitoring
 * Use a service like Newrelic
 * Use a service like Hoptoad
 * Will help you see potential problems and upcoming disasters
+ -->

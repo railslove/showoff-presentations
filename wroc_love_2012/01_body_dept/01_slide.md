@@ -2,18 +2,49 @@
 
 # Lets talk about 
 
-Body Dept
+Body Debt
 
-!SLIDE
+!SLIDE callout lila
 
-# What is it?
+# Having a working body is important
 
-* We need our bodies to get work done
-* We mostly work with our minds, but the mind is a part of the body, too
-* For the mind to work well, the body must be in good shape
-* Not treating the body right leads to a mortgage that has to be paid back
+We mostly work with our minds, but the mind is a part of the body
 
-!SLIDE 
+!SLIDE callout cyan
+
+# Conclusion
+
+For the mind to work well, the body must be in good shape
+
+!SLIDE callout sk-red
+
+# U NO TREAT YOUR BODY
+
+Not treating the body right leads to a mortgage that has to be paid back 
+
+!SLIDE callout sk-red
+
+# AVOID
+
+Stressful projects
+
+!SLIDE callout sk-red
+
+# AVOID
+
+Stressful clients
+
+!SLIDE callout green
+
+# There are plenty of other
+
+Projects and Clients out there
+
+!SLIDE full-page-image
+
+<img src="recover.jpeg" alt="RECOVER! (CC BY-NC-ND by drewleavy @ flickr)" height="100%" />
+
+<!-- !SLIDE 
 
 # Stressful projects
 
@@ -25,14 +56,20 @@ Body Dept
   * Reserve more time for recovery
   * e.g. fewer tickets for the next sprint
 * Will help against burn out and you will think about your work in a positive way
-
+ -->
 !SLIDE callout sk-red
 
 # Please believe us
 
 Burn out is a real blocker!
 
-!SLIDE 
+!SLIDE callout cyan
+
+# Sleep RIGHT
+
+It's your PALIWO
+
+<!-- !SLIDE 
 
 # Sleep right
 
@@ -41,14 +78,19 @@ Burn out is a real blocker!
   * Determine if you are a lark or an owl: What time would you get up and go to sleep if you were entirely free to plan your day?
   * Lark: Wake at 6am, sleep at 9 to 10 pm
   * Owl: Wake at 8 to 9 am, go to bet at midnight or 1 am
-* Stick to your sleep cycle (Wakemate etc.)
+* Stick to your sleep cycle (Wakemate etc.) 
+-->
+
+!SLIDE full-page-image
+
+<img src="recover.jpeg" alt="Sleep is needed for RECOVERY! (CC BY-NC-ND by drewleavy @ flickr)" height="100%" />
 
 !SLIDE callout lila
 
 # Reguraly take a
 Nap
 
-!SLIDE 
+<!-- !SLIDE 
 
 # A Nap
 
@@ -63,6 +105,27 @@ Nap
 * Eye shades to protect your eyes from light
 * Headphones with white noise agains noise
 * Enjoy the energy boost after the nap
+ -->
+
+!SLIDE callout lila
+
+# Look at the nature
+
+Mammals are programmed for 2 periods of intense sleepiness
+
+!SLIDE full-page-image
+
+<img src="baby-napping.jpeg" alt="Nap! (From Google Picture Search)" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="milk.png" alt="A Nap between 20-45 Minutes is perfect" height="100%" />
+
+SLIDE callout lila
+
+# Look at the nature
+
+Mammals are programmed for 2 periods of intense sleepiness
 
 !SLIDE callout lila
 
@@ -78,23 +141,17 @@ Red Bull WON'T HELP
 
 !SLIDE callout lila
 
-# A Nap
+# More nap styles
 
-looks like this
-
-!SLIDE full-page-image
-
-<img src="nap1.jpg" alt="A 'Bastek' nap - like a 100% chilout nap" height="100%" />
-
-!SLIDE callout lila
-
-# Or
-
-this
+You can find in the nature
 
 !SLIDE full-page-image
 
-<img src="nap2.jpg" alt="A 'Michal' nap - more like a stair nap" height="100%" />
+<img src="bastek_milk.png" alt="A 'Bastek' nap - like a 100% chilout nap" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="michal_piwo.png" alt="A 'Michal' nap - more like a stair nap" height="100%" />
 
 !SLIDE callout lila
 
@@ -102,11 +159,21 @@ this
 
 find yours
 
-!SLIDE 
+!SLIDE callout orange
 
-# Activity
+# Enjoy the energy 
 
-* 30 minutes of activity a day help against
+BOOST after the nap
+
+!SLIDE full-page-image
+
+<img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" /><img src="rabbit_run.png" />
+
+!SLIDE callout cyan
+
+# 30 minutes of activity a day
+
+help against
 
 !SLIDE callout sk-red
 
@@ -120,35 +187,83 @@ Obesity
 
 High blood pressure
 
-!SLIDE 
+!SLIDE callout green
+
+# Start
+
+Slowly
+
+!SLIDE callout green
+
+# Stay
+
+Healthy
+
+!SLIDE callout green
+
+# Live 
+
+longer
+
+
+!SLIDE full-page-image
+
+<img src="i-feel-good-cefjhjkojlmqacfh.jpeg" alt="Feel good" height="100%" />
+
+<!-- !SLIDE 
 
 # Activity
 
 * Start slowly
 * Will help you stay healthy
 * live longer and feel well in your body
+-->
 
-!SLIDE 
+<!-- !SLIDE 
 
 # Eat right
 
 * You're diet is important
 * If you want to lose weight: Do it slowly.
-* Will help you stay healthy, live longer and feel well in your body
+* Will help you stay healthy, live longer and feel well in your body -->
+
+!SLIDE callout lila
+
+# Eat right
+
+You're diet is important
+
+!SLIDE callout lila
+
+# If you want to lose weight
+
+Do it slowly
 
 !SLIDE callout
 
-# The most important one
+!SLIDE full-page-image
 
-An apple a day keeps the doctor away
+<img src="apple.jpeg" alt="A LOC a day keeps the doctor away" height="100%" />
 
 !SLIDE callout cyan
 
-# in about ~25 from 50
+# in about ~25 from 50 diseases
 
 an apple can prevent from being sick
 
-!SLIDE
+!SLIDE callout orange
+
+# Get a hobby
+
+Be inspired by other arts
+
+!SLIDE callout sk-red
+
+# Maybe you find something else besides
+
+PHOTOGRAPHY
+
+<!-- !SLIDE
 
 # Draw inspiration from other arts
 
@@ -156,3 +271,4 @@ an apple can prevent from being sick
 * Be inspired by how other people solve problems
 * Stepping back will help you see the whole picture
 * Will help you find solutions that others don't see
+ -->

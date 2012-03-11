@@ -1,22 +1,21 @@
-!SLIDE callout cyan
+!SLIDE callout sk-red
 
 # Oh fuck... we forgot!
 
 BACKUPS
 
-!SLIDE
+!SLIDE callout
 
-# Backups
+# Next time
 
-* Set up a backup and restore process
-* Monitor backups
-* Test the restore process
-* After some time: Test the restore process again
-* Find parts that are cumbersome or don't work
+we will remember
 
-!SLIDE callout sk-red
+!SLIDE callout lila
 
-# Will help you recover quickly after
+# But seriously
 
-disaster
+check disaster recovery
 
+!SLIDE full-page-image
+
+<img src="sushi.png" alt="Have a recover strategy" height="100%" />

@@ -4,23 +4,17 @@
 
 Code
 
-!SLIDE
+!SLIDE callout orange
 
-# Decouple
+# Decouple and
 
-* Thin Models
-* One "thing" needs a validation, a class method and 2 instance methods
-* Put them all in a model?
-* Use ActiveSupport::Concern for close proximity of methods that belong together
-* Easier to test in isolation
+tear APART
 
-!SLIDE
+!SLIDE callout lila
 
-# Use POROs (Plain Old Ruby Objects)
+# Use language power
 
-* Rails is Ruby, after all
-* Models don't have to be db abstractions
-* If you find a group of methods belonging together, create a new class instead of a Concern
+e.g.: PORNO's (Plain Old Ruby n'Objects)
 
 !SLIDE callout lila
 
@@ -34,21 +28,6 @@ Ruby frameworks
 
 the answer for every problem
 
-!SLIDE
-
-# Know other Ruby frameworks
-
-* ...
-* ...
-* ...
-
-!SLIDE
-
-# Get your workflow right
-
-* Don't write large routines
-* Break up larger methods in smaller ones
-
 !SLIDE callout
 
 # Use a whiteboard
@@ -61,7 +40,7 @@ Think about what methods do, and if there is an easier way
 
 isn't a whiteboard!
 
-!SLIDE callout auto-advance-200
+!SLIDE callout auto-advance-1000
 
 Write fast tests
 
@@ -76,19 +55,19 @@ Write fast tests
 * Try Minitest::Spec instead of Rspec
  -->
 
-!SLIDE callout auto-advance-200
+!SLIDE callout auto-advance-500
 
 Got it?
 
-!SLIDE callout orange auto-advance-10
+!SLIDE callout orange auto-advance-30
 
 Write
 
-!SLIDE callout cyan auto-advance-5
+!SLIDE callout cyan auto-advance-10
 
 Fast
 
-!SLIDE callout lila auto-advance-2
+!SLIDE callout lila auto-advance-5
 
 Tests
 

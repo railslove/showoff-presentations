@@ -1,3 +1,7 @@
+!SLIDE full-page-image
+
+<img src="whohasthelongest.JPG" alt="Who has the longest?" height="100%"/>
+
 !SLIDE wroclove_opener
 
 empty
@@ -24,20 +28,21 @@ Who are we?
 
 are we doing?
 
-!SLIDE
+!SLIDE callout lila
 
-# What are we doing?
+# Web Development
 
-* Web Development with Ruby on Rails as an agency
-* Products as a startup
-  * http://salesking.eu
-  * http://happypdf.com
-  * http://tipplr.de
-* Teaching/Courses
-  * http://university.railslove.com
-* And other crazy things
-  * Co-Founder of Coworking Cologne (Coworking Space “Gasmotorenfabrik Köln e.V.” in Cologne)
-  * http://cowoco.de
+Agency, Products, Courses, Coworkingspace Co-Founders
+
+!SLIDE callout organge
+
+# It's
+
+Fun
+
+!SLIDE full-page-image
+
+<img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" /><img src="rabbit_jump.png" />
 
 !SLIDE chapter-opener
 

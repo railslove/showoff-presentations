@@ -4,7 +4,7 @@
 
 YOUR TOOLS
 
-!SLIDE
+<!-- !SLIDE 
 
 # debugger
 
@@ -12,8 +12,27 @@ YOUR TOOLS
 * Much easier than using puts-statements and the like
 * Avoids the common change source, run request/test cycle
 * Will help you find bugs in the source code quicker
+ -->
 
-!SLIDE
+!SLIDE callout cyan
+
+# Debugger
+
+Invaluable tool, easier than puts-statements and the like
+
+!SLIDE callout sk-red
+
+# U NO USE
+
+PUTS
+
+!SLIDE callout green
+
+# Find bugs
+
+quicker
+
+<!-- !SLIDE
 
 # Shell
 
@@ -25,21 +44,42 @@ YOUR TOOLS
   * How to resume
   * Especially useful in server sessions
   * e.g. suspend vim/irb, run shell command, resume vim/irb
-* Will help you work more efficiently on servers and your computer
+* Will help you work more efficiently on servers and your computer -->
 
-!SLIDE
+!SLIDE callout lila
 
-# Jump to definition
+# IDE
 
-* ...
-* ...
+IDE IDE IDE
 
-!SLIDE
+!SLIDE callout
 
-# screen/tmux
+# Know your
+
+IDE'S
+
+!SLIDE callout orange
+
+# Ask @mehowte
+
+http://programmingworkout.com
+
+!SLIDE callout sk-red
+
+# DON'T USE
+
+Megaupload
+
+!SLIDE full-page-image
+
+<img src="megaupload_milk.png" alt="Megaupload with Milk" width="100%" />
+
+<!-- !SLIDE
+
+ # screen/tmux
 
 * Terminal multiplexer
 * More than 1 shell session in a window (e.g. over ssh)
 * screen: available on almost all servers
 * tmux: more powerful/customizable
-* Will help you work more efficiently on servers and your computer
+* Will help you work more efficiently on servers and your computer -->

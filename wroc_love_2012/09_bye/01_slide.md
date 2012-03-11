@@ -1,6 +1,6 @@
-!SLIDE callout sk-red
+!SLIDE full-page-image
 
-Bye, bye Miss American Pie
+<img src="Foto.JPG" alt="Dziekuje" height="100%" />
 
 !SLIDE callout wroclove logo_sk_rl
 

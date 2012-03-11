@@ -1,30 +1,62 @@
 !SLIDE callout cyan
 
-Get better
+# Getting better
 
-!SLIDE
+To reach the Nirvana
 
-# Pair all the time you get the chance to
+!SLIDE callout
 
-* Exhausting
-* Take breaks, but not too long
-* Leads to better code
-* Leads to better programmers
+# Don't work alone
+
+Humans are crowd animals
 
 !SLIDE callout orange
 
 <div style="width:688px;margin:0 auto;overflow:hidden;height:240px;margin:-10px;"><img src="double.png" style="float:right;height:230px;" /><img src="double.png" style="float:right;height:230px;" /></div>
 
+!SLIDE full-page-image
+
+<img src="pair.jpg" alt="This is what pair programming could look like" height="768px" />
+
 !SLIDE callout cyan
 
 <div style="width:681px;margin:0 auto;overflow:hidden;height:240px;"><img src="tripplethefun.jpeg" style="float:right;height:220px;" /><img src="tripplethefun.jpeg" style="float:right;height:121px;" /><img src="tripplethefun.jpeg" style="float:right;height:170px;" /></div>
 
-!SLIDE
+!SLIDE callout cyan auto-advance-1000
 
-# Coworking
+# Ok 
 
-* Find pairs online or in your local user group
-* Go coworking
+Now we're inventing something
+
+!SLIDE callout organe auto-advance-2000
+
+NEW
+
+!SLIDE callout lila
+
+Orgy programming&#174;
+
+!SLIDE full-page-image
+
+<img src="orgy.jpeg" alt="Orgy programming&#174; " width="1024px" height="768px" />
+
+!SLIDE callout cyan 
+
+# It will
+
+BLOW YOUR MIND
+
+!SLIDE callout 
+
+# But seriously
+
+Work with others
+
+!SLIDE callout orange
+
+# Find pairs online or in your local user group
+
+Go Coworking
 
 !SLIDE callout cyan
 
@@ -38,6 +70,20 @@ Create one
 
 Only the right place and people
 
+!SLIDE callout cyan
+
+# How to build a coworking space
+
+In 5 steps
+
+!SLIDE full-page-image
+
+<img src="cowoco3.jpg" alt="How to build your Coworking Space - Coworking Cologne" width="1024px" height="768px" />
+
+!SLIDE full-page-image
+
+<img src="cowoco6.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
+
 !SLIDE full-page-image
 
 <img src="cowoco1.jpg" alt="How to build your Coworking Space - Coworking Cologne" width="1024px" height="768px" />
@@ -48,19 +94,11 @@ Only the right place and people
 
 !SLIDE full-page-image
 
-<img src="cowoco3.jpg" alt="How to build your Coworking Space - Coworking Cologne" width="1024px" height="768px" />
-
-!SLIDE full-page-image
-
 <img src="cowoco4.jpg" alt="How to build your Coworking Space - Coworking Cologne"height="100%" />
 
 !SLIDE full-page-image
 
 <img src="cowoco5.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
-
-!SLIDE full-page-image
-
-<img src="cowoco6.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
 
 !SLIDE full-page-image
 
@@ -74,40 +112,17 @@ Only the right place and people
 
 <img src="cowoco9.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
 
-!SLIDE full-page-image
+!SLIDE callout orange
 
-<img src="cowoco10.jpg" alt="How to build your Coworking Space - Coworking Cologne" height="100%" />
+# It's fucking
 
-!SLIDE
+EASY
 
-# Look at other spaces & talk to people
-
-* http://coworking.de
-* Staszek, me, Ralph
-
-!SLIDE
-
-# Use stackoverflow and the like
-
-* Global community
-* Problem example: Calculate age from day of birth
-* Someone else probably had you problem before
-* Get feedback, find potential problems in your solution
-* Help others, if you found an alternative/better solution
-
-!SLIDE callout sk-red
-
-# U NO ONLY SEARCH
-
-Also help others and post your solutions
-
-!SLIDE
+!SLIDE callout lila
 
 # Go to your local user group
 
-* There's always much to learn
-* Ask other people how they would solve you current problem
-* As soon as you find something interesting, teach
+Meet, Talk and teach 
 
 !SLIDE full-page-image
 
@@ -131,10 +146,22 @@ Also help others and post your solutions
 
 !SLIDE full-page-image
 
-<img src="ug6.jpg" alt="p*p UG" height="100%" />
+<img src="drug1.jpg" alt="DRUGs DRINKUP" height="100%" />
 
-!SLIDE
+!SLIDE full-page-image
 
-# Play games like a pirate!
+<img src="drug2.jpg" alt="DRUGs DRINKUP" height="100%" />
 
-* go go go
+!SLIDE callout lila
+
+# Play games 
+
+like a PIRATE!
+
+!SLIDE full-page-image
+
+<img src="gaming.jpg" alt="Playing games is fun" height="100%" />
+
+!SLIDE full-page-image
+
+<img src="question.png" alt="Hackerspursuit is the future" height="100%" />
