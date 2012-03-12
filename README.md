@@ -54,7 +54,7 @@ Available styles are:
 
 Works best in Safari.  
 1. Press Alt + P, this will break the presentation and display all the slides in one page  
-2. Print the page (Cmd + P), select landscape layout and check the print backgrounds option.  
+2. Print the page (Cmd + P), select landscape layout and check the *print backgrounds* option and uncheck the *print headers and footers* option.  
 3. Print to actual paper or save as PDF ;)  
 [<img src="showoff-presentations/raw/master/template/readme-images/safari-print.png" width="200">](showoff-presentations/raw/master/template/readme-images/safari-print.png)
 
