@@ -1,0 +1,310 @@
+#preso .slide.callout.wroclove {
+  background-color: #97C7BA;
+}
+#preso .slide.callout.wroclove .content h1, #preso .slide.callout.wroclove .content p, #preso .slide.swroclove .content li {
+  color: #97C7BA;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700);
+
+/* ----- CODE ----- */
+
+pre.sh_sourceCode, code {
+  background-color: #DDDDDD;
+  font-size: 24px;
+  border-radius: 5px;
+}
+pre.sh_sourceCode {
+  border: 1px solid gray;
+  line-height: 135%;
+  padding: .5em;
+}
+code {
+  padding: 0.1em 0.5em;
+}
+pre.sh_sourceCode code {
+  padding: 0;
+}
+
+
+.content > ul, .content ol {
+  font-size: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+li {
+  line-height: 130%;
+  padding-top: 0px;
+}
+
+.content > ul > li, .content > ol > li {
+  margin-left: 0px;
+  padding-top: 0px;
+}
+small {
+  font-size: .5em;
+}
+
+h1 {
+  font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 64px;
+}
+
+p, li {
+  font-size: 32px;
+  -moz-hyphens: auto;
+  color: #444444;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.003em;
+  line-height: 1.45em;
+  margin-bottom: 20px;
+  text-align: justify;
+  word-spacing: 0.08em;
+}
+#preso .slide.wroclove_opener {
+  background-color: #97C7BA;
+  background-image: url(top.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#preso .slide.wroclove_opener .content {
+  display: none;
+}
+
+#preso .slide.opener {
+  background-color: #32b93c;
+  background-image: url(railslove-logo-white-501x120.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+#preso .slide.opener .content {
+  display: none;
+}
+
+#preso .slide.logo {
+  background-image: url(railslove-logo-white-501x120.png);
+  background-position: center 517px;
+  background-repeat: no-repeat;
+}
+
+#preso .slide.logo_sk_rl {
+  background-image: url(sk_rl.png);
+  background-position: center 517px;
+  background-repeat: no-repeat;
+}
+
+#preso .slide.callout,
+#preso .slide.callout.green {
+  background-color: #32b93c;
+}
+#preso .slide.callout .content h1, #preso .slide.callout .content p,
+#preso .slide.callout.green .content h1, #preso .slide.callout.green .content p {
+  color: #32b93c;
+}
+#preso .slide.callout.orange {
+  background-color: #f67b20;
+}
+#preso .slide.callout.orange .content h1, #preso .slide.callout.orange .content p, #preso .slide.orange .content li {
+  color: #f67b20;
+}
+#preso .slide.callout.cyan {
+  background-color: #00abe1;
+}
+#preso .slide.callout.cyan .content h1, #preso .slide.callout.cyan .content p, #preso .slide.cyan .content li {
+  color: #00abe1;
+}
+#preso .slide.callout.lila {
+  background-color: #a13bc1;
+}
+#preso .slide.callout.lila .content h1, #preso .slide.callout.lila .content p, #preso .slide.lila .content li {
+  color: #a13bc1;
+}
+#preso .slide.callout.sk-red {
+  background-color: #900;
+}
+#preso .slide.callout.sk-red .content h1, #preso .slide.callout.sk-red .content p, #preso .slide.sk-red .content li {
+  color: #900;
+}
+
+#preso .slide.callout.wroclove {
+  background-color: #97C7BA;
+}
+#preso .slide.callout.wroclove .content h1, #preso .slide.callout.wroclove .content p, #preso .slide.swroclove .content li {
+  color: #97C7BA;
+}
+
+#preso .slide.callout .content {
+  background-color: #fff;
+  /*background-image: url(callout_arrow_down.gif);
+  background-position: bottom right;
+  background-repeat: no-repeat;*/
+  padding: 28px 42px 28px 42px;
+  width: 700px;
+  height: 212px;
+  margin: 0 auto;
+  border-radius: 3px;
+  margin-top: 126px !important;
+}
+
+#preso .slide.callout .content:after {
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #fff;
+    content: "";
+    display: inline-block;
+    height: 0;
+    top: 394px;
+    left: 840px;
+    position: absolute;
+    width: 0;
+}
+
+#preso .slide.callout .content h1 {
+  text-align: left;
+  font-size: 26px;
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  margin: 0 0 10px 0;
+}
+
+#preso .slide.callout .content p {
+  font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  text-align: left;
+  margin: 0;
+  line-height: 1.4em;
+  font-size: 40px;
+}
+
+#preso .slide .content {
+  padding: 0 120px;
+}
+#preso .slide .content p {
+  color: #444;
+  font-size: 22px;
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  text-align: left;
+  margin: 0 0 20px;
+}
+#preso .slide .content h1 {
+  color: #32b93c;
+  font-size: 22px;
+  font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  text-align: left;
+  line-height: 1.4em;
+  margin: 0 0 20px;
+}
+#preso .slide .content ul {
+  list-style: none;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+#preso .slide .content li {
+  padding: 0;
+}
+#preso .slide .content li,
+#preso .slide .content li p {
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+#preso .slide .content li p {
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+#preso .slide.agenda .content li,
+#preso .slide.agenda .content li p {
+  color: #32b93c;
+}
+#preso .slide .content>ul>li>ul {
+  padding-left: 5px;
+}
+#preso .slide .content>ul>li>ul>li:before {
+  content: "-";
+  padding-right: 5px;
+}
+#preso .slide .content>ul>li>ul>li {
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+#preso .slide.agenda .content>ul>li>ul>li {
+  color: #444;
+}
+
+#preso .slide.chapter-opener {
+  background-color: #32b93c;
+}
+#preso .slide.chapter-opener .content {
+  padding: 0 120px;
+}
+#preso .slide.chapter-opener .content p {
+  font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  color: #fff;
+}
+
+#preso .slide.full-page-image .content {
+  padding: 0;
+  margin: 0 !important;
+}
+#preso .slide.full-page-image .content p {
+  text-align: center;
+}
+#preso .slide.full-page-image .content p .title {
+  position: relative;
+  top: -75px;
+  left: 0px;
+  text-align: left;
+  font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  color: #32b93c;
+  background-color: #fff;
+  box-shadow: 0px -3px 5px #ddd;
+  height: 30px;
+  padding: 20px;
+}
+
+.bullets > ul > li {
+  text-align: left;
+}
+
+blockquote p {
+  font-family: Georgia, serif;
+}
+
+#footer {
+  background: none;
+  color: #999;
+}
+
+.page-break  { display:none; }
+
+@media print {
+ 
+  #preso .slide.callout .content:after {
+    top: 390px;
+  }
+  
+  .slide .center {
+    width: 1024px;
+    height: 768px;
+  }
+
+  #preso, .slide {
+      width: 1024px;
+      height: 768px;
+  }
+
+  #footer {
+      display: none;
+  }
+
+  #preso {
+    zoom: 80%;
+  }
+  .page-break  { display:block; page-break-before:always; }
+
+}

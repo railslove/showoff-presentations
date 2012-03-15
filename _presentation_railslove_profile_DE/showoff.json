@@ -1,0 +1,13 @@
+{
+  "name": "Railslove Profile",
+  "sections": [
+    {"section": "_01_railslove_intro"},
+    {"section": "_02_client_projects"},
+    {"section": "_03_own_projects"},
+    {"section": "_04_partners_cooperations"},
+    {"section": "_04a_special_issues"},    
+    {"section": "_05_university"},
+    {"section": "_06_offshore"},
+    {"section": "_07_railslove_end"}
+  ]
+}
