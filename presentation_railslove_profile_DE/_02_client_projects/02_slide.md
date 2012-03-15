@@ -1,6 +1,8 @@
 !SLIDE callout cyan
 
-Realisierte Kundenprojekte
+# Realisierte
+
+Kundenprojekte
 
 !SLIDE full-page-image
 
@@ -9,6 +11,8 @@ Realisierte Kundenprojekte
 !SLIDE
 
 # 9flats.com
+
+9flats.com gives you the chance to visit unique and beautiful places all over the world and to rent out your own flat.
 
 * Tech Specs
   * Neu- und Weiterentwicklung
@@ -28,7 +32,9 @@ Realisierte Kundenprojekte
 
 !SLIDE
 
-# payango.com / kisscard.com
+# payango.com/kisscard.com
+
+Since 2009 Payango offers prepaid payment solutions from co-branded prepaid credit cards for consumers to online payout solutions for companies of all sizes.
 
 * Tech Specs
   * ...
@@ -129,6 +135,8 @@ Customer care is the future of marketing and brandslisten is your instant-on cus
 
 # Jamii
 
+As a coach or "boss" you have to call several people from your team to tell them something. using jamii you do 1 call and receive a consolidated feedback from your whole team
+
 * Tech Specs
   * ...
   * ....
@@ -192,6 +200,8 @@ Customer care is the future of marketing and brandslisten is your instant-on cus
 !SLIDE
 
 # Tweetranking
+
+With #tweetranking you can tag and recommend your favorite twitter users. Help building a directory of worth following people.
 
 * Tech Specs
   * ...

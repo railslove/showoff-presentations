@@ -1,6 +1,6 @@
 !SLIDE callout lila
 
-Partner und Kooperationen
+Kunden und Partner
 
 !SLIDE full-page-image
 
@@ -10,12 +10,7 @@ Partner und Kooperationen
 
 # eVenture Capital Partners | BV Capital
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+eVenture Capital Partners is an Internet focused early stage venture capital firm currently investing out of two Funds: BV Capital III in North America and eVenture I in Europe. Investing in Internet entrepreneurs for almost 15 years, BV Capital frequently is the first institutional investor in companies creating highly scalable services and significant value propositions for their users. Since 2008 Railslove is building internal applications for BV Capital.
 
 !SLIDE full-page-image
 
@@ -54,6 +49,36 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 !SLIDE
 
 # Medien.NRW
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+!SLIDE full-page-image
+
+![AdCloud](adcloud.png)
+
+!SLIDE
+
+# AdCloud
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+!SLIDE full-page-image
+
+![DailyDeal](dailydeal.png)
+
+!SLIDE
+
+# DailyDeal
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
