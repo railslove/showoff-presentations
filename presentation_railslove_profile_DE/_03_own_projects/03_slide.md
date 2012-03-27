@@ -191,7 +191,7 @@ Service for organizing charity runs during camps and conferences such as railsca
 
 # Railslove...
 
- ...das sind 20 kreative Köpfe die sich täglich darüber den Kopf zerbrechen
+ ...das sind 20 kreative Köpfe die sich täglich darüber den Kopf zerbrechen 
 
 !SLIDE callout lila
 

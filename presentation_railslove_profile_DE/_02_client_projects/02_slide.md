@@ -12,7 +12,8 @@ Kundenprojekte
 
 # 9flats.com
 
-9flats.com gives you the chance to visit unique and beautiful places all over the world and helps you to find a cool flat.
+Auf 9flats.com können Mitglieder Privatunterkünfte weltweit mieten oder vermieten. Als Alternative zum klassischen Hotel ist 9flats in mehr als 100 Ländernvertreten und bietet Unterkünfte für jeden Geschmack und jedes Budget.
+
 
 * Tech Specs
   * Neu- und Weiterentwicklung
@@ -32,9 +33,11 @@ Kundenprojekte
 
 !SLIDE
 
-# payango.com/kisscard.com
+# payango.com/kiscard.de
 
-Since 2009 Payango offers prepaid payment solutions from co-branded prepaid credit cards for consumers to online payout solutions for companies of all sizes.
+Seit 2009 bietet Payango eine Vielfalt an Prepaid Bezahl-Lösungen in Zusammenarbeit mit Finanzinstituten in Europa an. Von co-gebrandeten Prepaid Kreditkarten für Endkunden zu Online Auszahlungslösungen für Unternehmen aller Größenklassen bietet Payango Zahlungen aus einer Hand.  
+Die KisCard ist eine Schufa-freie Kreditkarte der Payango GmbH. 
+
 
 * Tech Specs
   * ...
@@ -53,7 +56,7 @@ o2seller.png)
 
 # o2seller.de
 
-o2seller is a new distributive platform, where satified o2 customers can become contractors to their family and friends.
+Das o2seller Programm ist ein neuer Vertriebsweg der Münchner Mobilfunkanbieter. Zufriedene Endkunden können schnell und unkompliziert o2 Produkte und Verträge an Freunde, Familie und Bekannte vermitteln. 
 
 * Tech Specs
   * ...
@@ -71,7 +74,7 @@ o2seller is a new distributive platform, where satified o2 customers can become 
 
 # jobmensa.de
 
-Jobmensa is Germanys biggest job website for students. More than 7.000 german and international companies use Jobmensa to place their job offers.
+Als Deutschlands größte Stellenplattform für Studenten bietet Jobmensa ein großes Angebot an Studentenjobs, Nebenjobs, Ferienjobs etc. - und zwar deutschlandweit.Über 7.000 deutsche und internationale Unternehmen nutzen Jobmensa bereits für die Besetzung offener Stellen.
 
 * Tech Specs
   * ...
@@ -89,7 +92,7 @@ Jobmensa is Germanys biggest job website for students. More than 7.000 german an
 
 # persofaktum.com
 
-Persofaktum is a web-based agency for human resource services. In 2011 persofaktum won the HR Innovation Slam as the best innovation in HR Management.
+Persofaktum ist eine Recherche- und Vermittlungsplattform für Dienstleistungen rund um das Personalwesen. 2011 konnte Persofaktum als beste Innovation für das Personalmanagement überzeugen und darf sich seitdem „HR Innovator 2011“ nennen. 
 
 * Tech Specs
   * ...
@@ -107,7 +110,7 @@ Persofaktum is a web-based agency for human resource services. In 2011 persofakt
 
 # Avocadostore
 
-Avocado Store is a growing marketplace for sustainable and organic products. The Hamburg-based team drives the company with authenticity and passion and has already won several awards, such as Start-Up of the Year 2010 (deutsche-startups.de)
+Avocado Store ist Deutschlands größter Online Marktplatz für nachhaltige Produkte. Von Damenmode über Wohn-Accessoires bis hin zu Kinderspielsachen, bei Avocado Store findet man für jedes konventionelle Produkt eine grüne Alternative. Das Hamburger Team hat mit seinem Konzept schon einige Preise gewonnen.
 
 * Tech Specs
   * ...
@@ -125,7 +128,7 @@ Avocado Store is a growing marketplace for sustainable and organic products. The
 
 # Brandslisten
 
-Customer care is the future of marketing and brandslisten is your instant-on customer support on the web.
+Brandslisten ist ein Kundendienst mit den Mitteln des Social Web. Der Dienstleister betreibt für Firmen Communities für Kundenfragen. Auf diesen übernehmen die Nutzer selbst den Service. 
 
 * Tech Specs
   * ...
@@ -143,7 +146,7 @@ Customer care is the future of marketing and brandslisten is your instant-on cus
 
 # Jamii
 
-As a coach or "boss" you have to call several people from your team to tell them something. using jamii you do 1 call and receive a consolidated feedback from your whole team.
+jamii fördert und unterstützt die persönliche Kommunikation, macht sie schnell und effektiv. Mit jamii connect und VIPcall hat die jamii GmbH zwei Weltneuheiten auf den Markt gebracht, die als Kernidee einen vereinfachten Kommunikationsaustausch haben.
 
 * Tech Specs
   * ...
@@ -161,7 +164,7 @@ As a coach or "boss" you have to call several people from your team to tell them
 
 # KKK
 
-This one is our first app that is publicly available, but you can't signup for it. And that's because it's "just" the agency website of Kuhn, Kammann & Kuhn. Built with Rails and love and some JavaScript haiku.
+Ist eine unserer ersten Apps und gleichzeitig die Agentur Website für Kuhn, Kammann & Kuhn. Entwickelt wurde sie mit Rails, viel Liebe und JavaScript haiku.
 
 * Tech Specs
   * ...
@@ -179,7 +182,7 @@ This one is our first app that is publicly available, but you can't signup for i
 
 # Stayscout
 
-StayScout is a social network and fund raising tool for scouts initiated by DPSG (German Scout Association Saint George), the largest of Germany's many Scouting organizations.
+StayScout die DPSG-Community für Ehemalige und aktive Leiterinnen und Leiter.
 
 * Tech Specs
   * ...
