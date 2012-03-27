@@ -74,7 +74,7 @@ Das o2seller Programm ist ein neuer Vertriebsweg der Münchner Mobilfunkanbieter
 
 # jobmensa.de
 
-Als Deutschlands größte Stellenplattform für Studenten bietet Jobmensa ein großes Angebot an Studentenjobs, Nebenjobs, Ferienjobs etc. - und zwar deutschlandweit.Über 7.000 deutsche und internationale Unternehmen nutzen Jobmensa bereits für die Besetzung offener Stellen.
+Als Deutschlands größte Stellenplattform für Studenten bietet Jobmensa ein großes Angebot an Studentenjobs, Nebenjobs, Ferienjobs etc. - und zwar deutschlandweit. Über 7.000 deutsche und internationale Unternehmen nutzen Jobmensa bereits für die Besetzung offener Stellen.
 
 * Tech Specs
   * ...
@@ -182,9 +182,7 @@ Ist eine unserer ersten Apps und gleichzeitig die Agentur Website für Kuhn, Kam
 
 # Stayscout
 
-StayScout die DPSG-Community für Ehemalige und aktive Leiterinnen und Leiter.
-
-* Tech Specs
+StayScout die DPSG-Community für Ehemalige und aktive Pfandfinder und Leiter. Ehemaligen finden hier Freunde von „damals“ wieder, sie können an ihre alten Gruppen anknüpfen und ihre Erlebnisse von früher aufleben lassen.
   * ...
   * ....
   * ...
@@ -200,7 +198,7 @@ StayScout die DPSG-Community für Ehemalige und aktive Leiterinnen und Leiter.
 
 # Tweetranking
 
-With #tweetranking you can tag and recommend your favorite twitter users. Help building a directory of worth following people.
+Auf Tweetranking können Twitterer andere Twitterer empfehlen und ihnen dabei Kategorien zuordnen, also eines oder mehrere Themen nennen, zu denen der Twitterer Interessantes schreibt.
 
 * Tech Specs
   * ...
@@ -218,7 +216,7 @@ With #tweetranking you can tag and recommend your favorite twitter users. Help b
 
 # Zilino
 
-Zilino is a web-based software application for group problem solving and decision making that helps people and organizations address challenging issues together. Among other things, Zilino provides tools and process support for online dialogue and deliberation.
+Zilino ist eine Webapplikation, die öffentliche, private und gemeinnützige Organisationen bei der Entscheidungsfindung in Gruppendiskussionen unterstützt. Ziel ist es Onlinediskussionen effizienter, komfortabler und interessanter zu gestalten.
 
 * Tech Specs
   * ...
