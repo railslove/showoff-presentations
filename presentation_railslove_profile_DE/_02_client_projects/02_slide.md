@@ -182,7 +182,8 @@ Ist eine unserer ersten Apps und gleichzeitig die Agentur Website für Kuhn, Kam
 
 # Stayscout
 
-StayScout die DPSG-Community für Ehemalige und aktive Pfandfinder und Leiter. Ehemaligen finden hier Freunde von „damals“ wieder, sie können an ihre alten Gruppen anknüpfen und ihre Erlebnisse von früher aufleben lassen.
+StayScout die DPSG-Community für Ehemalige und aktive Pfandfinder und Leiter. Ehemaligen finden hier Freunde von damals wieder, sie können an ihre alten Gruppen anknüpfen und ihre Erlebnisse von früher aufleben lassen.
+
   * ...
   * ....
   * ...
@@ -216,7 +217,7 @@ Auf Tweetranking können Twitterer andere Twitterer empfehlen und ihnen dabei Ka
 
 # Zilino
 
-Zilino ist eine Webapplikation, die öffentliche, private und gemeinnützige Organisationen bei der Entscheidungsfindung in Gruppendiskussionen unterstützt. Ziel ist es Onlinediskussionen effizienter, komfortabler und interessanter zu gestalten.
+Zilino ist eine Webapplikation, die Organisationen bei der Entscheidungsfindung in Gruppendiskussionen unterstützt. Ziel ist es Onlinediskussionen effizienter, komfortabler und interessanter zu gestalten.
 
 * Tech Specs
   * ...
@@ -234,7 +235,7 @@ Zilino ist eine Webapplikation, die öffentliche, private und gemeinnützige Org
 
 # Pokenvision
 
-High 4, pokenvision is here - our first #yai7d project developed in an agile one-week-sprint with the missionpoken.de guys. Place your poken on the map to let your not-yet-friends see where to poke next time.. ;-)
+Bei Pokenvision handelt es sich um eine kleine Rails-App, bei der sich Poken-Besitzer samt ihrer Pokens auf einer Weltkarte platzieren können. Das Google Maps-Mashup für Poken-Fans, wurde im Auftrag und in Zusammenarbeit mit der missionpoken.de-Crew realisiert.
 
 * Tech Specs
   * ...

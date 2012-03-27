@@ -10,7 +10,7 @@ Eigene Projekte
 
 # Tipplr
 
-Tipplr is an exclusive customized betting community for companies during the UEFA EURO 2012.
+Tipplr ist ein maßgeschneidertes Online-Tipp-Portal für Unternehmenan zur EM 2012, das sowohl als Kundenbindungsinstrument als auch zur Mitarbeitermotivation eingesetzt werden kann.
 
 * „Das nächste Spiel ist immer das Nächste.“ - Matthias Sammer
   * Und wir machen mit!
@@ -30,7 +30,7 @@ Tipplr is an exclusive customized betting community for companies during the UEF
 
 # Salesking
 
-SalesKing is an online invoicing service from Germany. Create estimates and invoices, send reminder or accept payments. Save time through flexible templates and automatic processes.
+SalesKing ist eine On-Demand-Software (SaaS), die online genutzt werden kann. Rechnungen, Kunden und Produkte können online verwaltet, Angebote oder Gutschriften geschrieben oder PDF-Dokumente im Corporate Design erfasst werden. 
 
 * SaaS Plattform für Prozesse rund um das Rechnungswesen
   * Gründer: Georg Leciejewski
@@ -50,7 +50,7 @@ SalesKing is an online invoicing service from Germany. Create estimates and invo
 
 # Dealbase
 
-Dealbase is your new deal tracking tool to help you and your team to organize your sales pipeline. Dealbase easily integrates in your daily workflow and synchronizes all your deal activity.
+Dealbase unser neues Deal- und Investmenttracking-Tool, dass Unternehmen und Organisationen bei ihren Geschäftsprozessen unterstützt. Dealbase lässt sich ganz einfach in den täglichen Arbeitsablauf integrieren und synchronisiert die relevanten Aktivitäten. 
 
 * Initial ein Kundenprojekt für eVenture Capital Partners aus Hamburg
   * Strategischer Partner
@@ -74,7 +74,7 @@ Dealbase is your new deal tracking tool to help you and your team to organize yo
 
 # Kölsch Deckel
 
-Kölsch-Zähler is a mobile app to help you and your buddies keep track of how many beers you had during carnival in Köln (Cologne, Germany). Beer counts are shared among group members in real time and there's a global beer count indicating Köln's general carnival madness.
+ Der Kölsch-Deckel ist ein digitaler Bierdeckel für die Hosentasche. Zeige anderen wo Du gerade bist und lade deine Freunde zu Dir ein. Zähle deine getrunkenen Kölsch und zeige anderen Kölnern in welchem Veedel und welcher Kneipe gerade etwas los ist.
 
 * ....
   * ...
@@ -89,7 +89,7 @@ Kölsch-Zähler is a mobile app to help you and your buddies keep track of how m
 
 # Nerd Pursuit/Hackerspursuit
 
-A realtime game based on https://github.com/Nerds/NerdPursuit/ questions. Together with 9elements we've invited a new game concept and a open source game implementation with node.js. Push your questions to github and improve your hacker DNA.
+A realtime game based on https://github.com/Nerds/NerdPursuit/ questions. Together with 9elements we've invited a new game concept and a open source game implementation with node.js.Push your questions to github and improve your hacker DNA.
 
 * ....
   * ...
