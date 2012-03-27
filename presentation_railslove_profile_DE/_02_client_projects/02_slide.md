@@ -12,7 +12,7 @@ Kundenprojekte
 
 # 9flats.com
 
-9flats.com gives you the chance to visit unique and beautiful places all over the world and to rent out your own flat.
+9flats.com gives you the chance to visit unique and beautiful places all over the world and helps you to find a cool flat.
 
 * Tech Specs
   * Neu- und Weiterentwicklung
@@ -53,6 +53,8 @@ o2seller.png)
 
 # o2seller.de
 
+o2seller is a new distributive platform, where satified o2 customers can become contractors to their family and friends.
+
 * Tech Specs
   * ...
   * ....
@@ -68,6 +70,8 @@ o2seller.png)
 !SLIDE
 
 # jobmensa.de
+
+Jobmensa is Germanys biggest job website for students. More than 7.000 german and international companies use Jobmensa to place their job offers.
 
 * Tech Specs
   * ...
@@ -85,6 +89,8 @@ o2seller.png)
 
 # persofaktum.com
 
+Persofaktum is a web-based agency for human resource services. In 2011 persofaktum won the HR Innovation Slam as the best innovation in HR Management.
+
 * Tech Specs
   * ...
   * ....
@@ -100,6 +106,8 @@ o2seller.png)
 !SLIDE
 
 # Avocadostore
+
+Avocado Store is a growing marketplace for sustainable and organic products. The Hamburg-based team drives the company with authenticity and passion and has already won several awards, such as Start-Up of the Year 2010 (deutsche-startups.de)
 
 * Tech Specs
   * ...
@@ -135,7 +143,7 @@ Customer care is the future of marketing and brandslisten is your instant-on cus
 
 # Jamii
 
-As a coach or "boss" you have to call several people from your team to tell them something. using jamii you do 1 call and receive a consolidated feedback from your whole team
+As a coach or "boss" you have to call several people from your team to tell them something. using jamii you do 1 call and receive a consolidated feedback from your whole team.
 
 * Tech Specs
   * ...
@@ -153,21 +161,7 @@ As a coach or "boss" you have to call several people from your team to tell them
 
 # KKK
 
-* Tech Specs
-  * ...
-  * ....
-  * ...
-* Besonderheiten
-  * ...
-  * ...  
-
-!SLIDE full-page-image
-
-![o2Seller - Übernahme und Weiterentwicklung...](o2seller.png)
-
-!SLIDE
-
-# o2seller
+This one is our first app that is publicly available, but you can't signup for it. And that's because it's "just" the agency website of Kuhn, Kammann & Kuhn. Built with Rails and love and some JavaScript haiku.
 
 * Tech Specs
   * ...
@@ -184,6 +178,8 @@ As a coach or "boss" you have to call several people from your team to tell them
 !SLIDE
 
 # Stayscout
+
+StayScout is a social network and fund raising tool for scouts initiated by DPSG (German Scout Association Saint George), the largest of Germany's many Scouting organizations.
 
 * Tech Specs
   * ...
@@ -218,6 +214,8 @@ With #tweetranking you can tag and recommend your favorite twitter users. Help b
 !SLIDE
 
 # Zilino
+
+Zilino is a web-based software application for group problem solving and decision making that helps people and organizations address challenging issues together. Among other things, Zilino provides tools and process support for online dialogue and deliberation.
 
 * Tech Specs
   * ...
