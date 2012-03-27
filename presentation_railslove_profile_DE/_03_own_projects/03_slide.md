@@ -89,7 +89,7 @@ Dealbase unser neues Deal- und Investmenttracking-Tool, dass Unternehmen und Org
 
 # Nerd Pursuit/Hackerspursuit
 
-A realtime game based on https://github.com/Nerds/NerdPursuit/ questions. Together with 9elements we've invited a new game concept and a open source game implementation with node.js.Push your questions to github and improve your hacker DNA.
+Ist ein Echtzeitspiel basierend auf den Fragen unter https://github.com/Nerds/NerdPursuit/. Zusammen mit 9elements haben wir das Spiel konzipiert und mit node.js umgesetzt. Jeder kann seine eigenen Fragen auf github beitragen und seine Hacker DNA verbessern!
 
 * ....
   * ...
@@ -119,7 +119,7 @@ Supercharge your Campfire chat with a whole catalog of awesome bots. You can eas
 
 # BankLZ
 
-Webservice for german banccodes used for money transfers. The service accepts a bank code (BLZ) and returns information about it in json or xml format
+Ist ein Webservice für deutsche Bankleitzahlen. Der Service gibt Informationen über die mit der BLZ gesuchten Bank in json oder xml heraus.  
 
 * ....
   * ...
@@ -134,7 +134,7 @@ Webservice for german banccodes used for money transfers. The service accepts a 
 
 # Channelthing
 
-channelthing is our rethought online team collaboration tool. Currently it's only available to a limited group of alpha users, join them and register for the alpha program.
+Channelthing ist unser is our rethought online team collaboration tool. Currently it's only available to a limited group of alpha users, join them and register for the alpha program.
 
 * ....
   * ...
