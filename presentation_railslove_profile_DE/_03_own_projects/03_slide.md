@@ -60,7 +60,6 @@ Dealbase unser neues Deal- und Investmenttracking-Tool, dass Unternehmen und Org
   * Für Startups, Venture Capitalists, Organisationen, etc.
   * Hilft Unternehmen beim Dealflow Managment
   * Customizable
-  * Smarte Software - keine "Eierlegende Wollmilchsau"
 * Aktuell - heisse Entwicklungsphase
   * Überarbeitung des UI's
   * Mandantenfähigkeit
@@ -89,7 +88,7 @@ Dealbase unser neues Deal- und Investmenttracking-Tool, dass Unternehmen und Org
 
 # Nerd Pursuit/Hackerspursuit
 
-Ist ein Echtzeitspiel basierend auf den Fragen unter https://github.com/Nerds/NerdPursuit/. Zusammen mit 9elements haben wir das Spiel konzipiert und mit node.js umgesetzt. Jeder kann seine eigenen Fragen auf github beitragen und seine Hacker DNA verbessern!
+Ist ein Echtzeitspiel, dass wir zusammen mit 9elements konzipiert und mit node.js umgesetzt haben. Es basiert auf den Fragen unter https://github.com/Nerds/NerdPursuit/. Jeder kann seine eigenen Fragen auf github beitragen und seine Hacker DNA verbessern!
 
 * ....
   * ...
@@ -104,7 +103,7 @@ Ist ein Echtzeitspiel basierend auf den Fragen unter https://github.com/Nerds/Ne
 
 # Awesome Bot Factory
 
-Supercharge your Campfire chat with a whole catalog of awesome bots. You can easily add existing skills, like weather, build watchers, link creators or flight trackers, to your campfire bots, or write new skills with an ease!
+Unsere Awesome Bot Factory pimpt dein Campfire chat mit einer ganzen Auswahl an coolen bots. Man kann ganz einfach neue skills kreieren oder bereitsvorhande hinzufügen!
 
 * ....
   * ...
@@ -134,8 +133,7 @@ Ist ein Webservice für deutsche Bankleitzahlen. Der Service gibt Informationen 
 
 # Channelthing
 
-Channelthing ist unser is our rethought online team collaboration tool. Currently it's only available to a limited group of alpha users, join them and register for the alpha program.
-
+Channelthing ist ein  Onlinetool für die Gruppenkommunikation und -zusamamenarbeit. Zurzeit ist es nur einer kleinen Gruppe von AlphaUsern zugänglich. Mach mit und registrier dich! 
 * ....
   * ...
   * ...
@@ -149,7 +147,7 @@ Channelthing ist unser is our rethought online team collaboration tool. Currentl
 
 # Coworking.de
 
-coworking.de is a catalogue of coworking spaces all over germany. Since we're part of Coworking Cologne it was a matter of course to support the german coworking community with an application like this. Credits to w11 for the stunning design and hallenprojekt.de for the data.
+coworking.de ist eine Plattform auf der Coworking Spaces aus ganz deutschland verzeichent sind. Da wir Mitglieger des Coworking Cologne sind, war es selbstverständlich, dass wir die deutsche Coworking Community mit einer App unterstützen. Danke an w11 für das tolle Design und an hallenprojekt.de für die Daten!
 
 * ....
   * ...
@@ -164,7 +162,7 @@ coworking.de is a catalogue of coworking spaces all over germany. Since we're pa
 
 # Happypdf
 
-Build your Business, Not a PDF engine. Stop wasting time with crappy PDF libs, layout & design programming, media-disruption, dynamic data merging. happyPDF is an API for .pdf. GET /pdf and be happy.
+happyPDF ist eine API für .pdf.
 
 * ....
   * ...
@@ -179,7 +177,7 @@ Build your Business, Not a PDF engine. Stop wasting time with crappy PDF libs, l
 
 # Railsrunners
 
-Service for organizing charity runs during camps and conferences such as railscamps.org
+Ist ein Service mit dem man Charity-Läufe auf Railscomps, Konferenzen und anderen Veranstaltungen planen und organisieren kann.
 
 * ....
   * ...
@@ -191,10 +189,5 @@ Service for organizing charity runs during camps and conferences such as railsca
 
 # Railslove...
 
- ...das sind 20 kreative Köpfe die sich täglich darüber den Kopf zerbrechen 
+ ...das sind 20 kreative Köpfe die sich täglich darüber den Kopf zerbrechen wie sie das Web revolutionieren können.
 
-!SLIDE callout lila
-
-# wie man das web
-
-REVOLUTIONIEREN KANN
