@@ -10,7 +10,7 @@ Kunden und Partner
 
 # eVenture Capital Partners | BV Capital
 
-eVenture Capital Partners is an Internet focused early stage venture capital firm currently investing out of two Funds: BV Capital III in North America and eVenture I in Europe. Investing in Internet entrepreneurs for almost 15 years, BV Capital frequently is the first institutional investor in companies creating highly scalable services and significant value propositions for their users. Since 2008 Railslove is building internal applications for BV Capital.
+eVenture Capital Partners ist ein auf Internetstartups fokussiertes Early-Stage-Investment Unternehmen, dass derzeit aus zwei Fonds heraus investiert: BV Capital III in Nord Amerika und eVenture I in Europa.  BV Capital investiert seit mehr als 15 Jahren in Internet-Unternehmen. Seit 2008 entwickelen wir interne Apps für BV Capital.
 
 !SLIDE full-page-image
 
@@ -20,12 +20,7 @@ eVenture Capital Partners is an Internet focused early stage venture capital fir
 
 # Nexum AG
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Die nexum AG ist Beratung und Agentur für digitale Medien. Sie hilft ihren Kunden, ihre Geschäftsziele durch eine optimale User Experience und den kreativen Einsatz modernster Technologien zu erreichen. Wir haben die App "o2seller" für nexum entwickelt.
 
 !SLIDE full-page-image
 
@@ -35,12 +30,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # 9elements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+9elements ist eine Softwareagentur aus dem Herzen des Ruhrgebiets. Sie entwickeln leidenschaftlich Web Applikationen mit Rails und Node.js, Designs für das moblie Web und mobile Apps für iPhone und iPad in Objective-C.   
 
 !SLIDE full-page-image
 
@@ -50,12 +40,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Medien.NRW
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Information, Beratung und Vernetzungsangebote aus einer Hand: Das Mediencluster NRW ist eine One-Stop-Agency, wenn es um Medien in Nordrhein-Westfalen geht. Ihr Auftrag lautet, Wachstum und Innovation im Medienland NRW zu fördern und die digitale Zukunft der Medien mitzugestalten.
 
 !SLIDE full-page-image
 
@@ -65,12 +50,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # AdCloud
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Adcloud wurde 2009 mit Hauptsitz in Köln gegründet. Seit April 2011 ist Adcloud ein Unternehmen der Deutsche Post DHL. Adcloud hat 30 feste Mitarbeiter, ist international aktiv und liefert aktuell bis zu 5.000 Werbekontakte pro Sekunde für mehr als 3.500 Werbekunden auf über 500 internationalen Premium-Websites aus.
 
 !SLIDE full-page-image
 
@@ -80,9 +60,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # DailyDeal
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+DailyDeal ist ein Städteportal mit einem täglich wechselnden Live-Shopping-Angebot für die größten Städte in Deutschland. Mit Rabatt werden jeden Tag Freizeitangebote in der eigenen Stadt angeboten. Möglich werden diese Rabatte durch die vielen Nutzer. DailyDeal hat seinen Sitz in Berlin Prenzlauer Berg und unterhält Dependancen in Wien und Zürich. 
