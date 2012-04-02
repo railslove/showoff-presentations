@@ -67,7 +67,7 @@ Dealbase unser neues Deal- und Investmenttracking-Tool, dass Unternehmen und Org
 
 !SLIDE full-page-image
 
-![Kölsch Deckel](koelsch-deckel.png)
+![Kölsch Deckel](koelschdeckel.png)
 
 !SLIDE
 
@@ -82,7 +82,7 @@ Dealbase unser neues Deal- und Investmenttracking-Tool, dass Unternehmen und Org
 
 !SLIDE full-page-image
 
-![Nerd Pursuit/Hackerspursuit](nphp.png)
+![Nerd Pursuit/Hackerspursuit](hackerspursuit.png)
 
 !SLIDE
 
