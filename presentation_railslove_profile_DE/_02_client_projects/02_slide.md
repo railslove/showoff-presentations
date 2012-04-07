@@ -244,3 +244,75 @@ Bei Pokenvision handelt es sich um eine kleine Rails-App, bei der sich Poken-Bes
 * Besonderheiten
   * ...
   * ...  
+
+!SLIDE full-page-image
+
+![Falk Mobile](falk-mobile.png)
+
+!SLIDE
+
+# Falk Mobile
+
+Mit Falk Mobile sind der Falk Routenplaner, die Karten, sowie mehrere Millionen touristische Sonderziele, wie Museen, Restaurants oder Kinos, direkt auf dem mobilen Endgerät abrufbar.
+
+* Tech Specs
+  * ...
+  * ....
+  * ...
+* Besonderheiten
+  * ...
+  * ...  
+
+!SLIDE full-page-image
+
+![moviepilot.com](moviepilot.png)
+
+!SLIDE
+
+# moviepilot.com
+
+moviepilot.com ist eine neue, globale Plattform für brandneue und klassische Kinofilme und deren Fans. Hier kann man Neuigkeiten, Fakten und Trailer rund um die Filme diskutieren, lange bevor diese in die Kinos kommen.
+
+* Tech Specs
+  * ...
+  * ....
+  * ...
+* Besonderheiten
+  * ...
+  * ...  
+
+!SLIDE full-page-image
+
+![phase2generator](phase2generator.png)
+
+!SLIDE
+
+# phase2generator
+
+Der phase2generator, bietet potentiellen Gründern einen grafischen Rahmen, in welchem die Geschäftsidee dargestellt wird und führt den Gründer Schritt für Schritt durch das Ausfüllen, bis man zum Schluss das Geschäftsmodell vor sich sieht.
+
+* Tech Specs
+  * ...
+  * ....
+  * ...
+* Besonderheiten
+  * ...
+  * ... 
+
+!SLIDE full-page-image
+
+![UnitedDeposit](uniteddeposit.png)
+
+!SLIDE
+
+# United Desposit
+
+United Deposit stellt eine Alternative zur allgemeinen Mietkaution dar. Mieter müssen keine hohe Kaution im Voraus mehr zahlen und Vermieter können sich darauf verlassen, dass das Mietoblejt durch United Deposit geschützt ist. 
+
+* Tech Specs
+  * ...
+  * ....
+  * ...
+* Besonderheiten
+  * ...
+  * ... 

@@ -1,6 +1,6 @@
 !SLIDE callout lila
 
-Kunden und Partner
+Friends of Railslove
 
 !SLIDE full-page-image
 
@@ -14,17 +14,7 @@ eVenture Capital Partners ist ein auf Internetstartups fokussiertes Early-Stage-
 
 !SLIDE full-page-image
 
-![Kooperation mit der Nexum AG](nexum_o2seller.png)
-
-!SLIDE
-
-# Nexum AG
-
-Die nexum AG ist Beratung und Agentur für digitale Medien. Sie hilft ihren Kunden, ihre Geschäftsziele durch eine optimale User Experience und den kreativen Einsatz modernster Technologien zu erreichen. Wir haben die App "o2seller" für nexum entwickelt.
-
-!SLIDE full-page-image
-
-![Die perfekte Ergänzung mit 9elements GmbH](9pixelments.png)
+![Die perfekte Ergänzung mit 9elements GmbH](9elements.png)
 
 !SLIDE
 
@@ -34,7 +24,7 @@ Die nexum AG ist Beratung und Agentur für digitale Medien. Sie hilft ihren Kund
 
 !SLIDE full-page-image
 
-![Medien.NRW](medien_nrw.png)
+![Medien.NRW](medien_NRW.png)
 
 !SLIDE
 
@@ -44,7 +34,7 @@ Information, Beratung und Vernetzungsangebote aus einer Hand: Das Mediencluster 
 
 !SLIDE full-page-image
 
-![AdCloud](adcloud.png)
+![AdCloud](Adcloud.png)
 
 !SLIDE
 
@@ -54,10 +44,10 @@ Adcloud wurde 2009 mit Hauptsitz in Köln gegründet. Seit April 2011 ist Adclou
 
 !SLIDE full-page-image
 
-![DailyDeal](dailydeal.png)
+![Piratesummit](piratesummit.png)
 
 !SLIDE
 
-# DailyDeal
+# Piratesummit
 
-DailyDeal ist ein Städteportal mit einem täglich wechselnden Live-Shopping-Angebot für die größten Städte in Deutschland. Mit Rabatt werden jeden Tag Freizeitangebote in der eigenen Stadt angeboten. Möglich werden diese Rabatte durch die vielen Nutzer. DailyDeal hat seinen Sitz in Berlin Prenzlauer Berg und unterhält Dependancen in Wien und Zürich. 
+Der Piratesummit richtet sich an Entrepreneure, die sich von dem “Manifest” von Michael Arrington “Are you a pirate?” angesprochen fühlen. Schon 2011 waren viele internationale Teilnehmer auf dem Event, es gab eine Reihe namhafter Speaker, die Location war einzigartig und das Feedback der Teilnehmer sehr positiv. Deutsche Startups hat den Pirate Summit sogar zur Veranstaltung des Jahres gewählt.

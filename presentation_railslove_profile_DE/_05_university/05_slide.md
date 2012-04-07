@@ -1,26 +1,20 @@
-!SLIDE callout cyan
+!SLIDE callout orange
 
 Schulungen
 
-!SLIDE callout orange
+!SLIDE
 
 # Das Problem
 
 Entwicklermangel auf dem Fachmarkt und mangelnde Förderung von Studierenden
-
-!SLIDE callout cyan
   
 # Die Ziele
   
 Nachwuchsförderung, Wissensaustausch, Ausschöpfung des wirtschaftlichen Potentials
 
-!SLIDE callout lila
-
 # Die Zielgruppe
 
 Freelancer, Unternehmen, Studenten, Schüler, Kids
-
-!SLIDE callout green
 
 # 2012 Stärkung des Austausches zwischen
 

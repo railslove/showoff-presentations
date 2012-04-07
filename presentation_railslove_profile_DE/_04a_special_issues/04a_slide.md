@@ -1,4 +1,4 @@
-!SLIDE callout orange
+!SLIDE callout cyan
 
 Special issues
 

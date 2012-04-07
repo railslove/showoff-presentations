@@ -44,7 +44,7 @@ SalesKing ist eine On-Demand-Software (SaaS), die online genutzt werden kann. Re
 
 !SLIDE full-page-image
 
-![dealbaseapp.com - Dealflow Applikation für Unternehmen und Venture Capitals](dealbase_dashboard.png)
+![dealbaseapp.com - Dealflow Applikation für Unternehmen und Venture Capitals](dealbase.png)
 
 !SLIDE
 
@@ -67,7 +67,8 @@ Dealbase unser neues Deal- und Investmenttracking-Tool, dass Unternehmen und Org
 
 !SLIDE full-page-image
 
-![Kölsch Deckel](koelschdeckel.png)
+![Kölsch Deckel](koelschdeckel.png
+)
 
 !SLIDE
 
@@ -75,10 +76,11 @@ Dealbase unser neues Deal- und Investmenttracking-Tool, dass Unternehmen und Org
 
  Der Kölsch-Deckel ist ein digitaler Bierdeckel für die Hosentasche. Zeige anderen wo Du gerade bist und lade deine Freunde zu Dir ein. Zähle deine getrunkenen Kölsch und zeige anderen Kölnern in welchem Veedel und welcher Kneipe gerade etwas los ist.
 
-* ....
-  * ...
-  * ...
-* ...
+* Das perfekte immer-dabei-Marketinginstrument
+  * „Generation Smartphone“ als Zielgruppe
+  * Positionierung als aktuelle, moderne Marke mit eigener App 
+  * Häufiger Kontakt zwischen Marke und Nutzer durch Präsenz auf den Homescreens der Telefone und durch Push-Informationen auf die Geräte der Nutzer im Rahmen von Kampagnen und Aktionen (Gastro-Tipps, Kölsch-Quiz, ...)
+* trotz aller Technik urkölsch: „Drink doch ene met“
 
 !SLIDE full-page-image
 
@@ -133,7 +135,8 @@ Ist ein Webservice für deutsche Bankleitzahlen. Der Service gibt Informationen 
 
 # Channelthing
 
-Channelthing ist ein  Onlinetool für die Gruppenkommunikation und -zusamamenarbeit. Zurzeit ist es nur einer kleinen Gruppe von AlphaUsern zugänglich. Mach mit und registrier dich! 
+Channelthing ist ein  Onlinetool für die Gruppenkommunikation und -zusamamenarbeit. Zurzeit ist es nur einer kleinen Gruppe von AlphaUsern zugänglich. Mach mit und registrier dich!
+
 * ....
   * ...
   * ...
@@ -183,11 +186,3 @@ Ist ein Service mit dem man Charity-Läufe auf Railscomps, Konferenzen und ander
   * ...
   * ...
 * ...
-
-
-!SLIDE callout
-
-# Railslove...
-
- ...das sind 20 kreative Köpfe die sich täglich darüber den Kopf zerbrechen wie sie das Web revolutionieren können.
-
