@@ -20,9 +20,11 @@ Freelancer, Unternehmen, Studenten, Schüler, Kids
 
 Unternehmen und öffentlichen Institutionen
 
-!SLIDE full-page-image
+!SLIDE callout orange
 
-![Railslove University - Startseite mit zukünftigen Kursen](university.png)
+# Schulungen
+
+Unsere Kunden
 
 !SLIDE full-page-image
 
@@ -46,7 +48,7 @@ Adcloud wurde 2009 mit Hauptsitz in Köln gegründet. Seit April 2011 ist Adclou
 
 !SLIDE full-page-image
 
-![Studitemps GmbH](studitemps_gmbh.png)
+![Studitemps GmbH](studitemps.png)
 
 !SLIDE
 
