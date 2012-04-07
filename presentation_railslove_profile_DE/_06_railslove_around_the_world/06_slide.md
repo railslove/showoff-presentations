@@ -1,32 +1,23 @@
 !SLIDE callout lila
 
-Railslove Around the World
+Railslove around the World
 
-!SLIDE callout
-
-# Wir sind Co-Founder und Betreiber
-
-von Coworking Cologne
-
-!SLIDE callout
-
-# Und betreuen
-
-zahlreiche Events & User Groups
-
-!SLIDE
+!SLIDE 
 
 # Coworking Cologne
 
-* Co-Founder und Betreiber
   * Mitgründer und Betreiber des Coworking Space Gasmotorenfabrik Köln e.V.
   * Gegründet 2010 von 15 Leuten
+
+# Events & User Groups
+
+  * Wir organisieren und betreuen verschiedene Events & User Groups
 
 !SLIDE
 
 # Events 
 
-* bis 2012
+* Bis 2012
   * Railscamp
   * Coworking Day 
   * Nodecamp 

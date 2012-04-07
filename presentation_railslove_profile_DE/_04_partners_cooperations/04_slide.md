@@ -1,6 +1,6 @@
 !SLIDE callout lila
 
-Kunden und Partner
+Friends of Railslove
 
 !SLIDE full-page-image
 
@@ -14,7 +14,7 @@ eVenture Capital Partners ist ein auf Internetstartups fokussiertes Early-Stage-
 
 !SLIDE full-page-image
 
-![Die perfekte Ergänzung mit 9elements GmbH](9pixelments.png)
+![Die perfekte Ergänzung mit 9elements GmbH](9elements.png)
 
 !SLIDE
 
