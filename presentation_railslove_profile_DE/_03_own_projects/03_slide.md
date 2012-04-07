@@ -44,7 +44,7 @@ SalesKing ist eine On-Demand-Software (SaaS), die online genutzt werden kann. Re
 
 !SLIDE full-page-image
 
-![dealbaseapp.com - Dealflow Applikation für Unternehmen und Venture Capitals](dealbase_dashboard.png)
+![dealbaseapp.com - Dealflow Applikation für Unternehmen und Venture Capitals](dealbase.png)
 
 !SLIDE
 
