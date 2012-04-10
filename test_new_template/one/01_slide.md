@@ -52,7 +52,7 @@ Sales King Rules
 
 #Skipping in 2s
 
-<!SLIDE agenda>
+<!SLIDE agenda vertically-centered>
 
 Agenda:
 
