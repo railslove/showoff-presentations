@@ -47,6 +47,8 @@ Available styles are:
   [<img src="showoff-presentations/raw/master/template/readme-images/chapter-opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/chapter-opener.png)
 * **full-page-image** single image with caption automatically take from the image's alt attribute  
   [<img src="showoff-presentations/raw/master/template/readme-images/full-page-image.png" width="200">](showoff-presentations/raw/master/template/readme-images/full-page-image.png)
+* **vertically-centered** Vertically centers the content of the slide overriding the default 120px top margin
+* **style=margin-top:300px** adds custom css to the content of the slide, in this sample it adds a 300px top margin which overrides the default 120px
 
 *P.S.: [test_new_template/one/01_slide.md](showoff-presentations/blob/master/test_new_template/one/01_slide.md) shows off these features in use*
 
