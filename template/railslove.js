@@ -43,6 +43,11 @@
         centerSlides($(this));
       });
 
+      //apply magic style=....
+      $('.slide .content[class*="style="]').each( function(index){
+        $(this).attr('style', $(this)[0].className.match(/style=(.*)/)[1] );
+      });
+
       $('.slide.full-page-image .content img').each( function(index){
         $(this).parent().append( $('<div class="title">').append( $(this).attr('alt') ) );
       });
