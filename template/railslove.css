@@ -142,7 +142,7 @@ p, li {
   background-repeat: no-repeat;*/
   padding: 28px 42px 28px 42px;
   width: 700px;
-  height: 212px;
+  min-height: 212px;
   margin: 0 auto;
   border-radius: 3px;
   margin-top: 126px !important;
@@ -155,9 +155,9 @@ p, li {
     content: "";
     display: inline-block;
     height: 0;
-    top: 394px;
-    left: 840px;
-    position: absolute;
+    top: 50px;
+    left: 670px;
+    position: relative;
     width: 0;
 }
 

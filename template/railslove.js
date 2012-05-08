@@ -20,7 +20,7 @@
       $('#preso').css('overflow', 'visible');
       $('.slide').after('<div class="page-break"></div>');
 
-      centerSlides($('.slide'));
+      centerSlides($('.slide.vertically-centered'));
 
       alert("Now you can print using safari's normal print option\nDon't forget to check the print backgrounds option, and preferrably use landscape mode.");
     }
@@ -36,10 +36,16 @@
       });
 
       //after applying our classes to the slide, we need to recalculate the vertical centering
-      centerSlides($('.slide'));
+      $('.slide .content').css('margin-top', '120px');
+      centerSlides($('.slide.vertically-centered'));
       //also do that when showing a new slide
-      $('.slide').bind("showoff:show", function (event) {
+      $('.slide.vertically-centered').bind("showoff:show", function (event) {
         centerSlides($(this));
+      });
+
+      //apply magic style=....
+      $('.slide .content[class*="style="]').each( function(index){
+        $(this).attr('style', $(this)[0].className.match(/style=(.*)/)[1] );
       });
 
       $('.slide.full-page-image .content img').each( function(index){

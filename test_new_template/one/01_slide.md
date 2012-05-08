@@ -52,7 +52,7 @@ Sales King Rules
 
 #Skipping in 2s
 
-<!SLIDE agenda>
+<!SLIDE agenda vertically-centered>
 
 Agenda:
 
@@ -66,7 +66,7 @@ Agenda:
 
 * Top 4: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper dolor sed urna fermentum ullamcorper consectetur lacus pellentesque.
 
-<!SLIDE>
+<!SLIDE style=margin-top:300px>
 
 #Default
 
