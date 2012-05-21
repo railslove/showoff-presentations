@@ -1,148 +1,105 @@
-!SLIDE
+!SLIDE callout
 
-# Inhalt
+# Der Informatiker
 
-* Einführung
-  * Railslove
-* Kaptiel 1
-  * Die Wege in die Wirtschaft
-  * Rollen eines Informatikers
-* Kapitel 2
-  * Informatiker aus verschiedenen Blickwinkeln
-  * Biz, Produkt, Entwicklung, Work-Life-Balance
- 
-<!-- 
-* Inhalt
-  * Wer sind wir
-  * Worum geht es hier
-
-* Railslove vorstellung
-  * Was ist Railslove
-  * Geschichte & Entwicklung
-  * Personen
-  * Kunden
-  * Produkte
-
-* Hands on 1
-  * Wir haben Spass
-  * Hackerspursuit Spielen
-
-* Der Unterschied zwischen einem Arbeitnehmer, Selbständigen und Unternehmer (Nicht eigener Sklave sein)
+und das Biz (pling, pling ;-)
 
 !SLIDE
 
-# Wege eines Studenten in die Wirtschaft und ins Web
-  * Student => Nebenjob als Informatiker => Informatiker => Web
-  * Verbindung zw. Student - Uni - Wirtschaft (Gespräch Noss) hinbekommt
+# Ich will mein eigener Chef sein
 
-* Was mach ich während, nach und (neben) dem Studium?
-  * Netzwerken
-  * Konzepten
-  * Coden
-  * Grüden
-  * Organisieren, Events etc.
+* Ausbildung vorerst "egal"
+  * jedoch verdammt nützlich
+  * Schulabrecher gründen die größten Unternehmen
+* Bin ich ein Überflieger?
+  * dann sässe ich hier wahrscheinlich nicht
 
-* Hands on 2a
-  * Überlegt Euch ein cooles Event
+!SLIDE callout
 
-!SLIDE
+# Fakt
 
-# Informatiker so allgemein
-
-* Rollen
-  * Vorstellen
-  * Zuordnen => an der Tafel
-
-* Hands on 2b
-  * Ordnet Eure Namen zu Rollen
+ist
 
 !SLIDE
 
-# Informatiker im Biz
+# es gibt zwar keine Vorlesung zum Thema "jung und Reich als Gründer"
 
-* Konzepten, Coden, Gründen (Startup)
-  * Was ist ein Startup
-  * Zum Startup in 5 Schritten
-  * Chancen und Risiken
-  * Shares, EXIT, Investment(-runden), Excelsheet zeigen....
-
-* Netzwerken, Gründen, Konzepten, Coden (Agentur)
-  * Was ist eine Agentur
-  * Zum Startup in 2 Schritten
-  * Chancen und Risiken
-  * Verträge-foo, usw.
+* aber das Wissen was hier vermittelt wird ist in Bereich des Businesses sehr wertwoll
+* Mathe - Zahlen
+  * schon mal eine Grundlage für die Gründung und Führung eines Unternehmens
+* Programmierung
+  * Logisches Denken
+* BWL
+  * BetriebWIRSCHAFTSlehre
+* wir hassen es - wir werden es aber brauchen und uns auch daran erinnern
 
 !SLIDE
 
-# Informatiker im Biz
+# Was kann ich Gründen:
 
-* "Mischform"
-  * Chancen und Risiken
-  * Fokusierung schwierig
+* Dienstleistungsunternehmen: Agentur Railslove
+  * ich "diene" jemanden - arbeite für andere Menschen/Firmen
+  * Ergbringung einer Leistung
+  * Deckung eines Bedarfes
+  * Immateriell
+  * Ziel: ...........................
+* Produktstartup z.B.: Salesking GmbH
+  * Materielles Gut im Vordergrund
+  * Produktherstellung: Grill, Moped, Software
+  * Ziel: ...........................  
+* (Mischform)
+  * Unternehmen die beides realisieren
+  * Fokus
+  * Ziel: ...........................
 
-* Was hat ein Web-Startup und Agentur gemeinsam
-  * Sie schaffen Produkt(e)
-  * Wie schaffen sie Produkte
-
-* Hands on 3
-  * Produkt geben was es gibt
-  * Pitchen
-
-!SLIDE
-
-# Informatiker im Produkt
-  * Agil, Rollen, Vorgehen, Methodiken, Scrum, Kanban
-  * Spezialisierung (Spezielle Rolle)
-  * Keeps track the project progress
-  * Product manager, CTO, etc.
-  * Markt-Konkurenzanalyse, etc.
-
-* Hands on 4
-  * Produkt geben was es gibt
-  * Produktteile in einer sinvollen Reihenfolge legen
-  * Produktentwicklung
 
 !SLIDE
 
-# Informatiker in der Entwicklung
-  * Spezialisierung (Spezielle Rolle)
-  * "Ich code"
-  * Stephan sagt dass soll weiter vor. Jan sagt: mal gugn
+# Ideas are just a multiplier of execution
 
-* Hands on 5
-  * ER Diagramm etc.
-  * Praktisches
+To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions.
+
+Explanation:
+
+AWFUL IDEA = -1
+WEAK IDEA = 1
+SO-SO IDEA = 5
+GOOD IDEA = 10
+GREAT IDEA = 15
+BRILLIANT IDEA = 20
+
+NO EXECUTION = $1
+WEAK EXECUTION = $1000
+SO-SO EXECUTION = $10,000
+GOOD EXECUTION = $100,000
+GREAT EXECUTION = $1,000,000
+BRILLIANT EXECUTION = $10,000,000
+
+To make a business, you need to multiply the two.
+
+The most brilliant idea, with no execution, is worth $20.
+The most brilliant idea takes great execution to be worth $20,000,000.
 
 !SLIDE
 
-# Informatiker arbeiten effektiv
+# Die 5 Schritte zum erfolgreichen Unternehmen
 
-* Effektiv arbeiten
-  * Was bedeutet das?
-    * Alltag organizieren
-    * Scrum
-    * ___?
-  * Tools
-    * Benutze das womit Du gut arbeiten kannst
-    * Zum organisieren, Teamwork, Coden, Sprintplanungen, etc.
+* Überleg Dir was Du machen möchtest
+  * Ideas are just a multiplier of execution
+* Such Dir ein passendes Team dem Du vertraust
+* Fang an!
+* Arbeite. Wenn nötig besorgst Du Dir eine Steuernummer. Du brauchst noch keinen Anwalt
+* Verkaufe. Stell Rechnungen. Du brauchst noch keine Steuernummer.
+* "MVP Bro!" (http://www.startuplessonslearned.com/2009/03/minimum-viable-product.html)
 
-* Hands on 6
-  * ......
+# Hands On IV
 
-!SLIDE
+Ideas...
 
-# Informatiker leben gesund und sind happy
-  * Obst auf der Theke
-  * Basketballkorb im Hof
-  * Kicker
-  * Bowlen
-  * Zocken
-  * Gym
-  * ...
-  * ...
+!SLIDE chapter-opener
 
-* Hands on 6
-  * Rechenaufgabe (Irgendwas)
-  * Macht Jan gerne
+Aufgabe
 
--->
+Überlegt Euch was ihr gerne machen würdet (Dienstleistung/Produkt) und welche Rolle Ihr in diesem Unternehmen einnehmen würdet (und warum)
+
+10 Min. Bearbeitungszeit

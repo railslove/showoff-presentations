@@ -1,148 +1,173 @@
-!SLIDE
+!SLIDE callout
 
-# Inhalt
+# Der Informatiker
 
-* Einführung
-  * Railslove
-* Kaptiel 1
-  * Die Wege in die Wirtschaft
-  * Rollen eines Informatikers
-* Kapitel 2
-  * Informatiker aus verschiedenen Blickwinkeln
-  * Biz, Produkt, Entwicklung, Work-Life-Balance
- 
-<!-- 
-* Inhalt
-  * Wer sind wir
-  * Worum geht es hier
+und sein Leben
 
-* Railslove vorstellung
-  * Was ist Railslove
-  * Geschichte & Entwicklung
-  * Personen
-  * Kunden
-  * Produkte
+!SLIDE callout cyan
 
-* Hands on 1
-  * Wir haben Spass
-  * Hackerspursuit Spielen
+# Getting better
 
-* Der Unterschied zwischen einem Arbeitnehmer, Selbständigen und Unternehmer (Nicht eigener Sklave sein)
+To reach the Nirvana
 
-!SLIDE
+!SLIDE callout
 
-# Wege eines Studenten in die Wirtschaft und ins Web
-  * Student => Nebenjob als Informatiker => Informatiker => Web
-  * Verbindung zw. Student - Uni - Wirtschaft (Gespräch Noss) hinbekommt
+# Don't work alone
 
-* Was mach ich während, nach und (neben) dem Studium?
-  * Netzwerken
-  * Konzepten
-  * Coden
-  * Grüden
-  * Organisieren, Events etc.
+Humans are crowd animals
 
-* Hands on 2a
-  * Überlegt Euch ein cooles Event
+!SLIDE callout orange
 
-!SLIDE
+# Find pairs online or in your local user group
 
-# Informatiker so allgemein
+Go Coworking
 
-* Rollen
-  * Vorstellen
-  * Zuordnen => an der Tafel
+!SLIDE callout cyan
 
-* Hands on 2b
-  * Ordnet Eure Namen zu Rollen
+# If you don't have a space nearby
 
-!SLIDE
+Create one
 
-# Informatiker im Biz
+!SLIDE callout lila
 
-* Konzepten, Coden, Gründen (Startup)
-  * Was ist ein Startup
-  * Zum Startup in 5 Schritten
-  * Chancen und Risiken
-  * Shares, EXIT, Investment(-runden), Excelsheet zeigen....
+# Go to your local user group
 
-* Netzwerken, Gründen, Konzepten, Coden (Agentur)
-  * Was ist eine Agentur
-  * Zum Startup in 2 Schritten
-  * Chancen und Risiken
-  * Verträge-foo, usw.
+Meet, Talk and teach 
 
-!SLIDE
+!SLIDE callout lila
 
-# Informatiker im Biz
+# Having a working body is important
 
-* "Mischform"
-  * Chancen und Risiken
-  * Fokusierung schwierig
+We mostly work with our minds, but the mind is a part of the body
 
-* Was hat ein Web-Startup und Agentur gemeinsam
-  * Sie schaffen Produkt(e)
-  * Wie schaffen sie Produkte
+!SLIDE callout cyan
 
-* Hands on 3
-  * Produkt geben was es gibt
-  * Pitchen
+# Conclusion
 
-!SLIDE
+For the mind to work well, the body must be in good shape
 
-# Informatiker im Produkt
-  * Agil, Rollen, Vorgehen, Methodiken, Scrum, Kanban
-  * Spezialisierung (Spezielle Rolle)
-  * Keeps track the project progress
-  * Product manager, CTO, etc.
-  * Markt-Konkurenzanalyse, etc.
+!SLIDE callout sk-red
 
-* Hands on 4
-  * Produkt geben was es gibt
-  * Produktteile in einer sinvollen Reihenfolge legen
-  * Produktentwicklung
+# U NO TREAT YOUR BODY
 
-!SLIDE
+Not treating the body right leads to a mortgage that has to be paid back 
 
-# Informatiker in der Entwicklung
-  * Spezialisierung (Spezielle Rolle)
-  * "Ich code"
-  * Stephan sagt dass soll weiter vor. Jan sagt: mal gugn
+!SLIDE callout sk-red
 
-* Hands on 5
-  * ER Diagramm etc.
-  * Praktisches
+# AVOID
 
-!SLIDE
+Stressful projects
 
-# Informatiker arbeiten effektiv
+!SLIDE callout sk-red
 
-* Effektiv arbeiten
-  * Was bedeutet das?
-    * Alltag organizieren
-    * Scrum
-    * ___?
-  * Tools
-    * Benutze das womit Du gut arbeiten kannst
-    * Zum organisieren, Teamwork, Coden, Sprintplanungen, etc.
+# AVOID
 
-* Hands on 6
-  * ......
+Stressful clients
 
-!SLIDE
+!SLIDE callout green
 
-# Informatiker leben gesund und sind happy
-  * Obst auf der Theke
-  * Basketballkorb im Hof
-  * Kicker
-  * Bowlen
-  * Zocken
-  * Gym
-  * ...
-  * ...
+# There are plenty of other
 
-* Hands on 6
-  * Rechenaufgabe (Irgendwas)
-  * Macht Jan gerne
+Projects and Clients out there
 
--->
+!SLIDE full-page-image
+
+<img src="recover.jpeg" alt="RECOVER! (CC BY-NC-ND by drewleavy @ flickr)" height="100%" />
+
+!SLIDE callout sk-red
+
+# Please believe us
+
+Burn out is a real blocker!
+
+!SLIDE full-page-image
+
+<img src="recover.jpeg" alt="Sleep is needed for RECOVERY! (CC BY-NC-ND by drewleavy @ flickr)" height="100%" />
+
+!SLIDE callout lila
+
+# Reguraly take a
+Nap
+
+!SLIDE callout sk-red
+
+# And NO!
+
+Red Bull WON'T HELP
+
+!SLIDE callout cyan
+
+# 30 minutes of activity a day
+
+help against
+
+!SLIDE callout sk-red
+
+Depression
+
+!SLIDE callout sk-red
+
+Obesity
+
+!SLIDE callout sk-red
+
+High blood pressure
+
+!SLIDE callout green
+
+# Start
+
+Slowly
+
+!SLIDE callout green
+
+# Stay
+
+Healthy
+
+!SLIDE callout green
+
+# Live 
+
+longer
+
+
+!SLIDE full-page-image
+
+<img src="i-feel-good-cefjhjkojlmqacfh.jpeg" alt="Feel good" height="100%" />
+
+!SLIDE callout lila
+
+# Eat right
+
+You're diet is important
+
+!SLIDE callout lila
+
+# If you want to lose weight
+
+Do it slowly
+
+!SLIDE callout
+
+!SLIDE full-page-image
+
+<img src="apple.jpeg" alt="A LOC a day keeps the doctor away" height="100%" />
+
+!SLIDE callout cyan
+
+# in about ~25 from 50 diseases
+
+an apple can prevent from being sick
+
+!SLIDE callout orange
+
+# Get a hobby
+
+Be inspired by other arts
+
+!SLIDE callout sk-red
+
+# Maybe you find something else besides
+
+PHOTOGRAPHY
