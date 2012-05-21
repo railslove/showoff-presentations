@@ -1,7 +1,17 @@
 !SLIDE
 
-# Warm up
+# Inhalt
 
+* Einführung
+  * Railslove
+* Kaptiel 1
+  * Die Wege in die Wirtschaft
+  * Rollen eines Informatikers
+* Kapitel 2
+  * Informatiker aus verschiedenen Blickwinkeln
+  * Biz, Produkt, Entwicklung, Work-Life-Balance
+ 
+<!-- 
 * Inhalt
   * Wer sind wir
   * Worum geht es hier
@@ -134,3 +144,5 @@
 * Hands on 6
   * Rechenaufgabe (Irgendwas)
   * Macht Jan gerne
+
+-->
