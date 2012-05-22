@@ -21,33 +21,6 @@
 
 !SLIDE
 
-# Wege eines Studenten in die Wirtschaft und ins Web
-  * Student => Nebenjob als Informatiker => Informatiker => Web
-  * Verbindung zw. Student - Uni - Wirtschaft (Gespräch Noss) hinbekommt
-
-* Was mach ich während, nach und (neben) dem Studium?
-  * Netzwerken
-  * Konzepten
-  * Coden
-  * Grüden
-  * Organisieren, Events etc.
-
-* Hands on 2a
-  * Überlegt Euch ein cooles Event
-
-!SLIDE
-
-# Informatiker so allgemein
-
-* Rollen
-  * Vorstellen
-  * Zuordnen => an der Tafel
-
-* Hands on 2b
-  * Ordnet Eure Namen zu Rollen
-
-!SLIDE
-
 # Informatiker im Biz
 
 * Konzepten, Coden, Gründen (Startup)
@@ -78,30 +51,6 @@
   * Produkt geben was es gibt
   * Pitchen
 
-!SLIDE
-
-# Informatiker im Produkt
-  * Agil, Rollen, Vorgehen, Methodiken, Scrum, Kanban
-  * Spezialisierung (Spezielle Rolle)
-  * Keeps track the project progress
-  * Product manager, CTO, etc.
-  * Markt-Konkurenzanalyse, etc.
-
-* Hands on 4
-  * Produkt geben was es gibt
-  * Produktteile in einer sinvollen Reihenfolge legen
-  * Produktentwicklung
-
-!SLIDE
-
-# Informatiker in der Entwicklung
-  * Spezialisierung (Spezielle Rolle)
-  * "Ich code"
-  * Stephan sagt dass soll weiter vor. Jan sagt: mal gugn
-
-* Hands on 5
-  * ER Diagramm etc.
-  * Praktisches
 
 !SLIDE
 

@@ -2,6 +2,7 @@
   "name": "Coden, Konzepten, Gründen - Gesund Leben, effektiv arbeiten - Das Berufsbild des Informatikers in verschieden Rollen als Arbeitnehmer und Unternehmer am Beispiel der Webagentur Railslove",
   "sections": [
     "title.md",
-    "agenda.md"  
+    "agenda.md",
+    "ways.md"
   ]
 }
