@@ -181,14 +181,14 @@ p, li {
 }
 #preso .slide .content p {
   color: #444;
-  font-size: 22px;
+  font-size: 28px;
   font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
   text-align: left;
   margin: 0 0 20px;
 }
 #preso .slide .content h1 {
   color: #32b93c;
-  font-size: 22px;
+  font-size: 28px;
   font-family: "VAG Rounded W01 Bold", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
   text-align: left;
   line-height: 1.4em;
@@ -206,12 +206,12 @@ p, li {
 #preso .slide .content li,
 #preso .slide .content li p {
   font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
-  font-size: 22px;
+  font-size: 28px;
   margin-bottom: 15px;
 }
 #preso .slide .content li p {
   font-family: "VAG Rounded W01 Light", 'Railslove Stroke L', Lato, Helvetica, Arial, sans-serif;
-  font-size: 22px;
+  font-size: 28px;
   margin-bottom: 10px;
 }
 #preso .slide.agenda .content li,
@@ -283,11 +283,11 @@ blockquote p {
 .page-break  { display:none; }
 
 @media print {
- 
+
   #preso .slide.callout .content:after {
     top: 390px;
   }
-  
+
   .slide .center {
     width: 1024px;
     height: 768px;
