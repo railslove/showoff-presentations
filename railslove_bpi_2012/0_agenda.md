@@ -3,10 +3,12 @@
 # Inhalt
 
 * Einführung
-  * Railslove
-* Kaptiel 1
-  * Die Wege in die Wirtschaft
-  * Rollen eines Informatikers
-* Kapitel 2
+  * Vorstellung Vortragende
+  * Vorstellung Railslove
+* Die Wege in die Wirtschaft
+* Die Rollen eines Informatikers
   * Informatiker aus verschiedenen Blickwinkeln
-  * Biz, Produkt, Entwicklung, Work-Life-Balance
+  * Biz - Produkt - Entwicklung
+* Die Work-Life-Balance eines Informatikers
+  * Effizient arbeiten
+  * Gesund leben

@@ -1,6 +1,31 @@
 !SLIDE callout
 
-# Let me introduce you to
+# Vorstellung
+
+Vortragende
+
+!SLIDE
+
+# Stephan Pavlovic & Jan Kus
+
+* Stephan Pavlovic
+  * 07.10.1984
+  * Studium an der FH-Köln - Medieninformatik (M. Sc.)
+  * Lehrbeauftragter (FH-Köln), Angestellter bei Railslove seit 2010
+  * Frontendentwicklung, Projektleitung, Schulungen
+  * Usergrups: UX UG, Kölsch.rb, Webmontag
+  * Fussball, Basketball, Radfahren, Tennis
+* Jan Kus
+  * 02.05.1982
+  * Studium an der FH-Köln - Medieninformatik (M. Sc.)
+  * Gründer von Railslove (2008)
+  * Backendentwicklung, Unternehmensleitung
+  * Usergroups: Webmontag, DevHouseFriday Chillout, Kölsch.rb
+  * Basketball, Kampfsport/Boxen, Joggen, Radfahren
+
+!SLIDE callout
+
+# Vorstellung
 
 Railslove
 
@@ -11,11 +36,11 @@ Railslove
 * Ruby on Rails Beratung und Entwicklung
   * Neu- und Weiterentwicklung von Webplattformen
 * Entwicklung, Betrieb und Vermarktung eigener Webservices 
-  * SaaS
-  * Joint Venture mit anderen Unternehmen 
+  * SaaS (Software as a Service - Vertriebsmodell von Software, wobei die Software und die Daten in der Cloud gehosted werden und der Zugriff durch einen thin-client (Browser) erfolgt)
+  * Joint Venture mit anderen Unternehmen (z.B. Sales King GmbH, 9elements GmbH)
 * Schulungen im Bereich Webentwicklung
   * Idee stammt aus dem Fachkräftemangel in unserem Bereich
-  * Railslove University
+  * Gründung der "Railslove University"
 * Gründer von Coworking Cologne und Betreiber des Coworking Spaces “Gasmotorenfabrik Köln e.V.”
   * Für Startups, Freelancer & verscheidene User Groups
   * Arbeit, Kreativität und Spaß an einem Ort
@@ -29,6 +54,7 @@ Railslove
   * Erste Kundenprojekte
 
 * Oktober 2010 Umwandlung in die Railslove GmbH
+  * Fokus: Agentur
   * Neuer Gesellschafter: Lars Brillert
   * Mehr Mitabeiter, neue Projekte ;)
 
@@ -36,38 +62,59 @@ Railslove
   * 16 feste Mitarbeiter
   * 4 Freiberufler
   * ca. 50 realisierte Projekte (Kundenprojekte und Eigenentwicklungen)
+  * Fokus geteilt: Agentur und SaaS
 
 !SLIDE
 
-# Seit 2010 ist Railslove eine Story von sechs FH Studenten
+# Seit 2010 ist Railslove eine Story von mehr als 3 FH Studenten
 
 * Erste Festanstellungen
-  * Stephan Pavlovic, Lars Brillert
+  * Komolitonen kannte man ja
 * Ab 2011 Erste Studentenjob's
-  * Salim
-  * David
-  * Dirk
-* [Screenshot Team]
+  * Durch Empfehlungen und Stephans arbeit an der FH
+* Heute
+  * 14 feste Mitarbeiter, 2 Freelancer, 2 Studenten
+  * Davon 3 Geschäftsführer, 1 Designer, 1 Business Development, 9 Programmierer
+  * 6 Alumis
+
+<!SLIDE full-page-image>
+
+![](railslove.jpg)
 
 !SLIDE
 
 # Unsere Kunden
 
 * 9flats GmbH (http://9flats.com)
+  * Buchungs-Übernachtungsportal - Neuentwicklung, Weiterentwicklung
+  * MySQL, Redis, Rails, Internationalisierung
 * payango GmbH (http://payangocard.de/)
+  * Pre-Paid-Kreditkartenportal
+  * Bankwesen, Kreditkartenbestellung, Rails, Redis, Mysql, NoSQL
 * Avocado Store GmbH http://avocadostore.de/)
+  * Store für Nachhaltige-Produkte
+  * Shopsystem, Diverse Bezahlmöglichkeiten
 * Studitemps GmbH (http://jobmensa.de)
-* HackFWD, Nexum GmbH (o2), Moviepilot, etc.
+  * Jobbörsenportal für Studenten
+  * Weiterentwicklung, Rails 2 - 3 Migration
+* http://railslove.com/work
 
 !SLIDE
 
 # Eigene Produkte
 
 * Salesking.com
+  * Rechnungswesenapplikation als Software as a Service Angebot
+  * Beteiligung bei der Sales King GmbH (zweitgrößter Anteilseigner)
 * Tipplr.de
+  * Customizable-B2B-Tippspiel
 * Dealbaseapp.com
+  * Dealflow Applikation im Venture Capitalists (VC's) Bereich
 * University
-* Hackerspursuit, Kölsch-Deckel, Open Source, usw.
+  * Schulungsprogramm für Firmen, Hochschulen und Privatanwender
+* Hackerspursuit, Kölsch-Deckel, SMURF, usw.
+  * Kleinere "Spass-Projekte"
+  * Opensource und in unserer Freizeit entwickelt
 
 !SLIDE
 
