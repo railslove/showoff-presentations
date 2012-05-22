@@ -3,12 +3,12 @@
 # Inhalt
 
 * Einführung
+  * Vorstellung Vortragende
+  * Vorstellung Railslove
 * Die Wege in die Wirtschaft
-* Rollen eines Informatikers
-
-# Ablauf
-* Mitmach-Veranstaltung
-
-# Was erzählen wir?
-* Kein Lehrbuchwissen
-* Was wir tagtäglich erleben
+* Die Rollen eines Informatikers
+  * Informatiker aus verschiedenen Blickwinkeln
+  * Biz - Produkt - Entwicklung
+* Die Work-Life-Balance eines Informatikers
+  * Effizient arbeiten
+  * Gesund leben
