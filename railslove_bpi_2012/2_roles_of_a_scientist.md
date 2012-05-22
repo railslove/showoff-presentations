@@ -4,54 +4,39 @@
 
 eines Informatikers
 
+<!SLIDE full-page-image>
+
+![](projektdiagramm.png)
+
 !SLIDE
 
 # Rollen
-* Systemarchitekt:
-  * Planung, Umsetzung und Wartung der Systeminfrastruktur
-* Entwickler
-  * Umsetzung (und Konzeption) einer Applikation
-* CTO
-  * Planung und Organisation des IT-Teams
-* Produkt
-  * Konzeption und Strategieentwicklung des Produkts
-* Business Developer
-  * Umsetzung der Unternehmensstrategie
 * Geschäftsführung (CEO)
   * Planung der Unternehmensstrategie
   * Schließen strategischer Partnerschaften
+* CTO & Projektmanager
+  * Planung und Organisation des IT-Teams
+* Entwickler
+  * Umsetzung (und Konzeption) einer Applikation
+* Produkt
+  * Konzeption und Strategieentwicklung des Produkts
+
 
 !SLIDE callout sk-red
 # Hands On III
+
+Rollen eines Informatikers
 
 !SLIDE chapter-opener
 
 Aufgabe: In welcher Rolle seht ihr euch
 
-Systemarchitekt
+Geschäftsführung
+
+CTO & Projektmanager
+
+Produktmanager
 
 Entwickler
 
-CTO
-
-Usability Engineer
-
-Produkt
-
-Business Developer
-
-Geschäftsführung (CEO)
-
-!SLIDE chapter-opener
-
-Aufgabe
-
-Stellt jeweils eine Frage zu einem paar an Kategorien und Subkategorien:
-
-Kategorie: .....
-
-Subkategorie: .....
-
-Gibt vielleicht eure E-Mail Adresse und Github-/Twitter-Handle an, dann werden wir die Fragen auch in das Spiel integrieren.
-
-10 Min. Bearbeitungszeit
+Architekt

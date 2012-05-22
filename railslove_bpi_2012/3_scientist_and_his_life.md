@@ -42,13 +42,17 @@ und sein Leben
 * Termine, Coden, Gespräche Nebenbei, Kickern, usw.
 * Alltag bei Railslove
 
+<!SLIDE full-page-image>
+
+![](arbeitsalltag.png)
+
 !SLIDE
 
 # Das Wissen erwerben
 
 * User groups besuchen
 * Find pairs online or in your local user group
-* Meet, Talk and teach 
+* Meet, Talk and teach
 
 !SLIDE
 
@@ -56,7 +60,7 @@ und sein Leben
 
 * We mostly work with our minds, but the mind is a part of the body
 * Conclusion: For the mind to work well, the body must be in good shape
-* Not treating the body right leads to a mortgage that has to be paid back 
+* Not treating the body right leads to a mortgage that has to be paid back
   * Vermide: Stressvolle Projekte und Stressvolle Kunden
   * Wenn mann möchte findet man auch andere Kunden
 * Burn out (auch im Studium)
@@ -69,7 +73,7 @@ und sein Leben
 !SLIDE
 
 * Obst essen
-* Schlafen 
+* Schlafen
   * Reguraly take a Nap, Red Bull WON'T HELP
 * Bewegung
   * 30 minutes of activity a day helps against: DEpression, Obesity, High blood presure

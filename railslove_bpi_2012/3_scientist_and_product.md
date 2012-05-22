@@ -20,12 +20,18 @@ im Produkt
 !SLIDE callout sk-red
 # Hands On V
 
+Informatiker im Produkt
+
 !SLIDE chapter-opener
 Aufgabe: Feature-Reihenfolge
 
-* Zur Wahl stehen (Beispiel):
+* Zur Wahl stehen:
   * Internationalisierung
-  * Mobile Client
+  * Cross-Devise
   * API
+  * Follower
+  * Integration von Twitter/Facebook
+  * Favorites
+  * Comments
 
 * Ziel: Sinnvolle Reihenfolge der Schritte festlegen und begründen

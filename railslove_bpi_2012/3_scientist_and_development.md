@@ -42,6 +42,8 @@ in der Webbranche
 !SLIDE callout sk-red
 # Hands On IV
 
+Informatiker als Entwickler
+
 !SLIDE chapter-opener
 Aufgabe: Datenmodell entwickeln
 

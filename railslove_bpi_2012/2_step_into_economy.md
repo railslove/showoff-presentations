@@ -21,6 +21,13 @@ in die Wirtschaft
 
 ist das nicht
 
+!SLIDE
+
+#Fragen
+
+* Wer von euch hat einen Studentenjob?
+* Wer davon im Informatikumfeld?
+* Wer besucht User groups (welche)?
 
 <!SLIDE full-page-image>
 
@@ -29,6 +36,10 @@ ist das nicht
 <!SLIDE full-page-image>
 
 ![](dreieck_step2.png)
+
+<!SLIDE full-page-image>
+
+![](dreieck_step3.png)
 
 
 !SLIDE callout sk-red
