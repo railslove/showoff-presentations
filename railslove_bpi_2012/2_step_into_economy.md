@@ -6,20 +6,27 @@ in die Wirtschaft
 
 !SLIDE
 
-# Wie gelange ich überhaupt in die Ökonomie
+# Wie gelange ich überhaupt in die Wirtschaft
 
-* Ich bin ja schon drin
-  * indem Einrichtungen genutzt werden die den eigenen Bedarfs Decken
-* Ich bin Konsument
-  * Käuflicher Erwerb zur eigenen privaten Bedürfnissbefriedigung
-* Produzent
-  * Ich produziere Güter die der eigenen privaten Bedürfnissbefriedigung dienen
+* Der Übergang nicht einfach
+  * wenig praktische Erfahrung
+  * nicht direkt klar wohin der Weg führt
+  * keine Kontakte
+* Den Übergang fliessend gestalten
+  * sich einen Studentenjob suchen
+  * auch vor dem Wechsel keine Angst haben - flexibel bleiben
+  * Events, Konferenzen, Meetups besuchen
+* Gründen, Freelancen oder Festanstelung
+  * seine Spezialisierung finden
+  * sich fragen: was kann ich gut
+  * und damit Geld verdienen!
+  * Gewerbeeröffnung kostet 30 Euro :)
 
 !SLIDE callout
 
-# So einfach
+# Wer hat von Euch schon 
 
-ist das nicht
+ein Unternehmen oder Gewerbe?
 
 !SLIDE
 
@@ -48,10 +55,9 @@ ist das nicht
 
 Events
 
-!SLIDE chapter-opener
+!SLIDE
 
-Aufgabe
+# Aufgabe
 
-Stellt Euch vor Ihr organisiert ein Event, dass die Uni an die Unternehmen näher bringen soll. Wie würdet Ihr es nennen? Wäre das eher eine Steh oder Sitzveranstaltung? Würdet Ihr Vorträge zulassen?
-
-10 Min. Bearbeitungszeit, Vorstellung und kurze Pause
+* Stellt Euch vor Ihr organisiert ein Event, dass die Uni an die Unternehmen näher bringen soll. Wie würdet Ihr es nennen? Wäre das eher eine Steh oder Sitzveranstaltung? Würdet Ihr Vorträge zulassen?
+* 10 Min. Bearbeitungszeit, Vorstellung und kurze Pause

@@ -27,16 +27,13 @@ eines Informatikers
 
 Rollen eines Informatikers
 
-!SLIDE chapter-opener
+!SLIDE
 
-Aufgabe: In welcher Rolle seht ihr euch
+# Aufgabe
 
-Geschäftsführung
-
-CTO & Projektmanager
-
-Produktmanager
-
-Entwickler
-
-Architekt
+* In welcher Rolle seht ihr euch
+  * Geschäftsführung
+  * CTO & Projektmanager
+  * Produktmanager
+  * Entwickler
+  * Architekt

@@ -120,10 +120,15 @@ Railslove
 
 # Kooperationen
 
-* MEDIEN.NRW
-* European Pirate Summit
-* DeskMag, DeskWanted
-* ...
+* MEDIEN.NRW (Öffentliche Institution)
+  * Organisation von Hackathons und Events
+
+<img src="/image//mediennrw.jpg" alt="" width="200px">
+
+* European Pirate Summit (Private Institution)
+  * Medienpartnerschaft
+
+<img src="/image//piratesummit.gif" alt="" width="200px">
 
 !SLIDE chapter-opener
 
@@ -141,16 +146,12 @@ Das alles natürlich mit kölschem Humor ;-)
 
 Lets play some Hackerspursuit http://hackerspursuit.com
 
-!SLIDE chapter-opener
+!SLIDE
 
-Aufgabe
-
-Stellt jeweils eine Frage zu einem paar an Kategorien und Subkategorien:
-
-Kategorie: .....
-
-Subkategorie: .....
-
-Gibt vielleicht eure E-Mail Adresse und Github-/Twitter-Handle an, dann werden wir die Fragen auch in das Spiel integrieren.
-
-10 Min. Bearbeitungszeit
+# Stellt jeweils eine Frage zu einem paar an Kategorien und Subkategorien:
+* Kategorien
+  * ["programming", "culture", "backend", "frontend", "design", "startup & founding", "social" ]
+* Subkategorien:
+  * ["algorithms", "api", "bash", "C", "couchdb","css", "culture", "data", "encoding", "flash", "graphics", "haskell", "html","http","javascript", "php", "python","rails","ruby","regex" ]
+* Gibt vielleicht eure E-Mail Adresse und Github-/Twitter-Handle an, dann werden wir die Fragen auch in das Spiel integrieren.
+* 10 Min. Bearbeitungszeit

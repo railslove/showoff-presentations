@@ -9,7 +9,8 @@ in der Webbranche
   * Systemarchitekt
   * Backend-Entwickler
   * Frontend-Entwickler
-* Arbeitsprinzip
+* Arbeitsprinzipien
+  * Agil arbeiten
   * Arbeiten in Stories
   * Schätzen von Aufwänden
   * Diskussion mit Produkt-Team über Featureentwicklung
@@ -44,8 +45,9 @@ in der Webbranche
 
 Informatiker als Entwickler
 
-!SLIDE chapter-opener
-Aufgabe: Datenmodell entwickeln
+!SLIDE
+
+# Aufgabe: Datenmodell entwickeln
 
 * Szenario: Instagramm
   * Welche Objekte gibt es in der Domäne

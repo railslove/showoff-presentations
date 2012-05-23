@@ -9,21 +9,47 @@ im Produkt
   * Produktmanager
   * Projektmanager
   * Designer
+* Arbeitsprinzipien
+  * In großen Zusammenhängen denken
+  * Markt analysieren
+  * Konkurrenz analysieren
 
 !SLIDE
 
 # Usability Engineer
 * Typische Aufgaben
   * Gestaltung einer durchgängigen User Experience
-* Schnittstelle
+* Schnittstelle zwischen Produkt und Frontend
+
+!SLIDE
+
+# Produktmanager
+* Typische Aufgaben
+  * Konzeption und Entwicklung neuer Features
+  * Begleitung dieser Features (Testing, Bugs, ....)  
+
+!SLIDE
+
+# Projektmanager
+* Typische Aufgaben
+  * Managen des Projektablaufs
+  Zufriedenstellen aller Beteiligten
+* Schnittstelle zwischen Geschäftsführung und Dev/Produkt-Team
+
+!SLIDE
+
+# Designer
+* Typische Aufgaben
+  * Gestaltung einer durchgängigen Layouts
 
 !SLIDE callout sk-red
 # Hands On V
 
 Informatiker im Produkt
 
-!SLIDE chapter-opener
-Aufgabe: Feature-Reihenfolge
+!SLIDE
+
+# Aufgabe: Feature-Reihenfolge
 
 * Zur Wahl stehen:
   * Internationalisierung
@@ -35,3 +61,4 @@ Aufgabe: Feature-Reihenfolge
   * Comments
 
 * Ziel: Sinnvolle Reihenfolge der Schritte festlegen und begründen
+* Bearbeitungszeit 10 Minuten
