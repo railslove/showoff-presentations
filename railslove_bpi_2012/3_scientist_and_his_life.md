@@ -61,30 +61,100 @@ und sein Leben
 
 !SLIDE
 
-# Having a working body is important
+# Einen funktionierenden Körper zu haben ist wichtig
 
-* We mostly work with our minds, but the mind is a part of the body
-* Conclusion: For the mind to work well, the body must be in good shape
+* Wir arbeiten mit unserem Kopf - der ist aber ein Teil unseres Körpers
+* Schlussfolgerung: Damit unser Kopf gut funktioniert muss der Körper auch im guten Zustand sein
   * Vermide: Stressvolle Projekte und Stressvolle Kunden
 * Burn out (auch im Studium)
   * Ist ein Blocker
 
-!SLIDE full-page-image
+!SLIDE
 
-<img src="recover.jpeg" alt="RECOVER! (CC BY-NC-ND by drewleavy @ flickr)" height="100%" />
+* Viel Obst essen
+  * in ~25 von 50 Krankheiten kann ein Apfel einer Krankheit entgegenwirken
+* Regulär Schlafen
+  * mach regelmässig ein Mittagsschläfchen
+  * Red Bull hilft nicht
+* Bewegung
+  * 30 Minuten Aktivität am Tag hilft gegen: Depression, Übergewichtigkeit, und zu hohem Bluddruck
+* Sich richtig ernähren
+  * Die Ernährung ist sehr wichtig
+  * Wenn Du Gewicht verlieren möchtest - geh dies langsam an
+* Such Dir ein Hobby
+  * etwas wo Du richtig entspannen kannst
+  * lass Dich bei Tieren insperieren
+  * Sport etc.
+
+!SLIDE callout
+
+Roundup
 
 !SLIDE
 
-* Obst essen
-  * in about ~25 from 50 diseases an apple can prevent from being sick
-* Schlafen
-  * Reguraly take a Nap, Red Bull WON'T HELP
-* Bewegung
-  * 30 minutes of activity a day helps against: DEpression, Obesity, High blood presure
-* Eat right: You're diet is important
-* If you want to lose weight do it slowly
-* Get a hobby and Be inspired by other arts
+# Roundup I
 
-!SLIDE full-page-image
+* Heute haben wir ein paar Rollen eines Informatikers aufgezeigt
+  * Geschäftsführung
+  * Projektmanager, CTO
+  * Entwickler
+  * Produtkmanager
+  * Architekt
+* Wir haben vertieft die Rolle des Geschäftsführers besprochen
+  * Wann und wie eine Gründung erfolgen sollte
+  * Wie man den pragmatische Weg gehen
+  * Ideen sind nur dann wertvoll wenn sie realisiert werden
 
-<img src="apple.jpeg" alt="A LOC a day keeps the doctor away" height="100%" />
+!SLIDE
+
+# Roundup II
+
+* Wir haben vertieft die Rolle des Informatikers in der Entwicklung angesprochen
+  * Typische Aufgaben
+  * Systemarchitekt
+  * Frontend-Entwicklung 
+  * Backend-Entwicklung
+* Weiterhin die Rolle des Produktmanagers und seines Teams vorgestellt
+  * Arbeitsprinzipien
+  * Usability engineer
+  * Produktmanager, Projektmanager
+  * Designer
+
+!SLIDE
+
+# Roundup III
+
+* Zusätzliche Ratschläge und Tipps zum Effizienten und gesunden Arbeitsleben aufgezeigt
+  * Einsetzen von verschiedenen Tools
+  * Gesunde Ernärung
+  * Genügend Schlaf
+  * und viel Bewegung
+
+!SLIDE callout
+
+Ressourcen
+
+!SLIDE
+
+# Ressourcen
+
+* http://www.startuplessonslearned.com/2009/03/minimum-viable-product.html
+* Execution Link
+* Der Weg zum erfolgreichen Unternehmer
+* Getting Real
+* Artikel "Verplant"
+* Paperwork
+* Prag-Prog-Bücher
+* Manage IT
+
+!SLIDE callout
+
+Events im Juni
+
+!SLIDE
+
+# Anstehende Events
+
+* ..........
+* ..........
+* ..........

@@ -152,6 +152,69 @@ Lets play some Hackerspursuit http://hackerspursuit.com
 * Kategorien
   * ["programming", "culture", "backend", "frontend", "design", "startup & founding", "social" ]
 * Subkategorien:
-  * ["algorithms", "api", "bash", "C", "couchdb","css", "culture", "data", "encoding", "flash", "graphics", "haskell", "html","http","javascript", "php", "python","rails","ruby","regex" ]
+  * ["algorithms", "api", "bash", "C", "couchdb","css", "culture", "data", "encoding", "flash", "graphics", "haskell", "html","http","javascript", "php", "python","rails","ruby","regex", "modelling",  "databases", "assembler", "general"]
 * Gibt vielleicht eure E-Mail Adresse und Github-/Twitter-Handle an, dann werden wir die Fragen auch in das Spiel integrieren.
 * 10 Min. Bearbeitungszeit
+
+!SLIDE
+
+# Eure Fragen I
+
+* Welches Element gibt es nicht beim DFD (Datenflussdiagramm, Programming/modelling)?
+  * Speicher
+  * Funktion
+  * Datenfluss
+  * Benutzer (x)
+* Was darf ein Trigger nicht enthalten (Programming/Databases)?
+  * Insert
+  * Select
+  * Update
+  * Commit (x)
+
+!SLIDE
+
+# Eure Fragen II
+
+* Was ist ein XOR-Befehl in Assembler (Programming/assembler)?
+  * Eine Exclusiv-ODER Verknüpfung von Registern
+  * Ein Wildcard-ODER-Befehl
+  * ?
+  * ?
+
+* Was ist eine abstrakte Klasse (Programming/General)?
+  * ?
+  * ?
+  * ?
+  * ?
+
+!SLIDE 
+
+# Eure Fragen III
+  
+* Was ist ein socket (Programming/General)?
+  * ?
+  * ?
+  * ?
+  * ?
+
+* Unterschiede zwischen equals und == in Java (Backend/Java)?
+  * ?
+  * ?
+  * ?
+  * ?
+
+!SLIDE 
+
+# Eure Fragen IV
+ 
+* Was ist eine objektorientierte Sprache (Programming/General)? 
+  * ?
+  * ?
+  * ?
+  * ?
+
+* Wie kann man einen Float beenden?
+  * clear (x)
+  * margin
+  * padding
+  * nie

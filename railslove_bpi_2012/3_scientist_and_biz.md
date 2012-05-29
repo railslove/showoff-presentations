@@ -72,4 +72,4 @@ Explanation:
 * Fang an! Ideas are just a multiplier of execution
 * Arbeite, Stelle Rechnungen
 * Verkaufe: Du brauchst noch keine Steuernummer, keine Verträge, keinen Anwalt
-* MVP - Minimum Viable Product http://www.startuplessonslearned.com/2009/03/minimum-viable-product.html
+* MVP - Minimum Viable Product
