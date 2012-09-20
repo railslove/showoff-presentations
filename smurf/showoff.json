@@ -1,0 +1,13 @@
+//{ "name": "My Preso", "sections": [ {"section":"uxcgn"} ]}
+
+{
+  "name": "SMURF",
+  "sections": [
+    "arrrrcamp/intro.md",
+    "arrrrcamp/problem.md",
+    {"section": "arrrrcamp/solution"},
+    "arrrrcamp/closing.md"
+  ]
+}
+
+
