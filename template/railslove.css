@@ -148,6 +148,9 @@ p, li {
   margin-top: 126px !important;
 }
 
+
+/*
+the speech-triangle didn't show at the right place for me [Jakob 2012-09-20]
 #preso .slide.callout .content:after {
     border-left: 20px solid transparent;
     border-right: 20px solid transparent;
@@ -159,7 +162,7 @@ p, li {
     left: 670px;
     position: relative;
     width: 0;
-}
+}*/
 
 #preso .slide.callout .content h1 {
   text-align: left;
