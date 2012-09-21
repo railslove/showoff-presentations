@@ -67,7 +67,7 @@ Add the following style to the slide: auto-advance-xxxx where xxxx is number of 
 
 # How to deploy to heroku
 
-In order for your showoff presentation to run on heroku, you need to add a `Gemfile` (+ `Gemfile.lock`) and a `config.ru` to your presentation directory.
+In order for your showoff presentation to run on heroku, you need to add a `Gemfile` (+ `Gemfile.lock`) and a `config.ru` to your presentation directory.  You can copy those files from the `smurf/` directory.
 
 Since you only want(need) to deploy only one presenation into one heroku app, you will need to copy the files into a different folder outside the `showoff-presentation` repo.
 
