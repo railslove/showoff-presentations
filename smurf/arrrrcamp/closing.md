@@ -12,7 +12,7 @@
 # More information #
 
 * SMURF wiki [http://github.com/railslove/smurfville/wiki](http://github.com/railslove/smurfville/wiki)
-* Smurfvill gem [http://github.com/railslove/smurfville](http://github.com/railslove/smurfville)
+* Smurfville gem [http://github.com/railslove/smurfville](http://github.com/railslove/smurfville)
 
 !SLIDE callout
 

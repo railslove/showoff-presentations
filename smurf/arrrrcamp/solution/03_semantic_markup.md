@@ -8,7 +8,7 @@
 # The "Semantic" markup myth #
 
 * The myth goes as follows:
-* Don't use many classe, just use the "correct" "semantic" HTML markup and everything will be awesome
+* Don't use many classes, just use the "correct" "semantic" HTML markup and everything will be awesome
 * And you can nicely reuse that structure for our CSS
 
 !SLIDE
