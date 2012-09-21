@@ -49,7 +49,7 @@
       border-width: 2px
       border-color: red
 
-      .m-box-header
+      .m-box--header
         font-size: 30px
 
 !SLIDE bullets incremental
