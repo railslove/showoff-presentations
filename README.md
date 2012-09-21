@@ -64,3 +64,19 @@ Works best in Safari.
 
 Add the following style to the slide: auto-advance-xxxx where xxxx is number of milliseconds to wait before automatically moving to the next slide
 
+
+# How to deploy to heroku
+
+In order for your showoff presentation to run on heroku, you need to add a `Gemfile` (+ `Gemfile.lock`) and a `config.ru` to your presentation directory.
+
+Since you only want(need) to deploy only one presenation into one heroku app, you will need to copy the files into a different folder outside the `showoff-presentation` repo.
+
+    cd ..
+    mkdir smurf
+    cp -vRLf showoff-presentations/smurf ./
+    git init .
+    git commit -m "something"
+    heroku apps:create smurf --stack cedar
+    git push heroku master
+
+It's important that you use the `-L` switch when copying the files.  This makes sure that the symbolic links to the template assets are resolved.
