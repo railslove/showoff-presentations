@@ -1,3 +1,26 @@
+/*  use this to make your slides work offline
+@font-face {
+  font-family: "VAG Rounded W01 Bold";
+  src: url('vagroundedstd-bold-webfont.eot');
+  src: url('vagroundedstd-bold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('vagroundedstd-bold-webfont.woff') format('woff'),
+       url('vagroundedstd-bold-webfont.ttf') format('truetype'),
+       url('vagroundedstd-bold-webfont.svg#vag_rounded_std_lightbold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'VAG Rounded W01 Light';
+  src: url('vagroundedstd-light-webfont.eot');
+  src: url('vagroundedstd-light-webfont.eot?#iefix') format('embedded-opentype'),
+       url('vagroundedstd-light-webfont.woff') format('woff'),
+       url('vagroundedstd-light-webfont.ttf') format('truetype'),
+       url('vagroundedstd-light-webfont.svg#vag_rounded_std_lightregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}*/
+
+
 #preso .slide.callout.wroclove {
   background-color: #97C7BA;
 }
