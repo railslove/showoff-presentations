@@ -11,15 +11,15 @@
 
 !SLIDE bullets incremental
 
-# What are SMURF modules made of? #
+# What is SMURF CSS comprised of? #
 
 * modules
-* module components
-* modifiers
-* states
+* - module components
+* - modifiers
+* - states
 * submodules
 
-!SLIDE
+!SLIDE module_code
 
 # SMURF module #
 
@@ -27,19 +27,30 @@
     .m-box  /* module */
       border: 1px solid black
 
+      &.centered /* modifier */
+        text-align: center
+
+      &.is-disabled /* state */
+        border-color: grey
+
       .m-box--header /* module component */
         font-weight: bold
 
       .m-box--body /* module component */
         padding: 10px
 
-      .centered /* modifier */
-        text-align: center
+HTML:
 
-      .is-disabled /* state */
-        border-color: grey
+    @@@ HTML
+    <div class="m-box centered is-disabled">
+      <div class="m-box--header">TITLE</div>
+      <div class="m-box--body">
+        Content
+      </div>
+    </div>
 
-!SLIDE
+
+!SLIDE module_code
 
 # SMURF submodule #
 
@@ -51,11 +62,26 @@
 
       .m-box--header
         font-size: 30px
+        
+HTML:
+
+    @@@ HTML
+    <div class="m-box_attention centered is-disabled">
+      <div class="m-box--header">TITLE</div>
+      <div class="m-box--body">
+        Content
+      </div>
+    </div> 
 
 !SLIDE bullets incremental
 
-# Features of a SMURF module #
+# What makes a good SMURF module? #
 
-* Context-independent
+* Context-independent (e.g. flexible width)
 * Generic
+* Reusable
 * Single-responsibilty
+
+* [https://github.com/railslove/smurfville/wiki](https://github.com/raislove/smurfville/wiki)
+
+.notes -> SOLID

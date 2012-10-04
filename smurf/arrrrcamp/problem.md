@@ -1,84 +1,67 @@
 !SLIDE callout
 
-THE Problem
+What problem is SMURF trying to solve?
+
+
+!SLIDE callout
+
+Today we have CSS3, Sass, Compass, Sprockets, ...
+
+.notes By the way, I assume some basic knowledge of these tools for this talk.  For example I use Sass for my CSS code examples.  If you don't know these tools you HAVE TO check them out.
 
 
 
 !SLIDE callout
 
-Today we have CSS3, Sass, Compass, Sprockets, BUT ...
+BUT ...
+
 
 
 !SLIDE callout
 
 Frontend code still sucks!
 
+:-(
+
 
 
 !SLIDE incremental
 
-# But, why does it suck? #
+# But, what's wrong with our codez? :-( #
 
-* **it's inconsistent**
-* -> file structure
-* -> naming
-* -> user interface
+* **inconsistent**
 
 * **tight coupling (HTML-CSS-JS)**
 
 * **no single-responsibility**
 
-* **unclear applicability/scope**
+* **unclear scope/applicability**
+
+
+!SLIDE callout
+
+AND ...
+
+
+!SLIDE callout
+
+It's not only the code that sucks in the frontend
 
 
 
-<!-- !SLIDE incremental
+!SLIDE bullets incremental
 
-# Does it always suck? #
+# Design process is unsustainable #
 
-* yes
+* "page mentality" - focus on the feature, not on the application
+* difficult communication between designers and developers:<br /> &nbps; design vs. data
+* ____________
+* **=> bigger frontend projects quickly gravitate towards a state of a big inconsistent & unmaintainable mess**
 
-* worst for LARGE applications
-
-
-.notes the application doesn't even have to be old -->
-
+.notes You get to a state where you can either continue doing what you are doing, or rewrite the COMPLETE frontend
 
 
 
 !SLIDE callout
 
-But, it's not only the code that sucks
-
-
-
-!SLIDE bullets incremental
-
-# Page mentality #
-
-* Problem: web build websites with a "page mentality"
-* we focus on the feature, not on the application
-* this is great for productivity, but bad for consistency
-
-
-.notes by @snookca (Jonathan Snook)  //  @roy printing
-
-
-!SLIDE bullets incremental
-
-# Designers vs. developers #
-
-* disconnect between designers and developers
-* form vs. content
-* problem of understanding
-* problem of language (naming, communication artifacts)
-
-
-!SLIDE bullets incremental
-
-# Aaand ... #
-
-* On a large scale all of this creates 2 major problems:
-* (especially for larger application)
-* **Inconsistent UI for users**
-* **Unmaintainable Code**
+BUT let's first focus on the code

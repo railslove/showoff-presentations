@@ -1,5 +1,15 @@
 //{ "name": "My Preso", "sections": [ {"section":"uxcgn"} ]}
 
+// {
+//   "name": "SMURF",
+//   "sections": [
+//     "colognerb/intro.md",
+//     "colognerb/problem.md",
+//     {"section": "colognerb/solution"},
+//     "colognerb/closing.md"
+//   ]
+// }
+
 {
   "name": "SMURF",
   "sections": [

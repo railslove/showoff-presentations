@@ -5,22 +5,16 @@
 
 !SLIDE bullets incremental
 
-# What is the cascade? #
+# What do I mean by that? #
 
-
-* **Cascading** applicability is obviously a key feature of CSS
-* It allows selectors to apply to a large part of a document
+* **Cascading** applicability
+* -> obviously a key feature of CSS
+* -> allows selectors to apply to a large part of a document
 * Example:
-
-
-!SLIDE
-
-# Cascading applicability: #
-
-    @@@ CSS
-    #sidebar a
-
-applies to **all** links in the sidebar
+<li>
+  <pre class="sh_css sh_sourceCode"><code><span class="sh_selector">#main</span><span class="sh_symbol">-</span>container p</code></pre>
+</li>
+* applies to **all** paragraphs within the #main-container
 
 
 
@@ -28,45 +22,43 @@ applies to **all** links in the sidebar
 
 # Cascading applicability: #
 
-* Can enable pretty elegant things
+    @@@ CSS
+    #main-container p
+
+* Can enable pretty elegant things with very little code
 * BUT
-* Also source of much uncertainty and complexity
-* Can easily become a performance problem
-* In other words:
-* _"Hidden pro-feature, that everybody uses to shoot themselves in the foot"_
-* => We need some safe guards
+* Also has a lot of negative side effects:
+  - -> Increased complexity
+  - -> Uncertainty about source of styles
+  - -> Can lead to performance problems
+* _____________________________
+* => We need some safe guards!
+* (Especially for larger team projects)
 
 
 
-!SLIDE
+!SLIDE bullets incremental
 
-# Examples #
+# Example: Controlling appicability and writing modular CSS #
 
-
-Very bad:
-
-    @@@ CSS
-    #sidebar a
-
-
-Better:
-
-    @@@ CSS
-    .sidebar > a
-
-
-Even better:
-
-    @@@ CSS
-    .sidebar .link
-
-
-Ultimum modularity:
-
-    @@@ CSS
-    .sidebar .sidebar-link
-
-
+<ul>
+  <li>
+    Very, very bad:
+    <pre class="sh_css sh_sourceCode"><code><span class="sh_selector">#main</span><span class="sh_symbol">-</span>container a</code></pre>
+  </li>
+  <li>
+    Little better, but with tight coupling:
+    <pre class="sh_css sh_sourceCode"><code><span class="sh_selector">#main</span><span class="sh_symbol">-</span>container <span class="sh_symbol">&gt;</span> a</code></pre>
+  </li>
+  <li>
+    Decent:
+    <pre class="sh_css sh_sourceCode"><code><span class="sh_selector">.main</span><span class="sh_symbol">-</span>container <span class="sh_selector">.link</span></code></pre>
+  </li>
+  <li>
+    Ultimum modularity:
+    <pre class="sh_css sh_sourceCode"><code><span class="sh_selector">.main</span><span class="sh_symbol">-</span>container <span class="sh_selector">.main</span><span class="sh_symbol">-</span>container<span class="sh_symbol">--</span>link</code></pre>
+  </li>
+</ul>
 
 .notes Who can tell me what the problem is in this (the first) example?
 

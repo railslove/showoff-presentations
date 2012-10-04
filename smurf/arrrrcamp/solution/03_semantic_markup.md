@@ -1,19 +1,30 @@
 !SLIDE callout
 
-2) The "semantic" markup myth
+2) Get beyond the "semantic" markup myth!
 
 
 !SLIDE bullets incremental
 
 # The "Semantic" markup myth #
 
-* The myth goes as follows:
-* Don't use many classes, just use the "correct" "semantic" HTML markup and everything will be awesome
-* And you can nicely reuse that structure for our CSS
+* Use all the **correct**, **"semantic"** **HTML5** elements and everything will be awesome!
+
+
+!SLIDE bullets incremental
+
+# What's wrong with semantic markup? #
+
+* There is nothing __"wrong"__
+* But, it's generally overrated
+* And, definitely not **THE** solution for everything
+* Especially not when it comes to CSS
+
 
 !SLIDE
 
-# "Semantic" markup & CSS #
+# Example: I want to style my section titles #
+
+HTML:
 
     @@@ html
     <article>
@@ -22,7 +33,7 @@
       </section>
     </article>
 
--
+Sass:
 
     @@@ css
     article
@@ -36,16 +47,30 @@
 
 !SLIDE bullets incremental
 
-# Problems #
+# Problems with using "semantic" elements for styling #
 
-* **1) "Semantic" markup is overrated**
-* Who really "reads"/"understands" this stuff?
-* It can be a means to and end sometimes
-* But it's never an end in itself
-* **2) Creates tight coupling between HTML & CSS**
-* **3) Too limited for real design**
-* => we still need classes
-
-.notes Also bad for CSS performance
+* No separation of concerns between structure and style
+* Tight coupling between CSS and specific markup<br /><br />
+* Element selectors (<code>... h3</code>):
+  - -> Possible performance problems
+  - -> Unclear applicability (see next advice)
 
 
+!SLIDE
+
+# The modular way #
+
+HTML:
+
+    @@@ html
+    <article>
+      <section class="m-section">
+        <h3 class="m-section--title">Title</h3>
+      </section>
+    </article>
+
+Sass:
+
+    @@@ css
+    .m-section--title
+      font-weight: bold
