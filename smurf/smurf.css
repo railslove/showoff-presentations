@@ -1,0 +1,12 @@
+#preso .slide .content h1 {
+  font-size: 30px !important;
+}
+
+#preso .slide.full-page-image .content p .title {
+  font-size: 32px !important;
+}
+
+.content.module_code {
+  position: relative;
+  top: -120px;
+}

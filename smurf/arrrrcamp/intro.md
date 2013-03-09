@@ -1,8 +1,3 @@
-!SLIDE full-page-image
-
-![](startslide.png)
-
-
 !SLIDE callout
 
 # SMURF #
