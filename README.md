@@ -18,35 +18,35 @@ run `showoff serve`
 Defaults:
 
 * **Bullet list** default layout when composing a list.  
-  [<img src="showoff-presentations/raw/master/template/readme-images/bulletpoints.png" width="200">](showoff-presentations/raw/master/template/readme-images/bulletpoints.png)
+  [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/bulletpoints.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/bulletpoints.png)
 * **Title and Text** default layout when content has a title and text  
-  [<img src="showoff-presentations/raw/master/template/readme-images/title-text.png" width="200">](showoff-presentations/raw/master/template/readme-images/title-text.png)
+  [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/title-text.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/title-text.png)
 
 You can assign each slide a different style and style combinations.  
 Available styles are:
 
 * **opener** First slide with Raillove logo (any content is hidden)  
-  [<img src="showoff-presentations/raw/master/template/readme-images/opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/opener.png)
+  [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/opener.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/opener.png)
 * **Agenda** special layout when composing a list. *It is recommended for this layout not to use a header, just use normal text as the title*  
-  [<img src="showoff-presentations/raw/master/template/readme-images/agenda.png" width="200">](showoff-presentations/raw/master/template/readme-images/agenda.png)
+  [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/agenda.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/agenda.png)
 * **callout** shows a callout/bubble  
   You can include one title (#) and one line of text. It can fit up to 3 lines of wrapped text  
-  [<img src="showoff-presentations/raw/master/template/readme-images/callout-green.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-green.png)
+  [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-green.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-green.png)
   * **logo** combined with callout, the railslove logo is added below the callout  
-    [<img src="showoff-presentations/raw/master/template/readme-images/callout-logo.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-logo.png)
+    [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-logo.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-logo.png)
   * supported background colors: (combined with callout)
       * **green** (default)  
-        [<img src="showoff-presentations/raw/master/template/readme-images/callout-green.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-green.png)
+        [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-green.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-green.png)
       * **cyan**  
-        [<img src="showoff-presentations/raw/master/template/readme-images/callout-cyan.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-cyan.png)
+        [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-cyan.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-cyan.png)
       * **lila**  
-        [<img src="showoff-presentations/raw/master/template/readme-images/callout-lila.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-lila.png)
+        [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-lila.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-lila.png)
       * **orange** *(sample below includes logo too)*  
-        [<img src="showoff-presentations/raw/master/template/readme-images/callout-orange-logo.png" width="200">](showoff-presentations/raw/master/template/readme-images/callout-orange-logo.png)
+        [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-orange-logo.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/callout-orange-logo.png)
 * **chapter-opener** green background with white text in the middle  
-  [<img src="showoff-presentations/raw/master/template/readme-images/chapter-opener.png" width="200">](showoff-presentations/raw/master/template/readme-images/chapter-opener.png)
+  [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/chapter-opener.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/chapter-opener.png)
 * **full-page-image** single image with caption automatically take from the image's alt attribute  
-  [<img src="showoff-presentations/raw/master/template/readme-images/full-page-image.png" width="200">](showoff-presentations/raw/master/template/readme-images/full-page-image.png)
+  [<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/full-page-image.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/full-page-image.png)
 * **vertically-centered** Vertically centers the content of the slide overriding the default 120px top margin
 * **style=margin-top:300px** adds custom css to the content of the slide, in this sample it adds a 300px top margin which overrides the default 120px
 
@@ -58,7 +58,7 @@ Works best in Safari.
 1. Press Alt + P, this will break the presentation and display all the slides in one page  
 2. Print the page (Cmd + P), select landscape layout and check the *print backgrounds* option and uncheck the *print headers and footers* option.  
 3. Print to actual paper or save as PDF ;)  
-[<img src="showoff-presentations/raw/master/template/readme-images/safari-print.png" width="200">](showoff-presentations/raw/master/template/readme-images/safari-print.png)
+[<img src="https://raw.github.com/railslove/showoff-presentations/master/template/readme-images/safari-print.png" width="200">](//raw.github.com/railslove/showoff-presentations/master/template/readme-images/safari-print.png)
 
 ### How to set a timer on a slide that automatically moves to the next slide
 
